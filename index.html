@@ -3,369 +3,545 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>E-Portfolio &mdash; Iman Abadi</title>
-  <meta name="description" content="Academic e-portfolio showcasing coursework across Semester II and Semester III." />
+  <title>Iman Abadi &mdash; E-Portfolio</title>
+  <meta name="description" content="Iman Abadi bin Mohd Nizwan — Computer Science (Data Engineering) student at UTM. Projects, certifications and industry talk reflections." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/style.css" />
 </head>
 <body>
 
+<!-- ========== NAV ========== -->
 <header class="topnav">
   <div class="container">
-    <span class="brand">E-PORTFOLIO</span>
+    <a class="brand" href="#top">
+      <span class="brand-mark">I</span>
+      <span>Iman Abadi</span>
+    </a>
     <nav>
-      <a href="#profile">Profile</a>
-      <a href="#sem2">Semester II</a>
-      <a href="#sem3">Semester III</a>
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#projects">Projects</a>
+      <a href="#talks">Industry Talks</a>
+      <a href="#contact">Contact</a>
     </nav>
+    <a class="btn" href="https://github.com/imn353/eportfolio" target="_blank" rel="noopener">
+      GitHub
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7"/><path d="M8 7h9v9"/></svg>
+    </a>
   </div>
 </header>
 
-<section class="hero">
+<!-- ========== HERO ========== -->
+<section id="top" class="hero">
   <div class="container">
-    <h1>Iman Abadi &mdash; E-Portfolio</h1>
-    <p class="headline">A collection of coursework, projects, and reflections from Semester II and Semester III.</p>
-    <div class="cta">
-      <a href="#profile">View profile</a>
-      <a href="#sem2">Browse projects</a>
-      <a href="https://github.com/imn353/eportfolio" target="_blank" rel="noopener">Source on GitHub</a>
+    <div class="hero-grid">
+      <div>
+        <h1>Hello, I'm <b>Iman&nbsp;Abadi</b>. A <b>Data&nbsp;Engineering</b> student based in <b>Malaysia</b>.</h1>
+        <p class="lead">A Bachelor of Computer Science (Data Engineering) student at Universiti Teknologi Malaysia with hands-on experience in Python, SQL, Power BI and Microsoft Azure cloud services. Currently looking for a 10-month internship to apply data-driven solutions to real-world challenges.</p>
+        <div class="icon-row" style="margin-bottom:8px;">
+          <a class="icon-btn" href="https://github.com/imn353" target="_blank" rel="noopener" aria-label="GitHub">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.9.58.11.79-.25.79-.56 0-.27-.01-1-.02-1.95-3.2.7-3.87-1.54-3.87-1.54-.52-1.33-1.28-1.69-1.28-1.69-1.05-.72.08-.71.08-.71 1.16.08 1.77 1.19 1.77 1.19 1.03 1.77 2.7 1.26 3.36.96.1-.75.4-1.26.73-1.55-2.55-.29-5.24-1.28-5.24-5.69 0-1.26.45-2.29 1.18-3.1-.12-.29-.51-1.46.11-3.05 0 0 .97-.31 3.18 1.18.92-.26 1.91-.39 2.89-.39.98 0 1.97.13 2.89.39 2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.18 1.84 1.18 3.1 0 4.42-2.7 5.39-5.27 5.68.41.36.78 1.06.78 2.14 0 1.55-.01 2.8-.01 3.18 0 .31.21.68.79.56C20.21 21.38 23.5 17.08 23.5 12 23.5 5.65 18.35.5 12 .5z"/></svg>
+          </a>
+          <a class="icon-btn" href="https://www.linkedin.com/in/imanabadi" target="_blank" rel="noopener" aria-label="LinkedIn">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14C2.24 0 0 2.24 0 5v14c0 2.76 2.24 5 5 5h14c2.76 0 5-2.24 5-5V5c0-2.76-2.24-5-5-5zM8 19H5V8h3v11zM6.5 6.73a1.78 1.78 0 110-3.56 1.78 1.78 0 010 3.56zM20 19h-3v-5.6c0-3.37-4-3.12-4 0V19h-3V8h3v1.77c1.4-2.59 7-2.78 7 2.48V19z"/></svg>
+          </a>
+          <a class="icon-btn" href="mailto:imanabadi353@gmail.com" aria-label="Email">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 7 9-7"/></svg>
+          </a>
+          <a class="icon-btn" href="https://www.credly.com/users/iman-abadi-bin-mohd-nizwan" target="_blank" rel="noopener" aria-label="Credly">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="9" r="5"/><path d="M9 13.5L7 21l5-3 5 3-2-7.5"/></svg>
+          </a>
+        </div>
+      </div>
+
+      <div class="hero-illustration" aria-hidden="true">
+        <!-- Abstract composition: "data stack" — bars, nodes, flow line -->
+        <svg viewBox="0 0 400 320" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <pattern id="dots" x="0" y="0" width="14" height="14" patternUnits="userSpaceOnUse">
+              <circle cx="2" cy="2" r="1.4" fill="#0e0e0e" opacity="0.18"/>
+            </pattern>
+          </defs>
+
+          <!-- background dot grid -->
+          <rect x="20" y="20" width="360" height="280" fill="url(#dots)"/>
+
+          <!-- yellow blob behind composition -->
+          <circle cx="290" cy="90" r="64" fill="#FFD84D"/>
+
+          <!-- bar chart (varying heights, one is yellow) -->
+          <g fill="#0e0e0e">
+            <rect x="40"  y="220" width="36" height="60" rx="4"/>
+            <rect x="86"  y="186" width="36" height="94" rx="4"/>
+            <rect x="132" y="160" width="36" height="120" rx="4"/>
+            <rect x="178" y="120" width="36" height="160" rx="4" fill="#FFD84D" stroke="#0e0e0e" stroke-width="2"/>
+            <rect x="224" y="180" width="36" height="100" rx="4"/>
+          </g>
+
+          <!-- baseline -->
+          <line x1="32" y1="282" x2="270" y2="282" stroke="#0e0e0e" stroke-width="2" stroke-linecap="round"/>
+
+          <!-- floating data nodes connected by line, top-right -->
+          <g stroke="#0e0e0e" stroke-width="2" fill="#fff">
+            <line x1="280" y1="60"  x2="318" y2="98"  stroke-width="1.6"/>
+            <line x1="318" y1="98"  x2="360" y2="64"  stroke-width="1.6"/>
+            <line x1="318" y1="98"  x2="332" y2="146" stroke-width="1.6"/>
+            <circle cx="280" cy="60"  r="9"/>
+            <circle cx="360" cy="64"  r="7"/>
+            <circle cx="332" cy="146" r="7"/>
+            <circle cx="318" cy="98"  r="11" fill="#0e0e0e"/>
+          </g>
+
+          <!-- flowing wave under bars -->
+          <path d="M40 296 Q 90 286 140 296 T 240 296 T 340 296"
+                stroke="#0e0e0e" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.5"/>
+
+          <!-- small accent squiggle top-left -->
+          <path d="M40 58 q 14 -10 28 0 t 28 0"
+                stroke="#FFD84D" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+          <!-- accent dots -->
+          <circle cx="56" cy="120" r="3" fill="#0e0e0e"/>
+          <circle cx="68" cy="138" r="2" fill="#0e0e0e"/>
+        </svg>
+      </div>
     </div>
   </div>
 </section>
 
-<!-- ============ PROFILE (placeholder) ============ -->
-<section id="profile">
+<!-- ========== ABOUT ========== -->
+<section id="about">
   <div class="container">
-    <h2 class="section-title">Profile</h2>
-    <p class="section-subtitle">This section is intentionally left as a placeholder and will be completed later.</p>
+    <span class="eyebrow">Profile</span>
+    <h2 class="section-heading">About <strong>Me</strong></h2>
 
-    <div class="profile-card">
-      <div class="profile-avatar">[ photo ]</div>
-      <div class="profile-body">
-        <p><strong>Name:</strong> <em>placeholder</em></p>
-        <p><strong>Headline:</strong> <em>placeholder &mdash; e.g. Computer Science undergraduate at UTM</em></p>
-        <p><strong>Summary:</strong> <em>placeholder &mdash; short paragraph about background, interests and goals</em></p>
-        <ul class="profile-todo">
-          <li>Add profile picture</li>
-          <li>Add headline &amp; summary</li>
-          <li>Add education, position and skills</li>
-          <li>Add LinkedIn link, certificates, honors &amp; awards</li>
-          <li>Add contact details</li>
-        </ul>
+    <div class="about-grid">
+      <div class="about-illustration" aria-hidden="true">
+        <!-- Abstract composition: "modular build" — stacked shapes, monogram, orbital lines -->
+        <svg viewBox="0 0 260 360" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <pattern id="dots2" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse">
+              <circle cx="2" cy="2" r="1.2" fill="#0e0e0e" opacity="0.16"/>
+            </pattern>
+          </defs>
+
+          <!-- dot grid background -->
+          <rect x="10" y="10" width="240" height="340" fill="url(#dots2)"/>
+
+          <!-- orbital ring (dashed) -->
+          <ellipse cx="130" cy="180" rx="110" ry="110"
+                   fill="none" stroke="#0e0e0e" stroke-width="1.6"
+                   stroke-dasharray="2 6" opacity="0.45"/>
+
+          <!-- big yellow disc behind monogram -->
+          <circle cx="130" cy="180" r="78" fill="#FFD84D"/>
+
+          <!-- big "I" monogram (geometric, not literal handwriting) -->
+          <g fill="#0e0e0e">
+            <rect x="98"  y="120" width="64" height="14" rx="3"/>
+            <rect x="122" y="120" width="16" height="120"/>
+            <rect x="98"  y="226" width="64" height="14" rx="3"/>
+          </g>
+
+          <!-- stacked accent rectangles, bottom-left -->
+          <g>
+            <rect x="22"  y="266" width="64" height="44" rx="8"
+                  fill="#fff" stroke="#0e0e0e" stroke-width="2" transform="rotate(-8 54 288)"/>
+            <rect x="34"  y="282" width="64" height="44" rx="8"
+                  fill="#0e0e0e" transform="rotate(-8 66 304)"/>
+          </g>
+
+          <!-- floating dots top-right -->
+          <g fill="#0e0e0e">
+            <circle cx="208" cy="68"  r="6"/>
+            <circle cx="232" cy="92"  r="3"/>
+            <circle cx="218" cy="106" r="2"/>
+          </g>
+
+          <!-- plus sign accent -->
+          <g stroke="#0e0e0e" stroke-width="3" stroke-linecap="round">
+            <line x1="36" y1="60" x2="36" y2="84"/>
+            <line x1="24" y1="72" x2="48" y2="72"/>
+          </g>
+
+          <!-- yellow squiggle accent bottom -->
+          <path d="M150 330 q 14 -10 28 0 t 28 0"
+                stroke="#FFD84D" stroke-width="3" fill="none" stroke-linecap="round"/>
+        </svg>
+      </div>
+
+      <div class="about-body">
+        <p>I'm a Bachelor of Computer Science (Data Engineering) student at <strong>Universiti Teknologi Malaysia (UTM)</strong>, with a CGPA of <strong>3.94</strong>. My coursework spans databases, data analytics programming, data mining, high-performance data processing, enterprise system design and business intelligence.</p>
+        <p>Through projects and competitions I've worked across the modern data stack — Python, SQL, Apache Spark, Docker, and the Azure data platform — and I particularly enjoy turning messy real-world datasets into something usable.</p>
+        <p>I'm currently seeking a <strong>10-month internship</strong> where I can keep building on these foundations and contribute to data-driven products in production.</p>
+
+        <div class="about-stats">
+          <div class="about-stat"><div class="v">3.94</div><div class="l">CGPA</div></div>
+          <div class="about-stat"><div class="v">11+</div><div class="l">Projects</div></div>
+          <div class="about-stat"><div class="v">3</div><div class="l">Certifications</div></div>
+        </div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- ============ SEMESTER II ============ -->
-<section id="sem2">
+<!-- ========== SKILLS ========== -->
+<section id="skills" style="background:var(--bg-light-alt);">
   <div class="container">
-    <h2 class="section-title">Semester II</h2>
-    <p class="section-subtitle">Four courses &mdash; assignments, labs and capstone projects, each linking to its folder on GitHub.</p>
+    <span class="eyebrow">Toolkit</span>
+    <h2 class="section-heading">My <strong>Skills</strong></h2>
 
-    <!-- SECI1143 -->
-    <article class="course">
-      <div class="course-head">
-        <span class="course-code">SECI1143-02</span>
-      </div>
-      <h3 class="course-title">Probability &amp; Statistical Data Analysis</h3>
-      <p class="reflection">
-        Throughout this course, two data-analysis projects were completed using R. In Project 1, survey data on exercise habits was collected and visualised, and inferential statistics were applied to assess physical and mental impacts; the findings were documented in a formal report. In Project 2, a public Life-Expectancy dataset was modelled, key relationships were tested, and the results were presented through R-generated slides. Probability distributions, hypothesis testing and exploratory data analysis were practised end-to-end, while reproducible R workflows were strengthened. Confidence in turning raw data into evidence-based conclusions has been visibly developed.
-      </p>
-      <ul class="projects">
-        <li class="project">
-          <span class="name">Project 1 &mdash; Exercise Habits and Its Impacts</span>
-          <span class="desc">Survey-based R study with charts, an IEEE-style report and a project proposal.</span>
-          <div class="meta">
-            <span class="tag">R &middot; survey</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%202/SECI1143-02-PROBABILITY%20%26%20STATISTICAL%20DATA%20ANALYSIS/PROJECT%201" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">Project 2 &mdash; Life Expectancy Analysis</span>
-          <span class="desc">R analysis on a global Life-Expectancy CSV, presented with R slides.</span>
-          <div class="meta">
-            <span class="tag">R &middot; regression</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%202/SECI1143-02-PROBABILITY%20%26%20STATISTICAL%20DATA%20ANALYSIS/PROJECT%202" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-      </ul>
-    </article>
-
-    <!-- SECJ1023 -->
-    <article class="course">
-      <div class="course-head">
-        <span class="course-code">SECJ1023-03</span>
-      </div>
-      <h3 class="course-title">Programming Technique II</h3>
-      <p class="reflection">
-        Across five C++ assignments and a group project, object-oriented programming was practised progressively. In the assignments, problems involving classes, inheritance, pointers, file I/O and the STL were solved one after another. In the group project, an initial storyboard was first produced and then translated by team S03 Group 6 into a working executable, with the codebase organised into clear source and header modules. Debugging, header/source separation and collaborative version control were reinforced throughout. The transition from procedural C++ to designing reusable, modular components has been internalised.
-      </p>
-      <ul class="projects">
-        <li class="project">
-          <span class="name">Assignment 1</span>
-          <span class="desc">C++ exercise &mdash; source and question brief.</span>
-          <div class="meta"><span class="tag">C++</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%202/SECJ1023-03-PROGRAMING%20TECHNIQUE%20II/ASSIGNMENT/ASSIGNMENT%201" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">Assignment 2</span>
-          <span class="desc">C++ exercise &mdash; classes / inheritance practice.</span>
-          <div class="meta"><span class="tag">C++</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%202/SECJ1023-03-PROGRAMING%20TECHNIQUE%20II/ASSIGNMENT/ASSIGNMENT%202" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">Assignment 3</span>
-          <span class="desc">C++ exercise &mdash; intermediate problem set.</span>
-          <div class="meta"><span class="tag">C++</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%202/SECJ1023-03-PROGRAMING%20TECHNIQUE%20II/ASSIGNMENT/ASSIGNMENT%203" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">Assignment 4</span>
-          <span class="desc">C++ exercise &mdash; pointers / dynamic memory.</span>
-          <div class="meta"><span class="tag">C++</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%202/SECJ1023-03-PROGRAMING%20TECHNIQUE%20II/ASSIGNMENT/ASSIGNMENT%204" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">Assignment 5</span>
-          <span class="desc">C++ exercise with guide slides and expected-result videos.</span>
-          <div class="meta"><span class="tag">C++</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%202/SECJ1023-03-PROGRAMING%20TECHNIQUE%20II/ASSIGNMENT/ASSIGNMENT%205" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">PSA-1 &mdash; Idea &amp; Storyboard</span>
-          <span class="desc">Group-project deliverable 1: project idea, storyboard and PSA-1 sheet.</span>
-          <div class="meta"><span class="tag">deliverable</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%202/SECJ1023-03-PROGRAMING%20TECHNIQUE%20II/PROJECT/PSA-1" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">Group Project &mdash; S03 Group 6</span>
-          <span class="desc">Final C++ executable for the PT2 group project, with source, assets and README.</span>
-          <div class="meta"><span class="tag">C++ &middot; team</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%202/SECJ1023-03-PROGRAMING%20TECHNIQUE%20II/PROJECT/PROJECT" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-      </ul>
-    </article>
-
-    <!-- SECP2613 -->
-    <article class="course">
-      <div class="course-head">
-        <span class="course-code">SECP2613-02</span>
-      </div>
-      <h3 class="course-title">System Analysis and Design (WBL)</h3>
-      <p class="reflection">
-        In this work-based course, system analysis was approached from both academic and industry angles. An IEEE-format academic paper on current SAD trends was authored and Turnitin-verified, while project-management practice was carried out through a Gantt-chart deliverable. Insights from an industry talk on project management were documented, and a full SAD project report was produced for the capstone deliverable. Requirements elicitation, use-case modelling and stakeholder-driven scoping were exercised end-to-end. The link between formal SDLC artefacts and real-world delivery constraints has been clarified considerably.
-      </p>
-      <ul class="projects">
-        <li class="project">
-          <span class="name">Academic Report &mdash; Trends in SAD</span>
-          <span class="desc">IEEE-format paper with group presentation slides and Turnitin report.</span>
-          <div class="meta"><span class="tag">IEEE</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%202/SECP2613-02-SYSTEM%20ANALYSIS%20AND%20DESIGN%20(WBL)/1%20-%20Academic%20Report" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">Project Management &mdash; Gantt Chart</span>
-          <span class="desc">Assignment 2 deliverable: schedule planning in Excel.</span>
-          <div class="meta"><span class="tag">planning</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%202/SECP2613-02-SYSTEM%20ANALYSIS%20AND%20DESIGN%20(WBL)/2%20-%20Project%20Management" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">Industry Talk &mdash; Project Management</span>
-          <span class="desc">Reflective notes taken from an industry session on PM practice.</span>
-          <div class="meta"><span class="tag">industry talk</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%202/SECP2613-02-SYSTEM%20ANALYSIS%20AND%20DESIGN%20(WBL)/3%20-%20Industry%20Talk%20on%20Project%20Management" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">SAD Capstone Project</span>
-          <span class="desc">Full system-analysis-and-design project report.</span>
-          <div class="meta"><span class="tag">capstone</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%202/SECP2613-02-SYSTEM%20ANALYSIS%20AND%20DESIGN%20(WBL)/Project" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-      </ul>
-    </article>
-
-    <!-- SECR1033 -->
-    <article class="course">
-      <div class="course-head">
-        <span class="course-code">SECR1033-03</span>
-      </div>
-      <h3 class="course-title">Computer Organization and Architecture</h3>
-      <p class="reflection">
-        Across three labs and a final project, the inner workings of modern processors were explored at the assembly level. Lab exercises covered basic assembly, arithmetic operations and a recorded walkthrough of the lab outcomes. For the project, an x86 assembly program was written, benchmarked on a Lenovo 81T0 with Geekbench and discussed in a written report. Register usage, addressing modes and the cost of low-level operations were observed first-hand. A clearer mental model of how high-level code maps to hardware has been established.
-      </p>
-      <ul class="projects">
-        <li class="project">
-          <span class="name">Lab 1 &mdash; Intro Assembly</span>
-          <span class="desc">First assembly lab with a recorded demo video.</span>
-          <div class="meta"><span class="tag">assembly</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%202/SECR1033-03-COMPUTER%20ORGANIZATION%20AND%20ARCHITECTURE/LAB%201" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">Lab 2 &mdash; Arithmetic Equation</span>
-          <span class="desc">Arithmetic-equation lab brief and worked solution.</span>
-          <div class="meta"><span class="tag">assembly</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%202/SECR1033-03-COMPUTER%20ORGANIZATION%20AND%20ARCHITECTURE/LAB%202" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">Lab 3 &mdash; Final Version</span>
-          <span class="desc">Final lab report, source code and recorded video presentation.</span>
-          <div class="meta"><span class="tag">assembly &middot; report</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%202/SECR1033-03-COMPUTER%20ORGANIZATION%20AND%20ARCHITECTURE/LAB%203" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">COA Project &mdash; Benchmark &amp; Report</span>
-          <span class="desc">main.asm, Visual Studio solution, Geekbench result and COA project report.</span>
-          <div class="meta"><span class="tag">benchmark</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%202/SECR1033-03-COMPUTER%20ORGANIZATION%20AND%20ARCHITECTURE/PROJECT" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-      </ul>
-    </article>
-
+    <div class="skills-grid">
+      <div class="skill-tile">Python</div>
+      <div class="skill-tile">SQL / NoSQL</div>
+      <div class="skill-tile">Microsoft Azure</div>
+      <div class="skill-tile">Apache Spark</div>
+      <div class="skill-tile">Docker</div>
+      <div class="skill-tile">Git &amp; GitHub</div>
+      <div class="skill-tile">Power BI</div>
+      <div class="skill-tile">Alteryx</div>
+      <div class="skill-tile">Excel</div>
+      <div class="skill-tile">Machine Learning</div>
+    </div>
   </div>
 </section>
 
-<!-- ============ SEMESTER III ============ -->
-<section id="sem3">
+<!-- ========== CERTIFICATIONS ========== -->
+<section id="certifications" class="dark">
   <div class="container">
-    <h2 class="section-title">Semester III</h2>
-    <p class="section-subtitle">Three courses spanning algorithms, software engineering and full-stack web development.</p>
+    <span class="eyebrow">Verified on Credly</span>
+    <h2 class="section-heading" style="color:#fff;">My <strong>Certifications</strong></h2>
 
-    <!-- SECJ2013 -->
-    <article class="course">
-      <div class="course-head">
-        <span class="course-code">SECJ2013-03</span>
-      </div>
-      <h3 class="course-title">Data Structure and Algorithm</h3>
-      <p class="reflection">
-        Two assignments, four labs and a mini project were undertaken to build fluency in classical data structures. Linked lists, stacks, queues and student-record management problems were implemented in C++ with custom header files. The mini project culminated in a flight-simulation program (v1.0 and v2.0) in which scheduling and search logic were applied. Algorithmic complexity, pointer manipulation and modular code organisation were practised throughout. The ability to choose an appropriate data structure for a given problem has been noticeably sharpened.
-      </p>
-      <ul class="projects">
-        <li class="project">
-          <span class="name">Assignment 1</span>
-          <span class="desc">Foundational data-structure problem in C++.</span>
-          <div class="meta"><span class="tag">C++</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%203/SECJ2013-03%20-%20DATA%20STRUCTURE%20AND%20ALGORITHM/ASSIGNMENTS/ASSIGNMENT/ASSIGNMENT%201" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">Assignment 2 &mdash; Student Records</span>
-          <span class="desc">Student / List / Marks problem with custom headers and binaries.</span>
-          <div class="meta"><span class="tag">C++ &middot; lists</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%203/SECJ2013-03%20-%20DATA%20STRUCTURE%20AND%20ALGORITHM/ASSIGNMENTS/ASSIGNMENT/ASSIGNMENT%202" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">Lab 1</span>
-          <span class="desc">First lab exercise with results.</span>
-          <div class="meta"><span class="tag">lab</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%203/SECJ2013-03%20-%20DATA%20STRUCTURE%20AND%20ALGORITHM/ASSIGNMENTS/LAB/LAB%201" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">Lab 2</span>
-          <span class="desc">Data-structure lab in C++.</span>
-          <div class="meta"><span class="tag">lab</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%203/SECJ2013-03%20-%20DATA%20STRUCTURE%20AND%20ALGORITHM/ASSIGNMENTS/LAB/LAB%202" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">Lab 3</span>
-          <span class="desc">Compiled lab demonstration.</span>
-          <div class="meta"><span class="tag">lab</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%203/SECJ2013-03%20-%20DATA%20STRUCTURE%20AND%20ALGORITHM/ASSIGNMENTS/LAB/LAB%203" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">Lab 4</span>
-          <span class="desc">Final lab exercise with source and executable.</span>
-          <div class="meta"><span class="tag">lab</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%203/SECJ2013-03%20-%20DATA%20STRUCTURE%20AND%20ALGORITHM/ASSIGNMENTS/LAB/LAB%204" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">Mini Project &mdash; Flight Simulation</span>
-          <span class="desc">C++ flight-simulation program (v1.0 and v2.0) applying data-structure concepts.</span>
-          <div class="meta"><span class="tag">capstone</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%203/SECJ2013-03%20-%20DATA%20STRUCTURE%20AND%20ALGORITHM/MINI%20PROJECT" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-      </ul>
-    </article>
-
-    <!-- SECP3204 -->
-    <article class="course">
-      <div class="course-head">
-        <span class="course-code">SECP3204-01</span>
-      </div>
-      <h3 class="course-title">Software Engineering (WBL)</h3>
-      <p class="reflection">
-        Industry-aligned software engineering was practised through an academic-writing assignment on Extreme Programming and a capstone team project for AlphaTech. The Extreme Programming paper was researched, drafted and Turnitin-verified. For the AlphaTech project, a formal proposal was produced and later expanded into complete system documentation covering requirements, design and implementation views. Agile values, iterative delivery and documentation discipline were experienced in a stakeholder-facing setting. A clearer sense of how engineering rigour scales from solo coursework to client-driven projects has been gained.
-      </p>
-      <ul class="projects">
-        <li class="project">
-          <span class="name">Assignment 1 &mdash; Extreme Programming Paper</span>
-          <span class="desc">Academic-writing piece on XP with Turnitin verification.</span>
-          <div class="meta"><span class="tag">academic writing</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%203/SECP3204-01%20-%20SOFTWARE%20ENGINEERING%20(WBL)/Assignment%201%20(Academic%20Writing)" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">AlphaTech Capstone Project</span>
-          <span class="desc">Project proposal plus full system documentation for the AlphaTech client engagement.</span>
-          <div class="meta"><span class="tag">capstone &middot; WBL</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%203/SECP3204-01%20-%20SOFTWARE%20ENGINEERING%20(WBL)/Project" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-      </ul>
-    </article>
-
-    <!-- SECP3723 -->
-    <article class="course">
-      <div class="course-head">
-        <span class="course-code">SECP3723-01</span>
-      </div>
-      <h3 class="course-title">System Development Technology</h3>
-      <p class="reflection">
-        A full PHP-based Course Registration System (crs_iman) was developed to consolidate practical web-development skills. Role-aware modules for administrators, lecturers and students were implemented, with screens for course management, registration approval and rejection, and detailed course views. Server-side scripting, session handling, form validation and navigation patterns were applied across the codebase. Multi-role authentication flows and CRUD-driven UI design were practised at scale. Confidence in delivering an end-to-end database-backed web application has been substantially strengthened.
-      </p>
-      <ul class="projects">
-        <li class="project">
-          <span class="name">crs_iman &mdash; Course Registration System</span>
-          <span class="desc">PHP web app with admin, lecturer and student roles; course CRUD and registration approval flow.</span>
-          <div class="meta"><span class="tag">PHP &middot; web</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%203/SECP3723-01%20-%20SYSTEM%20DEVELOPMENT%20TECHNOLGY/crs_iman/crs-iman" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-        <li class="project">
-          <span class="name">kada</span>
-          <span class="desc">Secondary project folder &mdash; work-in-progress.</span>
-          <div class="meta"><span class="tag in-progress">in progress</span>
-            <a class="repo-link" href="https://github.com/imn353/eportfolio/tree/main/SEM%203/SECP3723-01%20-%20SYSTEM%20DEVELOPMENT%20TECHNOLGY/kada" target="_blank" rel="noopener">View folder</a>
-          </div>
-        </li>
-      </ul>
-    </article>
-
+    <div class="cert-grid">
+      <a class="cert-card" href="https://www.credly.com/badges/963d301c-6d29-45b1-a3c7-1758292ef0f1/public_url" target="_blank" rel="noopener">
+        <div class="cert-name">Azure Data Fundamentals</div>
+        <div class="cert-issuer">Microsoft</div>
+        <div class="cert-cta">View on Credly</div>
+      </a>
+      <a class="cert-card" href="https://www.credly.com/badges/23ef2df3-2d14-4e3c-9d97-939f261787e7/public_url" target="_blank" rel="noopener">
+        <div class="cert-name">AWS Academy Graduate &mdash; Cloud Foundations</div>
+        <div class="cert-issuer">Amazon Web Services (Training Badge)</div>
+        <div class="cert-cta">View on Credly</div>
+      </a>
+      <a class="cert-card" href="https://www.credly.com/badges/b67626fc-ef51-46b3-a1e3-2f92e8d419dd/public_url" target="_blank" rel="noopener">
+        <div class="cert-name">Alteryx Designer Core Certification</div>
+        <div class="cert-issuer">Alteryx</div>
+        <div class="cert-cta">View on Credly</div>
+      </a>
+    </div>
   </div>
 </section>
 
+<!-- ========== EXPERIENCE / COMPETITIONS ========== -->
+<section id="experience" class="dark">
+  <div class="container">
+    <span class="eyebrow">Competitions</span>
+    <h2 class="section-heading" style="color:#fff;">My <strong>Experience</strong></h2>
+
+    <div class="exp-list">
+      <article class="exp-card">
+        <div class="exp-mark">U</div>
+        <div>
+          <div class="exp-title">Participant &mdash; UMDAC Datathon 2025</div>
+          <div class="exp-org">Universiti Malaya Data Analytics Club (UMDAC) &middot; AstraZeneca dataset</div>
+          <ul>
+            <li>Analysed a masked dataset of cashflow and financial transactions.</li>
+            <li>Conducted data cleaning, feature engineering and exploratory analysis.</li>
+            <li>Implemented anomaly detection using Isolation Forest in Python &mdash; 846 anomalies identified from 80,000+ transactions.</li>
+          </ul>
+        </div>
+        <div class="exp-date">Dec 2025</div>
+      </article>
+
+      <article class="exp-card">
+        <div class="exp-mark">M</div>
+        <div>
+          <div class="exp-title">Participant &mdash; MDIT × DOSM Datathon 2025</div>
+          <div class="exp-org">Dept. of Statistics Malaysia (DOSM) &amp; Statistics Association, UiTM Shah Alam</div>
+          <ul>
+            <li>Analysed real-world DOSM datasets on wage growth and inflation.</li>
+            <li>Used Power BI &amp; Power Query to integrate, clean and visualise multi-source data.</li>
+            <li>Built a dashboard showing nominal wage growth relative to inflation over time.</li>
+          </ul>
+        </div>
+        <div class="exp-date">Sept 2025</div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ========== PROJECTS ========== -->
+<section id="projects">
+  <div class="container">
+    <span class="eyebrow">Coursework &amp; Capstone</span>
+    <h2 class="section-heading">My <strong>Projects</strong></h2>
+
+    <div class="project-grid">
+
+      <article class="project-card">
+        <span class="pnum">01 · 2026</span>
+        <h3 class="ptitle">High-Performance Web Crawler</h3>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>Over 100,000 product records were scraped from the BookXcess sitemap using a 40-worker ThreadPoolExecutor on top of <code>curl_cffi</code>, then cleaned with BeautifulSoup into a tidy CSV. Six representative operations &mdash; load, filter, group-by, join, sort and aggregate &mdash; were then benchmarked across Pandas, Polars and PyArrow on identical workloads to quantify the impact of columnar engines and concurrency over a single-threaded baseline. First-hand experience was gained of how dramatically Python's data-processing landscape has shifted with Rust-backed libraries, and the value of measuring real workloads instead of trusting copy-pasted benchmarks was reinforced. Reproducible scripting, fair benchmarking practices and presenting results visually were all practised end-to-end.</p>
+        </details>
+        <div class="ptags"><span>Python</span><span>curl_cffi</span><span>Polars</span><span>PyArrow</span></div>
+        <div class="pfooter"><a href="https://github.com/imn353/eportfolio/tree/main/PROJECTS/high_performance_web_crawler" target="_blank" rel="noopener">View folder</a></div>
+      </article>
+
+      <article class="project-card">
+        <span class="pnum">02 · 2025</span>
+        <h3 class="ptitle">Azure End-to-End Data Pipeline</h3>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>A fully automated end-to-end pipeline was built on Microsoft Azure to ingest customer and sales data from an on-premises SQL database into Azure Data Lake Storage using Azure Data Factory. The raw data was then transformed in Azure Databricks via PySpark notebooks following a medallion (bronze &rarr; silver &rarr; gold) lakehouse architecture, with each layer adding standardisation, business rules and aggregations. The curated gold-layer tables were loaded into Azure Synapse Analytics for SQL-based analytics and surfaced through a Power BI dashboard. Azure Key Vault and role-based access control (RBAC) were enforced throughout to handle credentials and govern access. Concrete intuition was gained for how a cloud data platform is actually wired together in practice, rather than as isolated services on a marketing diagram.</p>
+        </details>
+        <div class="ptags"><span>Azure</span><span>Data Factory</span><span>Databricks</span><span>Synapse</span></div>
+        <div class="pfooter"><a href="https://github.com/imn353/eportfolio/tree/main/PROJECTS/azure_pipeline" target="_blank" rel="noopener">View folder</a></div>
+      </article>
+
+      <article class="project-card">
+        <span class="pnum">03 · 2025</span>
+        <h3 class="ptitle">Big Data Handling &mdash; Benchmark</h3>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>A 4.24 GB Anime Dataset with 35 million-plus rows was loaded and processed in a Jupyter notebook in collaboration with a teammate. Loading strategies including chunked reads, sampling, lazy evaluation and column pruning were applied to keep memory under control, and Pandas, Dask and PyArrow were benchmarked across an identical workload. Out-of-core processing trade-offs were observed empirically, and the limits of "just use Pandas" thinking became visible as soon as the dataset exceeded RAM. Practical takeaways included always checking dtype memory footprints, preferring columnar formats like Parquet, and treating dataset size as a first-class design constraint rather than an afterthought.</p>
+        </details>
+        <div class="ptags"><span>Pandas</span><span>Dask</span><span>PyArrow</span></div>
+        <div class="pfooter"><a href="https://github.com/imn353/eportfolio/tree/main/PROJECTS/big_data_handling" target="_blank" rel="noopener">View folder</a></div>
+      </article>
+
+      <article class="project-card">
+        <span class="pnum">04 · Coursework</span>
+        <h3 class="ptitle">Air Quality Data Pipeline</h3>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>A five-stage data engineering pipeline was implemented over the OpenAQ Global Air Quality Index dataset. Stages were scripted separately &mdash; ingest, clean, transform, load and visualise &mdash; and run as a chained workflow producing intermediate raw, silver and gold tables on disk. The gold tables were loaded into a SQLite warehouse, and analytical queries were used to drive matplotlib charts saved to an output folder. Generative-AI tooling was used during development as a coding assistant, and clear boundaries between human design and AI-generated code were maintained. The exercise reinforced that even a "simple" pipeline benefits from explicit stage separation, and that reproducibility comes from disciplined file conventions rather than luck.</p>
+        </details>
+        <div class="ptags"><span>Python</span><span>SQLite</span><span>ETL</span></div>
+        <div class="pfooter"><a href="https://github.com/imn353/eportfolio/tree/main/PROJECTS/gen_ai_tutorial" target="_blank" rel="noopener">View folder</a></div>
+      </article>
+
+      <article class="project-card">
+        <span class="pnum">05 · Coursework</span>
+        <h3 class="ptitle">Simple ETL with Apache Spark</h3>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>An ETL pipeline was assembled around Apache Spark to process the 2021 Brazilian School Census microdata, totalling several million rows of public open data. The raw dataset was downloaded, modelled into facts and dimensions following a Kimball-style schema, and orchestrated inside Docker Compose alongside a PostgreSQL warehouse so the entire stack could be spun up with a single command. Transformations were authored in Spark notebooks targeting specific analytical questions about infrastructure availability (water, electricity, internet) across Brazilian schools. Containerised data workflows, dimensional modelling and working with non-English source data and column names were all exercised in one project.</p>
+        </details>
+        <div class="ptags"><span>Spark</span><span>Docker</span><span>PostgreSQL</span></div>
+        <div class="pfooter"><a href="https://github.com/imn353/eportfolio/tree/main/PROJECTS/simple_etl_spark" target="_blank" rel="noopener">View folder</a></div>
+      </article>
+
+      <article class="project-card">
+        <span class="pnum">06 · Coursework</span>
+        <h3 class="ptitle">CO&#8322; Cars Analysis</h3>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>Fuel-consumption and 2025 vehicle datasets were combined and analysed across two phases inside a single Jupyter notebook to investigate the drivers of CO&#8322; emissions. Data was cleaned, missing values handled, features engineered (e.g. combined fuel-efficiency metrics) and exploratory visualisations produced &mdash; scatter plots, correlation heatmaps and segment breakdowns by vehicle class and fuel type. Statistical relationships between vehicle attributes and CO&#8322; output were identified, and the limits of simple correlation as evidence for causation were discussed. Reproducible notebook-based analytics and collaborative pair-coding were practised throughout.</p>
+        </details>
+        <div class="ptags"><span>Pandas</span><span>EDA</span></div>
+        <div class="pfooter"><a href="https://github.com/imn353/eportfolio/tree/main/PROJECTS/co2_cars_analysis" target="_blank" rel="noopener">View folder</a></div>
+      </article>
+
+      <article class="project-card">
+        <span class="pnum">07 · Coursework</span>
+        <h3 class="ptitle">Student Performance Analysis</h3>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>A Student Performance Factors dataset was preprocessed and analysed across two phases. After cleaning and encoding categorical features, K-Means and AGNES (agglomerative) clustering were applied to surface natural groupings of students, and the elbow method together with silhouette analysis was used to choose an appropriate number of clusters. k-Nearest Neighbours was then trained as a classifier and evaluated on a held-out split. The full data-mining workflow &mdash; preprocessing &rarr; unsupervised exploration &rarr; supervised classification &rarr; evaluation &mdash; was exercised from raw CSV to actionable insight, and the importance of feature scaling and cluster validation was internalised first-hand.</p>
+        </details>
+        <div class="ptags"><span>scikit-learn</span><span>Clustering</span><span>k-NN</span></div>
+        <div class="pfooter"><a href="https://github.com/imn353/eportfolio/tree/main/PROJECTS/student_performance_analysis" target="_blank" rel="noopener">View folder</a></div>
+      </article>
+
+      <article class="project-card">
+        <span class="pnum">08 · Industry-aligned</span>
+        <h3 class="ptitle">MARA Attendance System</h3>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>A Flutter and Firebase prototype was developed to manage attendance from scheduled timetable sessions for MARA, an industry-aligned engagement. Phase 0 was deliberately scoped to the minimum usable flow &mdash; timetable view, session detail, attendance taking and a basic report &mdash; so the team could validate the core workflow before adding polish. Firebase Authentication, Cloud Firestore and Firebase Hosting were wired in to provide a serverless backend with row-level security and a hosted mobile-web build. The project reinforced how much value comes from disciplined scoping in early phases and from picking platforms that remove infrastructure overhead.</p>
+        </details>
+        <div class="ptags"><span>Flutter</span><span>Firebase</span><span>Firestore</span></div>
+        <div class="pfooter"><a href="https://github.com/imn353/eportfolio/tree/main/PROJECTS/mara_attendance_system" target="_blank" rel="noopener">View folder</a></div>
+      </article>
+
+      <article class="project-card">
+        <span class="pnum">09 · Capstone</span>
+        <h3 class="ptitle">KADA Cooperative System &mdash; AlphaTech</h3>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>A full cooperative-society management system was delivered as the AlphaTech team capstone, covering membership applications (personal, family and charity), loan approvals routed through clerk and Board-of-Directors workflows, withdrawal handling, and downloadable reports for finance staff. The PHP codebase was paired with complete Software Requirements Specification (SRS), Software Design Description (SDD) and Software Development Test (SDT) documentation, a user manual and a final presentation deck &mdash; mirroring real client-deliverable expectations. Multi-role authentication, document-driven engineering and large-team coordination were all exercised at a scale beyond solo coursework.</p>
+        </details>
+        <div class="ptags"><span>PHP</span><span>MySQL</span><span>SDLC</span></div>
+        <div class="pfooter"><a href="https://github.com/imn353/eportfolio/tree/main/PROJECTS/kada_cooperative_system" target="_blank" rel="noopener">View folder</a></div>
+      </article>
+
+      <article class="project-card">
+        <span class="pnum">10 · Coursework</span>
+        <h3 class="ptitle">SAP Profile Management Module</h3>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>An SAP-style Profile Management module was specified and documented for a Course Registration System as part of enterprise-systems coursework. Functional behaviour, screen layouts and CRUD operations for profile-related entities (student, lecturer, programme, faculty) were captured in an ARM64-formatted deliverable report following the conventions of real SAP functional specifications. A clearer mental model was gained of how enterprise documentation differs from typical academic write-ups, with heavier emphasis on field-level definitions, navigation flows and traceability between requirement and screen.</p>
+        </details>
+        <div class="ptags"><span>SAP</span><span>Documentation</span></div>
+        <div class="pfooter"><a href="https://github.com/imn353/eportfolio/tree/main/PROJECTS/course_registration_system_sap_profile_management_module" target="_blank" rel="noopener">View folder</a></div>
+      </article>
+
+      <article class="project-card">
+        <span class="pnum">11 · Coursework</span>
+        <h3 class="ptitle">Online Shopping Cart System</h3>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>An online shopping-cart system was implemented in Java following object-oriented principles, with dedicated classes for Admin, Customer, User, Product, Item, Cart and Order. A User &rarr; Customer/Admin inheritance hierarchy was used to share authentication logic while differentiating capabilities, and Cart was modelled as a composition of Items. Authentication, catalogue browsing, cart management and order checkout flows were exercised through a console-driven interaction layer. The project consolidated foundational OOP intuition &mdash; encapsulation, inheritance, composition and the boundary between domain and interaction code.</p>
+        </details>
+        <div class="ptags"><span>Java</span><span>OOP</span></div>
+        <div class="pfooter"><a href="https://github.com/imn353/eportfolio/tree/main/PROJECTS/online_hopping_cart_system" target="_blank" rel="noopener">View folder</a></div>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+<!-- ========== INDUSTRY TALKS ========== -->
+<section id="talks" class="dark">
+  <div class="container">
+    <span class="eyebrow">Sessions attended</span>
+    <h2 class="section-heading" style="color:#fff;">Industry <strong>Talks</strong></h2>
+
+    <div class="talks-grid">
+      <article class="talk-card">
+        <div class="tmeta">Industry talk</div>
+        <div class="ttitle">PPG SAP Industry Talk</div>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>An SAP-focused industry talk was conducted by the PPG team, in which enterprise resource planning fundamentals and the SAP consultant career pathway were introduced from a practitioner's perspective. The day-to-day shape of a consulting engagement was walked through &mdash; from initial requirements gathering, through configuration in the SAP modules, to user-acceptance testing and post-go-live support. The distinction between functional and technical consultants was clarified, and the relevance of business-process modelling, configuration discipline and stakeholder communication was emphasised. Real client-engagement scenarios were shared, illustrating that the bulk of an SAP role is rarely about writing custom code, but about translating messy business requirements into the language of a tightly opinionated platform. The link between coursework on enterprise systems and the live SAP environments graduates actually work in was clarified considerably, and a more grounded view of post-graduate career options in the ERP space was formed.</p>
+        </details>
+        <div class="tfooter"><a href="https://github.com/imn353/eportfolio/blob/main/INDUSTRY%20TALK/PPG%20SAP%20Industry%20Talk.pdf" target="_blank" rel="noopener">View summary</a></div>
+      </article>
+
+      <article class="talk-card">
+        <div class="tmeta">Industry talk</div>
+        <div class="ttitle">PPG Career Development</div>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>A career-development session was hosted by PPG, in which practical guidance on CV building, interview preparation and aligning student work with industry expectations was shared. The shape of a strong technical CV was broken down &mdash; concise project summaries, measurable outcomes, and skills demonstrated rather than claimed &mdash; and common pitfalls such as walls of bullet points and undated experience entries were called out. Interview preparation was framed around three layers: research the company, articulate one's own projects with confidence, and rehearse behavioural answers using the STAR pattern. A clearer roadmap for transitioning from coursework to internship and graduate-level employment was established, and the value of curating an online presence (LinkedIn, GitHub, portfolio) consistent with the offline CV was reinforced.</p>
+        </details>
+        <div class="tfooter"><a href="https://github.com/imn353/eportfolio/blob/main/INDUSTRY%20TALK/PPG%20Career%20Development.pdf" target="_blank" rel="noopener">View summary</a></div>
+      </article>
+
+      <article class="talk-card">
+        <div class="tmeta">Industry talk</div>
+        <div class="ttitle">System Development @ Credence (TM)</div>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>An industry talk on system development was delivered by Credence, the digital subsidiary of Telekom Malaysia, with a focus on how telco-grade enterprise products are built and operated in production. The lifecycle of in-house enterprise products was presented &mdash; from initial business case, through design, build, telecom-network integration, launch, and the long-tail of operational support &mdash; and the engineering culture and technology stack used inside Credence were walked through. Insight was gained into how production-quality engineering differs from coursework: greater emphasis on observability, change management, performance under load, and the discipline of maintaining systems that must run for years. Expectations around code quality, testing rigour and incident response were clarified, and a clearer view of the realities behind a "simple" telco service was developed.</p>
+        </details>
+        <div class="tfooter"><a href="https://github.com/imn353/eportfolio/blob/main/INDUSTRY%20TALK/System%20Development%20%40%20Credence%20(TM%20Subsidiary).pdf" target="_blank" rel="noopener">View summary</a></div>
+      </article>
+
+      <article class="talk-card">
+        <div class="tmeta">Industry talk</div>
+        <div class="ttitle">Faiz Fabillah &mdash; PIDM</div>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>A talk was delivered by Faiz Fabillah from Perbadanan Insurans Deposit Malaysia (PIDM). The role of deposit insurance in safeguarding the Malaysian financial system was explained &mdash; what is covered, how member institutions are assessed, and how PIDM coordinates with Bank Negara &mdash; together with how data and technology are used inside the agency. Awareness was raised of the regulatory-technology (RegTech) space and the data responsibilities expected of fintech-adjacent careers, including the seriousness of data lineage, auditability and accuracy of every figure published to the public. The talk made it concrete that data engineering work outside pure-tech industries is often heavily regulated, and that "the right answer" matters more than novel techniques.</p>
+        </details>
+        <div class="tfooter"><a href="https://github.com/imn353/eportfolio/blob/main/INDUSTRY%20TALK/Faiz%20Fabillah%20from%20Perbadanan%20Insurans%20Deposit%20Malaysia%20(PIDM).pdf" target="_blank" rel="noopener">View summary</a></div>
+      </article>
+
+      <article class="talk-card">
+        <div class="tmeta">Industry briefing</div>
+        <div class="ttitle">Petronas &amp; Huawei Newsletter</div>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>A briefing covering Petronas and Huawei initiatives was reviewed through a newsletter format. Major data and cloud transformation programmes inside Malaysian energy and telecommunications players were summarised &mdash; including upstream data platforms, digital-twin projects, and the partnership models between Malaysian state-linked enterprises and global tech vendors. Strategic awareness was strengthened around how data engineering is applied across critical-infrastructure industries, where uptime, safety and cost containment dominate technical choices. Common patterns observed across the briefings included consolidation onto unified lakehouse platforms, AI-assisted analytics layered on top of existing reporting, and a recurring emphasis on local talent development.</p>
+        </details>
+        <div class="tfooter"><a href="https://github.com/imn353/eportfolio/blob/main/INDUSTRY%20TALK/Petronas%20and%20Huawei%20Newsletter.pdf" target="_blank" rel="noopener">View summary</a></div>
+      </article>
+
+      <article class="talk-card">
+        <div class="tmeta">Industry visit</div>
+        <div class="ttitle">Digital Visit at UTHM</div>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>A digital visit to Universiti Tun Hussein Onn Malaysia was attended, during which research groups, laboratories and on-going industry partnerships were showcased. The breadth of work &mdash; from applied AI labs to embedded-systems research and industry-collaborative final-year projects &mdash; gave a sense of how academic institutions translate research into industry outcomes. Through the session, an appreciation was developed for the role of university&ndash;industry partnerships in shaping the local technology landscape, and inspiration for postgraduate or industry-linked research directions was gained. The visit was also a useful comparison point, surfacing both shared coursework themes with UTM and areas where research focus differs meaningfully between institutions.</p>
+        </details>
+        <div class="tfooter"><a href="https://github.com/imn353/eportfolio/blob/main/INDUSTRY%20TALK/Digital%20Visit%20at%20UTHM.pdf" target="_blank" rel="noopener">View summary</a></div>
+      </article>
+
+      <article class="talk-card">
+        <div class="tmeta">Industry talk</div>
+        <div class="ttitle">iZeno Industry Talk</div>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>An industry talk by iZeno gave a clearer picture of how real production data pipelines differ from university projects. It was explained that while student projects usually only cover small datasets and the fun AI parts, real pipelines require every stage &mdash; from ingestion to monitoring &mdash; to be built and maintained together, often by large teams using practices like CI/CD, secrets management and automated data-quality checks. Several real-world challenges were shared, including how messy real data actually is, how pipelines can fail unexpectedly, and how scale changes almost every technical decision. In-demand skills such as Python, SQL, cloud platforms and LLM/GenAI tools were highlighted, along with practical advice to start building real pipelines, get cloud-certified and use Git and documentation properly before graduating. Overall, the talk was considered to have been a valuable and grounding experience, with useful, actionable steps taken away for bridging the gap between academic learning and industry expectations.</p>
+        </details>
+        <div class="tfooter"><a href="https://github.com/imn353/eportfolio/tree/main/INDUSTRY%20TALK" target="_blank" rel="noopener">View folder</a></div>
+      </article>
+
+      <article class="talk-card">
+        <div class="tmeta">Industry talk</div>
+        <div class="ttitle">TM One Industry Talk</div>
+        <details class="reflect">
+          <summary>Reflection</summary>
+          <p>A clearer picture of why data engineering becomes exponentially harder as a business scales was given by the TM Talk. The comparison between a simple nasi-lemak seller and a large enterprise was used as a simple but effective way to show this, where a small business is run by one person with one process and one truth, while an enterprise is run on dozens of interconnected systems &mdash; CRM, HCM, SCM, Finance and ERP &mdash; each built with thousands of tables, complex relationships, workflows and validation rules. What stood out most was the point that the real difficulty in data engineering is rarely caused by the movement of data itself, but by the question of which system should be trusted as the "true" version of information, especially when business reality is often held outside the official systems altogether &mdash; in emails, WhatsApp chats, meeting notes, or someone's personal spreadsheet. This was reflected on as a reminder of how much real business knowledge is kept informally and left undocumented, and how systems can never fully keep pace with how fast a business actually changes. Data engineering was reframed by this talk as less about technical pipelines and more about how a business is truly operated, how conflicting versions of the truth are reconciled and how history is accurately preserved. The direction of the industry was also made clearer by the mention of unified platforms like Microsoft Fabric, Snowflake and Databricks, along with AI-powered dashboarding.</p>
+        </details>
+        <div class="tfooter"><a href="https://github.com/imn353/eportfolio/tree/main/INDUSTRY%20TALK" target="_blank" rel="noopener">View folder</a></div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ========== CONTACT ========== -->
+<section id="contact">
+  <div class="container">
+    <span class="eyebrow">Get in touch</span>
+    <h2 class="section-heading">Let's <strong>talk</strong> about something special</h2>
+
+    <div class="contact-card">
+      <p class="contact-lead">Open to a <strong>10-month internship</strong> opportunity from 2026 onwards &mdash; or just a chat about data, cloud or anything in between.</p>
+
+      <div class="contact-channels">
+        <a class="channel-card" href="mailto:imanabadi353@gmail.com">
+          <span class="channel-label">Email</span>
+          <span class="channel-value">imanabadi353@gmail.com</span>
+        </a>
+        <a class="channel-card" href="tel:+60182882004">
+          <span class="channel-label">Phone</span>
+          <span class="channel-value">+60 18-288 2004</span>
+        </a>
+        <a class="channel-card" href="https://www.linkedin.com/in/imanabadi" target="_blank" rel="noopener">
+          <span class="channel-label">LinkedIn</span>
+          <span class="channel-value">linkedin.com/in/imanabadi</span>
+        </a>
+        <a class="channel-card" href="https://github.com/imn353" target="_blank" rel="noopener">
+          <span class="channel-label">GitHub</span>
+          <span class="channel-value">github.com/imn353</span>
+        </a>
+      </div>
+
+      <div class="contact-cta">
+        <a class="btn" href="mailto:imanabadi353@gmail.com">
+          Send an email
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7"/><path d="M8 7h9v9"/></svg>
+        </a>
+        <span class="contact-location">Based in Johor Bahru, Malaysia</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ========== FOOTER ========== -->
 <footer>
   <div class="container">
-    <p>&copy; 2026 Iman Abadi &middot; Source on <a href="https://github.com/imn353/eportfolio" target="_blank" rel="noopener">GitHub</a></p>
+    <a class="brand" href="#top">
+      <span class="brand-mark">I</span>
+      <span>Iman Abadi</span>
+    </a>
+    <span>&copy; 2026 Iman Abadi bin Mohd Nizwan &middot; Built with <span style="color:var(--text-primary);font-weight:600;">care</span> for the SECP3843 e-portfolio</span>
   </div>
 </footer>
 

@@ -1,14 +1,43 @@
-# Local Claude Code config (per-machine, not for publishing)
+# ---- Local Claude Code config (per-machine) ----
 .claude/
 
-# OS / editor cruft
+# ---- OS / editor cruft ----
 .DS_Store
 Thumbs.db
 desktop.ini
 .vscode/
 .idea/
+*.swp
+*.swo
 
-# Build / debug outputs that occasionally sneak in
+# ---- Build / dependency directories (anywhere in repo) ----
+node_modules/
+vendor/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+.gradle/
+.next/
+dist/
+out/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- Compiled / debug artefacts ----
 *.obj
 *.o
 *.exe.stackdump
+*.class
+*.log
+
+# ---- Data / DB outputs that get regenerated ----
+*.sqlite
+*.db-journal
+PROJECTS/gen_ai_tutorial/pipeline/pipeline.db
