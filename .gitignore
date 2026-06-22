@@ -1,0 +1,14 @@
+# Local Claude Code config (per-machine, not for publishing)
+.claude/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Build / debug outputs that occasionally sneak in
+*.obj
+*.o
+*.exe.stackdump
