@@ -1,0 +1,34 @@
+(Info) ************************************************************************
+(Info) Deeds VHDL converter (ver. 2.50.200) is running...
+(Info) Convertion started (4:30:55 PM, 4/11/2023) on file:
+(Info) --> "C:\Users\User\OneDrive\Documents\Education\UTM\CLASSES\SEM 1\SECR1013-DIGITAL LOGIC-03\LAB\LAB 1\DEEDS\LAB 1.pbs"
+(Info) ------------------------------------------------------------------------
+(Info) Converting schematic file "LAB 1.pbs" into VHDL
+(Info) --> Top level VHDL file (renamed to be compliant): "LAB_1.vhd"
+(Info) Extracting and Coding VHDL components
+(Info) VHDL components coded (file: "Components.vhd", 1555 bytes)
+(Info) Processing Input and Output Signals
+(Warning) Input "A" [Id#2] renamed to "iA"
+(Warning) Input "B" [Id#3] renamed to "iB"
+(Warning) Input "A" [Id#34] renamed to "iA_0"
+(Warning) Input "B" [Id#35] renamed to "iB_0"
+(Warning) Input "A" [Id#51] renamed to "iA_1"
+(Warning) Input "B" [Id#52] renamed to "iB_1"
+(Warning) Output "F" [Id#25] renamed to "ooF"
+(Warning) Output "F" [Id#36] renamed to "ooF_0"
+(Warning) Output "F" [Id#76] renamed to "ooF_1"
+(Info) 6 Native Input(s), 3 Native Output(s) processed.
+(Info) 0 Added Input(s), 0 Added Output(s), 0 Default Output(s).
+(Info) Top level structural VHDL description coded (file "LAB_1.vhd", 2649 bytes)
+(Info) ------------------------------------------------------------------------
+(Info) Saving all the VHDL files in the subfolder:
+(Info) --> "C:\Users\User\OneDrive\Documents\Education\UTM\CLASSES\SEM 1\SECR1013-DIGITAL LOGIC-03\LAB\LAB 1\DEEDS\LAB_1_VHDL"
+(Info)   |--- "Components.vhd" file saved.
+(Info)   |--- "LAB_1.vhd" file saved.
+(Info) ------------------------------------------------------------------------
+(Info) ------------------------------------------------------------------------
+(Info) This message list saved on file:
+(Info) --> "C:\Users\User\OneDrive\Documents\Education\UTM\CLASSES\SEM 1\SECR1013-DIGITAL LOGIC-03\LAB\LAB 1\DEEDS\LAB_1_VHDL\ReportMessages.txt"
+(Info) ------------------------------------------------------------------------
+(Info) All files saved! VHDL conversion ended (4:30:55 PM, 4/11/2023)
+(Info) ************************************************************************

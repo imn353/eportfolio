@@ -1,0 +1,1001 @@
+material_id,material_name,category,unit_of_measure,reorder_level,lead_time_days,unit_cost
+MAT001,Titanium Dioxide,Pigment,KG,500,14,8.5
+MAT002,Iron Oxide Red,Pigment,KG,300,10,3.2
+MAT003,Carbon Black,Pigment,KG,200,7,2.8
+MAT004,Phthalocyanine Blue,Pigment,KG,150,21,12.6
+MAT005,Chrome Yellow,Pigment,KG,100,21,6.4
+MAT006,Alkyd Resin,Resin,KG,800,14,4.1
+MAT007,Acrylic Resin,Resin,KG,600,14,5.3
+MAT008,Epoxy Resin,Resin,KG,400,21,9.8
+MAT009,Polyurethane Resin,Resin,KG,300,21,11.2
+MAT010,Vinyl Resin,Resin,KG,200,14,7.6
+MAT011,Xylene,Solvent,Litre,1000,7,1.8
+MAT012,Toluene,Solvent,Litre,800,7,1.6
+MAT013,Mineral Spirits,Solvent,Litre,600,7,1.2
+MAT014,Acetone,Solvent,Litre,400,7,2.1
+MAT015,Butanol,Solvent,Litre,300,10,2.4
+MAT016,Metal Can 1L,Packaging,Unit,2000,14,0.85
+MAT017,Metal Can 4L,Packaging,Unit,1500,14,1.4
+MAT018,Plastic Drum 20L,Packaging,Unit,500,10,3.2
+MAT019,Cardboard Box,Packaging,Unit,1000,7,0.45
+MAT020,Plastic Pail 5L,Packaging,Unit,800,10,1.1
+MAT021,Ethanol (Grade A),Solvent,Litre,1000,14,5.19
+MAT022,Naphtha (Pure),Solvent,Litre,1000,10,7.06
+MAT023,Glass Bottle 25L,Packaging,Unit,800,14,11.65
+MAT024,Cardboard Box 10L,Packaging,Unit,500,10,2.45
+MAT025,Plastic Pail 10L,Packaging,Unit,1500,10,0.57
+MAT026,White Spirit (Pure),Solvent,Litre,800,14,3.05
+MAT027,Plastic Bottle 2L,Packaging,Unit,1000,10,7.23
+MAT028,Methanol (Pure),Solvent,Litre,1500,5,1.46
+MAT029,Metal Can Medium,Packaging,Unit,2000,5,4.81
+MAT030,Vinyl Emulsion,Resin,Litre,500,18,11.36
+MAT031,Fiber Drum 25L,Packaging,Unit,800,3,3.33
+MAT032,Steel Drum 1L,Packaging,Unit,2000,5,6.94
+MAT033,Standard Cyan Paste,Pigment,KG,150,10,18.16
+MAT034,Phenolic Polymer,Resin,KG,500,10,14.55
+MAT035,Standard Black Oxide,Pigment,KG,100,21,13.12
+MAT036,Vibrant Red Pigment,Pigment,KG,600,7,16.01
+MAT037,Glass Bottle 25L,Packaging,Unit,800,7,8.57
+MAT038,Isopropyl Alcohol (IPA) (Grade A),Solvent,Litre,1000,5,7.48
+MAT039,Melamine Binder,Resin,KG,200,21,8.67
+MAT040,Dark Orange Concentrate,Pigment,KG,200,21,13.66
+MAT041,Isopropyl Alcohol (IPA) (Grade A),Solvent,Litre,1000,5,7.8
+MAT042,Acetone (Grade A),Solvent,Litre,800,10,6.4
+MAT043,White Spirit (Grade A),Solvent,Litre,800,7,4.08
+MAT044,Glycol Ether (Standard),Solvent,Litre,500,14,4.94
+MAT045,Cardboard Box 5L,Packaging,Unit,1500,7,2.68
+MAT046,Dark Magenta Powder,Pigment,KG,500,21,18.77
+MAT047,Vibrant Black Paste,Pigment,KG,300,21,5.76
+MAT048,Urea Binder,Resin,KG,1000,14,4.77
+MAT049,Vibrant Yellow Concentrate,Pigment,KG,100,14,2.62
+MAT050,Plastic Drum 50L,Packaging,Unit,2000,14,8.4
+MAT051,Phenolic Hardener,Resin,Litre,200,21,7.68
+MAT052,Pure Yellow Paste,Pigment,KG,500,10,14.96
+MAT053,Premium Violet Pigment,Pigment,KG,200,7,19.59
+MAT054,Cardboard Box 20L,Packaging,Unit,1500,3,7.72
+MAT055,Acrylic Copolymer,Resin,Litre,300,21,9.86
+MAT056,Ethanol (Pure),Solvent,Litre,1000,14,2.66
+MAT057,Butyl Acetate (Standard),Solvent,Litre,1500,14,7.88
+MAT058,Epoxy Resin,Resin,Litre,400,14,11.5
+MAT059,Ethanol (Standard),Solvent,Litre,1000,14,1.12
+MAT060,Glycol Ether (Pure),Solvent,Litre,1200,14,1.67
+MAT061,Premium Violet Oxide,Pigment,KG,100,14,8.47
+MAT062,Standard Orange Oxide,Pigment,KG,200,21,5.56
+MAT063,Metal Can 4L,Packaging,Unit,1000,3,3.13
+MAT064,Cardboard Box Medium,Packaging,Unit,1500,14,10.63
+MAT065,Heptane (Grade A),Solvent,Litre,1000,10,6.08
+MAT066,Ethanol (Standard),Solvent,Litre,2000,14,7.21
+MAT067,Plastic Drum 500ml,Packaging,Unit,1000,10,7.09
+MAT068,Cardboard Box 50L,Packaging,Unit,800,3,0.36
+MAT069,Cardboard Box 1L,Packaging,Unit,500,7,7.93
+MAT070,Organic Red Paste,Pigment,KG,100,28,5.63
+MAT071,Glass Bottle 25L,Packaging,Unit,800,3,3.9
+MAT072,Steel Drum Small,Packaging,Unit,800,14,5.99
+MAT073,Plastic Drum Small,Packaging,Unit,500,14,6.18
+MAT074,Plastic Bottle 500ml,Packaging,Unit,1500,10,8.75
+MAT075,Ethanol (Pure),Solvent,Litre,500,14,2.24
+MAT076,Cardboard Box Large,Packaging,Unit,2000,14,10.64
+MAT077,Metal Can 5L,Packaging,Unit,1500,3,6.77
+MAT078,Isopropyl Alcohol (IPA) (Standard),Solvent,Litre,500,14,3.06
+MAT079,Dark Red Powder,Pigment,KG,150,7,9.41
+MAT080,Urea Hardener,Resin,Litre,800,21,5.9
+MAT081,Butyl Acetate (Pure),Solvent,Litre,800,10,4.63
+MAT082,Urea Resin,Resin,Litre,200,10,11.58
+MAT083,Plastic Bottle Large,Packaging,Unit,500,5,9.78
+MAT084,Light Cyan Pigment,Pigment,KG,300,28,5.9
+MAT085,Glass Bottle Medium,Packaging,Unit,800,10,7.07
+MAT086,Plastic Bottle 10L,Packaging,Unit,800,3,2.11
+MAT087,Polyester Emulsion,Resin,Litre,800,10,3.93
+MAT088,Polyester Hardener,Resin,Litre,600,10,13.02
+MAT089,Steel Drum Medium,Packaging,Unit,1500,10,10.15
+MAT090,Steel Drum 2L,Packaging,Unit,1000,14,11.64
+MAT091,Alkyd Resin,Resin,Litre,1000,18,8.55
+MAT092,Naphtha (Grade A),Solvent,Litre,800,5,1.57
+MAT093,Heptane (Standard),Solvent,Litre,1500,5,2.21
+MAT094,Standard White Pigment,Pigment,KG,400,28,13.67
+MAT095,Dark Black Concentrate,Pigment,KG,600,14,6.84
+MAT096,Plastic Drum 5L,Packaging,Unit,2000,3,4.3
+MAT097,Fiber Drum 500ml,Packaging,Unit,2000,10,2.35
+MAT098,Plastic Pail 200L,Packaging,Unit,1500,10,2.33
+MAT099,Vinyl Emulsion,Resin,Litre,800,10,13.7
+MAT100,Plastic Bottle 200L,Packaging,Unit,500,7,6.19
+MAT101,Light Black Concentrate,Pigment,KG,300,10,2.96
+MAT102,Glass Bottle Small,Packaging,Unit,1000,10,4.84
+MAT103,Metal Can 500ml,Packaging,Unit,1500,7,9.9
+MAT104,Plastic Drum 500ml,Packaging,Unit,300,5,2.72
+MAT105,Standard Green Oxide,Pigment,KG,200,7,13.98
+MAT106,Pure Cyan Oxide,Pigment,KG,500,10,7.06
+MAT107,Ethanol (Technical),Solvent,Litre,1500,7,5.4
+MAT108,Light Yellow Pigment,Pigment,KG,400,28,7.44
+MAT109,Vinyl Resin,Resin,Litre,400,10,11.91
+MAT110,Plastic Pail 500ml,Packaging,Unit,2000,14,3.09
+MAT111,Xylene (Pure),Solvent,Litre,500,10,1.72
+MAT112,Premium Yellow Pigment,Pigment,KG,500,28,18.17
+MAT113,Organic Brown Powder,Pigment,KG,300,7,8.09
+MAT114,Polyurethane Hardener,Resin,Litre,1000,21,8.66
+MAT115,Cyclohexane (Grade A),Solvent,Litre,1200,10,2.49
+MAT116,Dark Brown Concentrate,Pigment,KG,400,10,19.55
+MAT117,Urea Copolymer,Resin,KG,1000,10,7.54
+MAT118,Melamine Emulsion,Resin,Litre,500,10,4.66
+MAT119,Toluene (Grade A),Solvent,Litre,800,5,6.75
+MAT120,Acrylic Copolymer,Resin,KG,600,14,14.85
+MAT121,Fiber Drum 500ml,Packaging,Unit,2000,10,3.07
+MAT122,Heptane (Grade A),Solvent,Litre,1200,14,3.63
+MAT123,Isopropyl Alcohol (IPA) (Grade A),Solvent,Litre,1200,7,5.94
+MAT124,Urea Hardener,Resin,KG,800,18,6.42
+MAT125,Urea Binder,Resin,Litre,600,18,10.97
+MAT126,Synthetic Brown Paste,Pigment,KG,100,7,17.7
+MAT127,Vinyl Polymer,Resin,Litre,500,10,14.65
+MAT128,Inorganic White Concentrate,Pigment,KG,200,21,3.79
+MAT129,Isopropyl Alcohol (IPA) (Standard),Solvent,Litre,500,7,2.16
+MAT130,Premium Black Powder,Pigment,KG,600,7,18.52
+MAT131,Phenolic Polymer,Resin,Litre,500,10,6.69
+MAT132,Steel Drum 200L,Packaging,Unit,500,10,7.13
+MAT133,Fiber Drum 50L,Packaging,Unit,1000,7,8.47
+MAT134,Vibrant Red Concentrate,Pigment,KG,300,28,14.48
+MAT135,Synthetic White Oxide,Pigment,KG,200,28,13.23
+MAT136,Urea Polymer,Resin,Litre,400,10,5.4
+MAT137,Metal Can 10L,Packaging,Unit,300,5,11.85
+MAT138,Inorganic Cyan Pigment,Pigment,KG,500,14,17.24
+MAT139,Premium Blue Pigment,Pigment,KG,200,7,2.74
+MAT140,Butyl Acetate (Standard),Solvent,Litre,500,5,8.0
+MAT141,Alkyd Copolymer,Resin,KG,600,10,14.36
+MAT142,Alkyd Resin,Resin,KG,800,10,4.99
+MAT143,Xylene (Grade A),Solvent,Litre,1200,7,7.15
+MAT144,Glass Bottle 1L,Packaging,Unit,1000,5,6.13
+MAT145,Polyester Hardener,Resin,KG,300,21,12.89
+MAT146,Fiber Drum Small,Packaging,Unit,300,3,1.87
+MAT147,Ethyl Acetate (Pure),Solvent,Litre,1500,5,5.48
+MAT148,Isopropyl Alcohol (IPA) (Pure),Solvent,Litre,2000,14,1.1
+MAT149,Acrylic Emulsion,Resin,Litre,800,18,8.53
+MAT150,Methyl Ethyl Ketone (MEK) (Standard),Solvent,Litre,500,7,4.16
+MAT151,Cyclohexane (Technical),Solvent,Litre,800,10,5.88
+MAT152,Organic Cyan Pigment,Pigment,KG,150,7,7.02
+MAT153,Fiber Drum 1L,Packaging,Unit,2000,14,4.36
+MAT154,Alkyd Resin,Resin,KG,1000,21,5.25
+MAT155,Phenolic Binder,Resin,Litre,500,21,8.23
+MAT156,Plastic Drum Small,Packaging,Unit,1500,5,7.34
+MAT157,Isopropyl Alcohol (IPA) (Grade A),Solvent,Litre,1500,7,2.95
+MAT158,Ultra Black Pigment,Pigment,KG,400,7,8.73
+MAT159,Acrylic Resin,Resin,Litre,300,10,7.2
+MAT160,Melamine Resin,Resin,Litre,1000,21,13.55
+MAT161,Xylene (Grade A),Solvent,Litre,800,14,6.64
+MAT162,Synthetic Yellow Oxide,Pigment,KG,300,10,15.58
+MAT163,Phenolic Hardener,Resin,KG,400,18,13.21
+MAT164,Glycol Ether (Standard),Solvent,Litre,1500,7,4.13
+MAT165,Isopropyl Alcohol (IPA) (Pure),Solvent,Litre,500,10,3.64
+MAT166,Silicone Resin,Resin,KG,1000,14,7.27
+MAT167,Metal Can 500ml,Packaging,Unit,1500,10,5.85
+MAT168,Alkyd Resin,Resin,KG,300,18,10.22
+MAT169,Acrylic Resin,Resin,Litre,400,14,6.76
+MAT170,Polyurethane Emulsion,Resin,Litre,300,18,7.6
+MAT171,Ultra Black Pigment,Pigment,KG,100,28,4.28
+MAT172,Polyester Binder,Resin,Litre,400,14,6.78
+MAT173,Hexane (Pure),Solvent,Litre,500,10,1.36
+MAT174,Hexane (Grade A),Solvent,Litre,1200,14,1.78
+MAT175,Polyurethane Binder,Resin,KG,500,18,12.9
+MAT176,Light White Powder,Pigment,KG,500,7,15.07
+MAT177,Hexane (Technical),Solvent,Litre,1000,5,6.39
+MAT178,Urea Polymer,Resin,Litre,400,21,9.34
+MAT179,Premium Cyan Concentrate,Pigment,KG,500,14,18.81
+MAT180,Synthetic Red Oxide,Pigment,KG,150,28,3.61
+MAT181,Plastic Pail Large,Packaging,Unit,500,10,3.28
+MAT182,Vibrant Red Pigment,Pigment,KG,200,14,8.61
+MAT183,Inorganic Blue Concentrate,Pigment,KG,200,7,6.09
+MAT184,Isopropyl Alcohol (IPA) (Grade A),Solvent,Litre,2000,14,6.89
+MAT185,Plastic Drum 50L,Packaging,Unit,1500,10,2.21
+MAT186,Inorganic Black Powder,Pigment,KG,200,10,18.39
+MAT187,Pure Brown Oxide,Pigment,KG,600,14,13.42
+MAT188,Dark Red Pigment,Pigment,KG,100,7,9.35
+MAT189,Vinyl Hardener,Resin,KG,400,14,14.31
+MAT190,Isopropyl Alcohol (IPA) (Standard),Solvent,Litre,800,14,2.17
+MAT191,Xylene (Grade A),Solvent,Litre,1200,7,7.26
+MAT192,Fiber Drum 10L,Packaging,Unit,300,3,8.57
+MAT193,Ethyl Acetate (Grade A),Solvent,Litre,2000,14,4.99
+MAT194,Vinyl Hardener,Resin,Litre,200,14,12.94
+MAT195,Glycol Ether (Standard),Solvent,Litre,1500,14,5.23
+MAT196,Xylene (Standard),Solvent,Litre,1500,5,2.6
+MAT197,Fiber Drum 1L,Packaging,Unit,800,7,8.42
+MAT198,Plastic Pail Small,Packaging,Unit,800,14,9.97
+MAT199,Urea Polymer,Resin,Litre,1000,18,6.81
+MAT200,Cyclohexane (Technical),Solvent,Litre,1500,14,4.54
+MAT201,Premium Violet Paste,Pigment,KG,200,21,4.29
+MAT202,Steel Drum 5L,Packaging,Unit,1500,5,9.32
+MAT203,Naphtha (Grade A),Solvent,Litre,2000,10,6.16
+MAT204,Metal Can 10L,Packaging,Unit,800,3,1.62
+MAT205,Pure Yellow Pigment,Pigment,KG,100,14,12.85
+MAT206,Vibrant Black Pigment,Pigment,KG,150,21,16.29
+MAT207,Melamine Hardener,Resin,KG,500,10,13.43
+MAT208,Acrylic Emulsion,Resin,KG,300,18,8.7
+MAT209,White Spirit (Standard),Solvent,Litre,1000,10,2.74
+MAT210,Dark Yellow Concentrate,Pigment,KG,100,7,16.16
+MAT211,Butyl Acetate (Technical),Solvent,Litre,1200,7,5.64
+MAT212,Acetone (Standard),Solvent,Litre,500,5,4.9
+MAT213,Phenolic Resin,Resin,KG,200,21,4.27
+MAT214,Isopropyl Alcohol (IPA) (Pure),Solvent,Litre,1000,7,2.44
+MAT215,Premium Violet Powder,Pigment,KG,150,7,16.07
+MAT216,Methyl Ethyl Ketone (MEK) (Technical),Solvent,Litre,2000,14,4.37
+MAT217,Polyester Hardener,Resin,KG,500,10,7.35
+MAT218,Ethyl Acetate (Pure),Solvent,Litre,800,7,7.28
+MAT219,Epoxy Binder,Resin,Litre,300,18,11.08
+MAT220,Vibrant Orange Powder,Pigment,KG,600,14,11.35
+MAT221,Cardboard Box 50L,Packaging,Unit,1500,7,10.68
+MAT222,Plastic Bottle 25L,Packaging,Unit,500,7,3.15
+MAT223,Phenolic Polymer,Resin,KG,500,21,11.18
+MAT224,Dark Blue Oxide,Pigment,KG,600,7,6.14
+MAT225,Xylene (Pure),Solvent,Litre,1200,5,3.95
+MAT226,Epoxy Copolymer,Resin,Litre,400,14,12.99
+MAT227,Ethyl Acetate (Pure),Solvent,Litre,1200,14,5.37
+MAT228,Melamine Emulsion,Resin,KG,500,18,14.41
+MAT229,Phenolic Resin,Resin,Litre,800,21,14.83
+MAT230,Acetone (Technical),Solvent,Litre,1000,5,2.88
+MAT231,Plastic Pail Large,Packaging,Unit,300,3,1.93
+MAT232,Toluene (Standard),Solvent,Litre,800,7,7.3
+MAT233,Silicone Copolymer,Resin,KG,800,14,9.59
+MAT234,Polyurethane Resin,Resin,Litre,300,10,8.16
+MAT235,Urea Binder,Resin,KG,600,14,5.11
+MAT236,Heptane (Pure),Solvent,Litre,2000,10,5.18
+MAT237,Fiber Drum 50L,Packaging,Unit,1500,5,11.0
+MAT238,Vinyl Binder,Resin,Litre,300,14,4.04
+MAT239,Cardboard Box Small,Packaging,Unit,300,7,1.36
+MAT240,Naphtha (Grade A),Solvent,Litre,1500,10,3.02
+MAT241,Steel Drum 500ml,Packaging,Unit,800,7,11.41
+MAT242,Glycol Ether (Standard),Solvent,Litre,2000,7,6.13
+MAT243,Pure Yellow Paste,Pigment,KG,200,14,17.23
+MAT244,Standard Brown Oxide,Pigment,KG,150,28,8.53
+MAT245,Metal Can 500ml,Packaging,Unit,300,14,8.35
+MAT246,Melamine Hardener,Resin,KG,300,10,3.53
+MAT247,Toluene (Technical),Solvent,Litre,800,14,3.53
+MAT248,Plastic Drum Small,Packaging,Unit,300,14,9.54
+MAT249,Dark Red Paste,Pigment,KG,500,14,15.31
+MAT250,Premium Orange Concentrate,Pigment,KG,500,7,18.31
+MAT251,Plastic Bottle Small,Packaging,Unit,500,3,11.35
+MAT252,Naphtha (Standard),Solvent,Litre,500,10,4.89
+MAT253,Urea Polymer,Resin,KG,600,18,6.92
+MAT254,Glass Bottle 1L,Packaging,Unit,800,14,5.85
+MAT255,Polyurethane Hardener,Resin,Litre,400,14,10.91
+MAT256,Phenolic Hardener,Resin,Litre,500,10,4.38
+MAT257,Light Cyan Paste,Pigment,KG,600,7,11.92
+MAT258,Melamine Copolymer,Resin,Litre,200,21,8.41
+MAT259,Cardboard Box 1L,Packaging,Unit,800,5,11.89
+MAT260,Ethyl Acetate (Grade A),Solvent,Litre,1500,7,7.57
+MAT261,White Spirit (Pure),Solvent,Litre,2000,14,1.37
+MAT262,Inorganic Brown Paste,Pigment,KG,600,7,15.94
+MAT263,Dark Yellow Concentrate,Pigment,KG,100,7,4.43
+MAT264,Phenolic Polymer,Resin,Litre,500,14,6.19
+MAT265,Premium Black Pigment,Pigment,KG,600,7,9.35
+MAT266,Steel Drum Small,Packaging,Unit,500,14,9.5
+MAT267,Cyclohexane (Technical),Solvent,Litre,2000,14,4.27
+MAT268,Standard Brown Paste,Pigment,KG,300,14,9.53
+MAT269,Ultra Black Powder,Pigment,KG,400,10,3.32
+MAT270,Pure Brown Pigment,Pigment,KG,150,14,16.96
+MAT271,Inorganic White Pigment,Pigment,KG,100,14,12.95
+MAT272,Pure Green Oxide,Pigment,KG,150,7,5.19
+MAT273,Plastic Drum 10L,Packaging,Unit,1500,14,6.58
+MAT274,Organic Black Oxide,Pigment,KG,200,7,9.35
+MAT275,Cyclohexane (Grade A),Solvent,Litre,500,10,7.69
+MAT276,Plastic Pail 50L,Packaging,Unit,300,14,8.9
+MAT277,Phenolic Binder,Resin,KG,800,21,11.5
+MAT278,Plastic Pail 1L,Packaging,Unit,2000,14,2.88
+MAT279,Inorganic Red Oxide,Pigment,KG,400,28,18.36
+MAT280,Hexane (Standard),Solvent,Litre,800,14,4.96
+MAT281,Premium White Powder,Pigment,KG,300,7,5.25
+MAT282,Metal Can Large,Packaging,Unit,800,14,8.46
+MAT283,Polyurethane Hardener,Resin,Litre,500,18,13.64
+MAT284,Pure Brown Powder,Pigment,KG,600,10,4.76
+MAT285,Methanol (Technical),Solvent,Litre,800,14,4.89
+MAT286,Dark Blue Concentrate,Pigment,KG,500,14,19.67
+MAT287,Light Blue Paste,Pigment,KG,400,14,4.75
+MAT288,Toluene (Pure),Solvent,Litre,800,5,7.74
+MAT289,Cyclohexane (Standard),Solvent,Litre,2000,5,1.72
+MAT290,Steel Drum 4L,Packaging,Unit,500,10,3.82
+MAT291,Ultra Red Oxide,Pigment,KG,500,7,3.51
+MAT292,Plastic Drum 1L,Packaging,Unit,500,14,5.52
+MAT293,Isopropyl Alcohol (IPA) (Standard),Solvent,Litre,1500,14,1.17
+MAT294,Acetone (Technical),Solvent,Litre,1000,10,5.78
+MAT295,Acrylic Polymer,Resin,Litre,600,21,8.4
+MAT296,Vibrant Orange Concentrate,Pigment,KG,400,14,6.36
+MAT297,Polyurethane Polymer,Resin,KG,400,18,14.43
+MAT298,Glass Bottle Medium,Packaging,Unit,1500,14,10.94
+MAT299,Organic White Powder,Pigment,KG,100,28,19.72
+MAT300,Pure White Oxide,Pigment,KG,400,14,3.04
+MAT301,Light Blue Paste,Pigment,KG,200,21,5.75
+MAT302,Inorganic Violet Powder,Pigment,KG,500,10,15.82
+MAT303,Xylene (Standard),Solvent,Litre,1200,5,7.38
+MAT304,Alkyd Binder,Resin,Litre,1000,10,3.51
+MAT305,Acetone (Technical),Solvent,Litre,1200,14,4.01
+MAT306,Melamine Binder,Resin,KG,800,14,7.25
+MAT307,Phenolic Hardener,Resin,Litre,600,10,3.63
+MAT308,Acrylic Polymer,Resin,KG,1000,14,6.85
+MAT309,Vibrant Red Paste,Pigment,KG,500,7,3.19
+MAT310,Alkyd Resin,Resin,KG,500,10,10.07
+MAT311,Butyl Acetate (Technical),Solvent,Litre,1200,14,3.42
+MAT312,Glass Bottle 1L,Packaging,Unit,1000,3,6.36
+MAT313,Vibrant Red Concentrate,Pigment,KG,300,10,9.45
+MAT314,Polyester Emulsion,Resin,Litre,300,14,12.95
+MAT315,Silicone Binder,Resin,KG,400,10,11.62
+MAT316,Melamine Polymer,Resin,KG,1000,18,9.72
+MAT317,Phenolic Emulsion,Resin,Litre,800,21,7.4
+MAT318,Glycol Ether (Pure),Solvent,Litre,1000,14,4.87
+MAT319,Urea Polymer,Resin,Litre,1000,18,3.97
+MAT320,Plastic Pail Small,Packaging,Unit,500,10,3.19
+MAT321,Vibrant Green Oxide,Pigment,KG,200,21,15.52
+MAT322,Dark Black Powder,Pigment,KG,300,10,2.87
+MAT323,Butyl Acetate (Grade A),Solvent,Litre,500,10,5.55
+MAT324,Alkyd Hardener,Resin,KG,600,14,3.85
+MAT325,Dark Red Concentrate,Pigment,KG,600,10,15.5
+MAT326,Fiber Drum 4L,Packaging,Unit,1000,10,9.28
+MAT327,Glass Bottle 1L,Packaging,Unit,300,7,7.07
+MAT328,Plastic Pail 5L,Packaging,Unit,500,10,10.52
+MAT329,Polyurethane Polymer,Resin,KG,300,18,10.31
+MAT330,Alkyd Copolymer,Resin,Litre,600,18,6.21
+MAT331,Phenolic Binder,Resin,Litre,800,18,10.77
+MAT332,Acrylic Copolymer,Resin,KG,800,10,8.53
+MAT333,Phenolic Resin,Resin,Litre,300,18,5.38
+MAT334,Heptane (Grade A),Solvent,Litre,1200,7,7.01
+MAT335,Premium Violet Paste,Pigment,KG,300,28,6.65
+MAT336,White Spirit (Technical),Solvent,Litre,1000,7,2.19
+MAT337,Urea Binder,Resin,Litre,200,10,8.67
+MAT338,Plastic Drum Medium,Packaging,Unit,300,3,2.25
+MAT339,Steel Drum 50L,Packaging,Unit,800,14,4.47
+MAT340,Fiber Drum 500ml,Packaging,Unit,300,10,5.52
+MAT341,Glycol Ether (Technical),Solvent,Litre,1200,10,1.78
+MAT342,Acrylic Resin,Resin,KG,600,21,4.09
+MAT343,Dark Green Concentrate,Pigment,KG,400,14,8.03
+MAT344,Synthetic Cyan Paste,Pigment,KG,400,10,19.39
+MAT345,Toluene (Technical),Solvent,Litre,500,7,7.81
+MAT346,Glycol Ether (Standard),Solvent,Litre,1000,7,3.4
+MAT347,Polyurethane Polymer,Resin,KG,500,21,14.31
+MAT348,Plastic Bottle 25L,Packaging,Unit,500,14,1.4
+MAT349,Fiber Drum 10L,Packaging,Unit,1500,5,8.04
+MAT350,Naphtha (Pure),Solvent,Litre,800,7,4.48
+MAT351,Pure Violet Pigment,Pigment,KG,300,14,18.79
+MAT352,Polyurethane Resin,Resin,KG,400,18,11.08
+MAT353,Inorganic Brown Oxide,Pigment,KG,500,21,5.29
+MAT354,Cardboard Box 50L,Packaging,Unit,300,3,11.92
+MAT355,Vibrant Black Concentrate,Pigment,KG,600,7,4.41
+MAT356,Polyester Polymer,Resin,Litre,800,18,12.79
+MAT357,Melamine Hardener,Resin,KG,400,10,4.88
+MAT358,Silicone Resin,Resin,KG,1000,10,7.71
+MAT359,Glycol Ether (Grade A),Solvent,Litre,1000,14,4.84
+MAT360,Premium Red Powder,Pigment,KG,300,10,12.77
+MAT361,Cardboard Box 200L,Packaging,Unit,500,3,4.74
+MAT362,Phenolic Emulsion,Resin,Litre,500,10,12.86
+MAT363,Inorganic Blue Concentrate,Pigment,KG,600,21,10.84
+MAT364,Ethyl Acetate (Technical),Solvent,Litre,2000,7,6.01
+MAT365,Xylene (Grade A),Solvent,Litre,1000,10,7.28
+MAT366,Vibrant Yellow Powder,Pigment,KG,200,21,18.85
+MAT367,Alkyd Emulsion,Resin,Litre,600,21,6.45
+MAT368,Cardboard Box Small,Packaging,Unit,1500,10,6.61
+MAT369,Plastic Pail 4L,Packaging,Unit,2000,5,4.98
+MAT370,Organic Cyan Pigment,Pigment,KG,500,14,4.66
+MAT371,Plastic Pail 20L,Packaging,Unit,1500,3,6.94
+MAT372,Phenolic Binder,Resin,Litre,500,14,12.77
+MAT373,Light Cyan Powder,Pigment,KG,400,28,17.97
+MAT374,Pure Brown Oxide,Pigment,KG,150,7,17.2
+MAT375,Glass Bottle 500ml,Packaging,Unit,500,7,9.43
+MAT376,Phenolic Hardener,Resin,Litre,500,18,11.18
+MAT377,Alkyd Binder,Resin,Litre,200,18,10.25
+MAT378,Acetone (Pure),Solvent,Litre,1200,7,4.31
+MAT379,Premium White Concentrate,Pigment,KG,600,14,13.12
+MAT380,Plastic Drum 200L,Packaging,Unit,300,14,7.26
+MAT381,Melamine Emulsion,Resin,Litre,400,18,11.49
+MAT382,Naphtha (Technical),Solvent,Litre,1500,10,6.07
+MAT383,Ethyl Acetate (Standard),Solvent,Litre,1200,7,1.73
+MAT384,Polyester Emulsion,Resin,Litre,1000,10,4.41
+MAT385,Fiber Drum 500ml,Packaging,Unit,1000,7,4.99
+MAT386,Ultra Brown Paste,Pigment,KG,400,7,17.06
+MAT387,Fiber Drum Medium,Packaging,Unit,800,14,3.47
+MAT388,Plastic Pail 2L,Packaging,Unit,2000,10,4.09
+MAT389,Butyl Acetate (Technical),Solvent,Litre,800,10,3.65
+MAT390,Epoxy Hardener,Resin,Litre,1000,14,7.34
+MAT391,Urea Binder,Resin,KG,600,10,11.44
+MAT392,Dark Cyan Pigment,Pigment,KG,600,21,8.58
+MAT393,Glass Bottle 4L,Packaging,Unit,800,14,1.7
+MAT394,Hexane (Technical),Solvent,Litre,1500,14,7.49
+MAT395,Metal Can 50L,Packaging,Unit,2000,14,1.39
+MAT396,Acrylic Resin,Resin,KG,500,14,5.33
+MAT397,Organic Red Oxide,Pigment,KG,400,10,9.17
+MAT398,Melamine Resin,Resin,KG,400,18,8.07
+MAT399,Naphtha (Standard),Solvent,Litre,800,10,2.13
+MAT400,Polyester Binder,Resin,KG,500,14,9.26
+MAT401,Pure White Oxide,Pigment,KG,400,14,14.3
+MAT402,Polyester Hardener,Resin,Litre,1000,21,12.92
+MAT403,Methanol (Pure),Solvent,Litre,800,10,5.86
+MAT404,Polyurethane Emulsion,Resin,Litre,300,10,10.11
+MAT405,Ultra Red Paste,Pigment,KG,600,7,13.11
+MAT406,Polyurethane Hardener,Resin,KG,200,14,5.18
+MAT407,Standard Violet Concentrate,Pigment,KG,150,21,4.87
+MAT408,Fiber Drum Medium,Packaging,Unit,1000,10,3.95
+MAT409,Polyurethane Emulsion,Resin,KG,500,18,10.87
+MAT410,Standard Orange Powder,Pigment,KG,600,14,12.38
+MAT411,Urea Resin,Resin,Litre,800,18,12.17
+MAT412,Hexane (Pure),Solvent,Litre,500,10,2.67
+MAT413,Methanol (Grade A),Solvent,Litre,1200,7,2.86
+MAT414,Cyclohexane (Grade A),Solvent,Litre,1200,14,7.98
+MAT415,Inorganic Orange Paste,Pigment,KG,300,28,13.42
+MAT416,Cardboard Box 20L,Packaging,Unit,500,14,10.67
+MAT417,Alkyd Hardener,Resin,Litre,800,14,5.53
+MAT418,Ultra Black Oxide,Pigment,KG,500,14,9.83
+MAT419,Vinyl Emulsion,Resin,KG,300,21,9.66
+MAT420,Inorganic Cyan Oxide,Pigment,KG,400,28,5.98
+MAT421,Organic Red Powder,Pigment,KG,100,21,13.81
+MAT422,Organic Orange Concentrate,Pigment,KG,150,21,17.63
+MAT423,Steel Drum 1L,Packaging,Unit,800,3,7.48
+MAT424,Ultra Cyan Concentrate,Pigment,KG,150,28,4.83
+MAT425,Metal Can 25L,Packaging,Unit,300,3,8.35
+MAT426,Glass Bottle Large,Packaging,Unit,300,5,11.18
+MAT427,Steel Drum 25L,Packaging,Unit,1500,10,7.76
+MAT428,Phenolic Hardener,Resin,Litre,200,18,13.73
+MAT429,Hexane (Grade A),Solvent,Litre,1000,5,6.16
+MAT430,Dark Black Concentrate,Pigment,KG,100,14,14.03
+MAT431,Hexane (Pure),Solvent,Litre,500,5,4.56
+MAT432,Plastic Pail 4L,Packaging,Unit,800,10,9.36
+MAT433,Isopropyl Alcohol (IPA) (Standard),Solvent,Litre,1000,10,3.88
+MAT434,Ultra Violet Oxide,Pigment,KG,500,21,18.23
+MAT435,Glass Bottle 25L,Packaging,Unit,300,3,4.77
+MAT436,Alkyd Resin,Resin,Litre,800,21,12.41
+MAT437,Vibrant Cyan Oxide,Pigment,KG,150,28,4.69
+MAT438,Hexane (Technical),Solvent,Litre,2000,5,5.08
+MAT439,Cyclohexane (Technical),Solvent,Litre,1000,7,3.37
+MAT440,Plastic Pail 20L,Packaging,Unit,300,3,4.7
+MAT441,Urea Resin,Resin,Litre,800,21,6.27
+MAT442,Synthetic Red Concentrate,Pigment,KG,200,10,16.78
+MAT443,Ethyl Acetate (Grade A),Solvent,Litre,1200,5,4.81
+MAT444,Inorganic Violet Paste,Pigment,KG,200,14,7.21
+MAT445,Fiber Drum Large,Packaging,Unit,500,5,1.84
+MAT446,Ethanol (Pure),Solvent,Litre,800,10,4.42
+MAT447,Hexane (Standard),Solvent,Litre,1500,7,4.8
+MAT448,Premium Violet Powder,Pigment,KG,600,14,5.15
+MAT449,Silicone Binder,Resin,KG,200,21,8.49
+MAT450,Plastic Pail 200L,Packaging,Unit,300,10,8.8
+MAT451,Organic Violet Powder,Pigment,KG,150,10,6.07
+MAT452,Vinyl Polymer,Resin,KG,400,18,11.41
+MAT453,Fiber Drum 50L,Packaging,Unit,1000,10,0.36
+MAT454,Urea Polymer,Resin,Litre,200,14,5.83
+MAT455,Vinyl Resin,Resin,Litre,400,21,5.21
+MAT456,Butyl Acetate (Standard),Solvent,Litre,1000,5,1.87
+MAT457,Xylene (Standard),Solvent,Litre,1200,7,7.2
+MAT458,Naphtha (Grade A),Solvent,Litre,2000,5,1.01
+MAT459,Methanol (Technical),Solvent,Litre,2000,7,3.49
+MAT460,Organic Red Paste,Pigment,KG,400,14,3.63
+MAT461,Plastic Pail 20L,Packaging,Unit,1000,10,0.92
+MAT462,Plastic Pail 1L,Packaging,Unit,800,10,9.95
+MAT463,Synthetic White Concentrate,Pigment,KG,300,10,14.88
+MAT464,Ethanol (Standard),Solvent,Litre,1000,14,3.61
+MAT465,Silicone Resin,Resin,KG,200,14,7.77
+MAT466,Vibrant White Concentrate,Pigment,KG,100,7,13.66
+MAT467,Glass Bottle Small,Packaging,Unit,2000,10,4.79
+MAT468,Pure Black Pigment,Pigment,KG,300,28,19.64
+MAT469,Xylene (Pure),Solvent,Litre,500,7,6.82
+MAT470,Ultra Red Powder,Pigment,KG,400,14,18.96
+MAT471,Alkyd Polymer,Resin,Litre,400,10,13.18
+MAT472,Organic Red Concentrate,Pigment,KG,150,28,14.86
+MAT473,Polyurethane Polymer,Resin,KG,1000,14,13.96
+MAT474,Metal Can 4L,Packaging,Unit,2000,3,2.16
+MAT475,Steel Drum Medium,Packaging,Unit,300,10,7.99
+MAT476,Fiber Drum 25L,Packaging,Unit,1000,5,3.6
+MAT477,Plastic Bottle 2L,Packaging,Unit,1000,5,3.48
+MAT478,Urea Resin,Resin,KG,800,21,5.3
+MAT479,Glass Bottle Small,Packaging,Unit,1000,5,10.91
+MAT480,Inorganic Yellow Oxide,Pigment,KG,100,14,8.58
+MAT481,Glycol Ether (Technical),Solvent,Litre,1000,14,1.9
+MAT482,Plastic Bottle 5L,Packaging,Unit,500,5,5.2
+MAT483,Cardboard Box 50L,Packaging,Unit,1500,5,11.76
+MAT484,Synthetic Orange Oxide,Pigment,KG,400,7,10.62
+MAT485,Inorganic Brown Concentrate,Pigment,KG,100,7,5.15
+MAT486,Plastic Bottle 200L,Packaging,Unit,300,3,6.42
+MAT487,Standard Cyan Powder,Pigment,KG,100,7,12.01
+MAT488,Polyester Emulsion,Resin,KG,300,10,5.12
+MAT489,Melamine Emulsion,Resin,Litre,300,21,8.24
+MAT490,Dark White Paste,Pigment,KG,600,21,8.73
+MAT491,Isopropyl Alcohol (IPA) (Pure),Solvent,Litre,500,14,3.38
+MAT492,Organic Cyan Paste,Pigment,KG,500,21,11.59
+MAT493,Glass Bottle 5L,Packaging,Unit,2000,10,10.49
+MAT494,Xylene (Grade A),Solvent,Litre,800,14,6.4
+MAT495,Methyl Ethyl Ketone (MEK) (Grade A),Solvent,Litre,2000,10,7.36
+MAT496,Pure Yellow Powder,Pigment,KG,500,21,10.4
+MAT497,Methyl Ethyl Ketone (MEK) (Pure),Solvent,Litre,1000,5,7.75
+MAT498,Steel Drum 200L,Packaging,Unit,1000,10,9.16
+MAT499,Inorganic Violet Pigment,Pigment,KG,600,10,5.26
+MAT500,Cardboard Box Medium,Packaging,Unit,500,7,4.55
+MAT501,Methyl Ethyl Ketone (MEK) (Pure),Solvent,Litre,2000,5,5.19
+MAT502,Hexane (Grade A),Solvent,Litre,1200,14,2.06
+MAT503,Cardboard Box 10L,Packaging,Unit,2000,7,10.62
+MAT504,Plastic Drum 20L,Packaging,Unit,300,14,11.81
+MAT505,Standard Yellow Paste,Pigment,KG,500,10,9.98
+MAT506,White Spirit (Grade A),Solvent,Litre,500,10,4.69
+MAT507,Organic Blue Oxide,Pigment,KG,500,28,19.54
+MAT508,Fiber Drum 50L,Packaging,Unit,1000,5,1.6
+MAT509,Steel Drum 50L,Packaging,Unit,800,5,9.91
+MAT510,Metal Can 5L,Packaging,Unit,500,7,10.59
+MAT511,Urea Copolymer,Resin,Litre,300,14,11.77
+MAT512,Ethanol (Technical),Solvent,Litre,500,10,4.15
+MAT513,Melamine Polymer,Resin,KG,600,21,8.92
+MAT514,White Spirit (Pure),Solvent,Litre,500,14,6.18
+MAT515,Acrylic Hardener,Resin,Litre,500,18,5.51
+MAT516,Organic Red Powder,Pigment,KG,300,10,11.47
+MAT517,Vinyl Hardener,Resin,KG,600,10,11.01
+MAT518,Polyurethane Binder,Resin,KG,1000,10,12.57
+MAT519,Standard Green Pigment,Pigment,KG,500,14,2.5
+MAT520,White Spirit (Technical),Solvent,Litre,2000,7,2.59
+MAT521,Light Green Powder,Pigment,KG,500,14,9.89
+MAT522,Light Violet Oxide,Pigment,KG,500,7,7.61
+MAT523,Isopropyl Alcohol (IPA) (Technical),Solvent,Litre,1000,5,6.88
+MAT524,Dark Brown Powder,Pigment,KG,300,7,7.43
+MAT525,Ethanol (Technical),Solvent,Litre,2000,5,4.78
+MAT526,Metal Can 50L,Packaging,Unit,300,10,3.82
+MAT527,Methanol (Pure),Solvent,Litre,500,10,6.11
+MAT528,Organic Magenta Paste,Pigment,KG,300,10,14.19
+MAT529,Polyester Resin,Resin,Litre,1000,18,4.41
+MAT530,Premium Green Powder,Pigment,KG,500,10,12.53
+MAT531,Inorganic Yellow Concentrate,Pigment,KG,200,21,4.51
+MAT532,Vibrant Brown Paste,Pigment,KG,200,7,3.63
+MAT533,Metal Can 25L,Packaging,Unit,1500,10,10.95
+MAT534,Melamine Hardener,Resin,Litre,500,10,5.46
+MAT535,Synthetic White Paste,Pigment,KG,100,28,13.69
+MAT536,Ethyl Acetate (Standard),Solvent,Litre,1200,14,3.69
+MAT537,Synthetic White Paste,Pigment,KG,150,10,10.78
+MAT538,Premium Violet Pigment,Pigment,KG,150,7,3.2
+MAT539,Urea Hardener,Resin,Litre,400,21,8.9
+MAT540,Premium Green Powder,Pigment,KG,400,21,6.12
+MAT541,Ultra Red Pigment,Pigment,KG,500,14,17.27
+MAT542,Pure Orange Concentrate,Pigment,KG,400,7,6.32
+MAT543,Polyester Polymer,Resin,KG,200,21,4.5
+MAT544,Premium Violet Concentrate,Pigment,KG,200,14,11.38
+MAT545,Dark Magenta Powder,Pigment,KG,200,28,18.76
+MAT546,Premium Violet Paste,Pigment,KG,200,21,17.94
+MAT547,Inorganic Red Concentrate,Pigment,KG,150,21,16.87
+MAT548,Metal Can Small,Packaging,Unit,2000,14,10.01
+MAT549,Organic Blue Oxide,Pigment,KG,150,21,9.22
+MAT550,Ethanol (Technical),Solvent,Litre,1500,10,5.17
+MAT551,Steel Drum 500ml,Packaging,Unit,300,10,1.24
+MAT552,Heptane (Pure),Solvent,Litre,800,10,5.52
+MAT553,Acrylic Hardener,Resin,KG,600,14,9.27
+MAT554,Butyl Acetate (Grade A),Solvent,Litre,500,10,7.12
+MAT555,Cardboard Box Small,Packaging,Unit,1500,5,6.5
+MAT556,Toluene (Standard),Solvent,Litre,800,5,5.86
+MAT557,Plastic Drum Small,Packaging,Unit,300,14,4.97
+MAT558,Inorganic Red Pigment,Pigment,KG,600,7,3.68
+MAT559,Ultra Magenta Oxide,Pigment,KG,300,14,3.86
+MAT560,Inorganic White Oxide,Pigment,KG,500,21,6.46
+MAT561,Plastic Drum 2L,Packaging,Unit,1000,10,11.02
+MAT562,Ethyl Acetate (Standard),Solvent,Litre,1000,14,1.09
+MAT563,Heptane (Technical),Solvent,Litre,1200,14,5.82
+MAT564,Methyl Ethyl Ketone (MEK) (Standard),Solvent,Litre,1200,5,5.52
+MAT565,Light Red Pigment,Pigment,KG,600,21,8.45
+MAT566,Acrylic Binder,Resin,KG,400,18,4.32
+MAT567,Epoxy Resin,Resin,Litre,600,21,7.69
+MAT568,Glass Bottle Medium,Packaging,Unit,2000,3,1.53
+MAT569,Standard Black Powder,Pigment,KG,200,14,4.88
+MAT570,Polyester Hardener,Resin,Litre,400,14,8.05
+MAT571,Vinyl Polymer,Resin,Litre,600,14,4.84
+MAT572,Vinyl Hardener,Resin,KG,800,21,14.94
+MAT573,Premium Magenta Paste,Pigment,KG,100,28,19.49
+MAT574,Polyurethane Copolymer,Resin,KG,200,10,9.62
+MAT575,Ultra Black Powder,Pigment,KG,600,14,8.73
+MAT576,Alkyd Emulsion,Resin,KG,600,14,11.29
+MAT577,Dark Yellow Powder,Pigment,KG,100,21,12.7
+MAT578,Synthetic Blue Powder,Pigment,KG,300,14,16.19
+MAT579,Cyclohexane (Technical),Solvent,Litre,2000,5,6.55
+MAT580,Methanol (Pure),Solvent,Litre,1500,14,1.28
+MAT581,Inorganic Yellow Powder,Pigment,KG,600,14,18.42
+MAT582,Butyl Acetate (Grade A),Solvent,Litre,1200,7,1.91
+MAT583,Ethyl Acetate (Standard),Solvent,Litre,1500,5,5.77
+MAT584,Pure White Pigment,Pigment,KG,200,14,11.48
+MAT585,Steel Drum 4L,Packaging,Unit,2000,5,6.05
+MAT586,Acetone (Technical),Solvent,Litre,1000,10,7.43
+MAT587,Methyl Ethyl Ketone (MEK) (Grade A),Solvent,Litre,1000,5,7.87
+MAT588,Alkyd Binder,Resin,KG,600,18,5.81
+MAT589,Light Yellow Concentrate,Pigment,KG,100,7,17.32
+MAT590,Glass Bottle 2L,Packaging,Unit,2000,7,5.55
+MAT591,Dark Blue Concentrate,Pigment,KG,500,14,17.76
+MAT592,Urea Polymer,Resin,KG,500,14,7.33
+MAT593,Hexane (Technical),Solvent,Litre,500,7,1.06
+MAT594,Methyl Ethyl Ketone (MEK) (Standard),Solvent,Litre,800,5,1.63
+MAT595,Silicone Hardener,Resin,KG,500,10,10.78
+MAT596,Methanol (Grade A),Solvent,Litre,1500,14,5.61
+MAT597,Acetone (Standard),Solvent,Litre,1000,7,1.73
+MAT598,Heptane (Technical),Solvent,Litre,2000,7,3.85
+MAT599,Polyester Hardener,Resin,KG,400,14,12.79
+MAT600,Standard Green Powder,Pigment,KG,500,10,3.85
+MAT601,Methyl Ethyl Ketone (MEK) (Technical),Solvent,Litre,1200,14,4.35
+MAT602,Acrylic Emulsion,Resin,KG,1000,18,6.17
+MAT603,Isopropyl Alcohol (IPA) (Standard),Solvent,Litre,2000,14,3.84
+MAT604,Butyl Acetate (Grade A),Solvent,Litre,1500,10,2.58
+MAT605,Inorganic Black Powder,Pigment,KG,400,14,13.84
+MAT606,Epoxy Polymer,Resin,Litre,300,21,10.69
+MAT607,Steel Drum 1L,Packaging,Unit,2000,5,8.65
+MAT608,Fiber Drum 25L,Packaging,Unit,2000,10,1.97
+MAT609,Hexane (Technical),Solvent,Litre,1200,10,2.11
+MAT610,Acrylic Emulsion,Resin,KG,400,10,12.11
+MAT611,Heptane (Pure),Solvent,Litre,500,7,6.48
+MAT612,Polyester Polymer,Resin,KG,1000,21,13.15
+MAT613,Ultra Black Paste,Pigment,KG,100,28,18.79
+MAT614,Premium Magenta Powder,Pigment,KG,100,14,17.66
+MAT615,Steel Drum 1L,Packaging,Unit,800,14,5.24
+MAT616,Phenolic Binder,Resin,KG,600,10,11.4
+MAT617,Epoxy Binder,Resin,KG,200,21,11.27
+MAT618,Ethyl Acetate (Grade A),Solvent,Litre,1500,10,5.66
+MAT619,Light Magenta Pigment,Pigment,KG,300,7,7.72
+MAT620,Organic Green Powder,Pigment,KG,300,28,3.34
+MAT621,Ultra Orange Paste,Pigment,KG,100,14,10.51
+MAT622,Alkyd Binder,Resin,KG,500,18,12.33
+MAT623,Vinyl Copolymer,Resin,Litre,1000,14,5.94
+MAT624,Ultra Magenta Pigment,Pigment,KG,300,28,15.7
+MAT625,Standard Brown Paste,Pigment,KG,150,14,8.02
+MAT626,Steel Drum 5L,Packaging,Unit,1000,3,10.72
+MAT627,Plastic Drum 2L,Packaging,Unit,1500,3,9.93
+MAT628,Urea Copolymer,Resin,Litre,1000,10,11.41
+MAT629,Inorganic White Oxide,Pigment,KG,500,7,4.68
+MAT630,Alkyd Resin,Resin,KG,1000,14,9.61
+MAT631,Polyurethane Copolymer,Resin,KG,200,21,3.98
+MAT632,Polyester Resin,Resin,Litre,1000,21,6.57
+MAT633,Light Cyan Paste,Pigment,KG,200,28,3.84
+MAT634,Toluene (Grade A),Solvent,Litre,800,5,2.86
+MAT635,Glass Bottle 5L,Packaging,Unit,300,3,8.95
+MAT636,Ethanol (Grade A),Solvent,Litre,2000,14,1.01
+MAT637,Methanol (Standard),Solvent,Litre,1500,10,7.15
+MAT638,Heptane (Standard),Solvent,Litre,1000,14,6.48
+MAT639,Light Violet Concentrate,Pigment,KG,500,14,7.8
+MAT640,Xylene (Grade A),Solvent,Litre,1500,7,5.22
+MAT641,Dark Cyan Paste,Pigment,KG,150,7,6.69
+MAT642,Glass Bottle 4L,Packaging,Unit,500,7,11.56
+MAT643,Cardboard Box 50L,Packaging,Unit,300,7,8.79
+MAT644,Naphtha (Grade A),Solvent,Litre,800,5,6.47
+MAT645,Synthetic Magenta Concentrate,Pigment,KG,400,21,9.29
+MAT646,Plastic Drum Small,Packaging,Unit,300,3,11.38
+MAT647,Phenolic Polymer,Resin,Litre,200,18,4.2
+MAT648,Acrylic Emulsion,Resin,KG,300,10,9.22
+MAT649,Light White Pigment,Pigment,KG,150,14,15.82
+MAT650,Fiber Drum 200L,Packaging,Unit,1500,14,7.56
+MAT651,Polyester Polymer,Resin,Litre,800,14,5.57
+MAT652,Toluene (Pure),Solvent,Litre,2000,7,4.12
+MAT653,Fiber Drum Small,Packaging,Unit,1000,3,1.9
+MAT654,Xylene (Technical),Solvent,Litre,1000,10,2.69
+MAT655,Melamine Binder,Resin,KG,500,21,8.18
+MAT656,Naphtha (Technical),Solvent,Litre,500,14,2.82
+MAT657,Standard Green Oxide,Pigment,KG,150,21,17.01
+MAT658,Standard Red Powder,Pigment,KG,200,28,19.18
+MAT659,Silicone Copolymer,Resin,Litre,800,21,7.06
+MAT660,Epoxy Hardener,Resin,KG,200,18,14.54
+MAT661,Polyester Copolymer,Resin,Litre,500,10,13.11
+MAT662,Fiber Drum Medium,Packaging,Unit,1000,5,9.72
+MAT663,Light Cyan Paste,Pigment,KG,150,14,6.94
+MAT664,Heptane (Grade A),Solvent,Litre,1000,14,5.64
+MAT665,Polyurethane Resin,Resin,Litre,1000,18,14.48
+MAT666,Vibrant Orange Pigment,Pigment,KG,200,21,4.09
+MAT667,Alkyd Hardener,Resin,KG,1000,18,6.67
+MAT668,Standard Yellow Concentrate,Pigment,KG,300,28,8.78
+MAT669,Metal Can 1L,Packaging,Unit,300,5,10.57
+MAT670,Steel Drum 20L,Packaging,Unit,500,7,2.88
+MAT671,Inorganic Cyan Pigment,Pigment,KG,100,10,14.39
+MAT672,Organic Black Powder,Pigment,KG,200,28,11.54
+MAT673,Alkyd Hardener,Resin,KG,500,18,13.78
+MAT674,Naphtha (Standard),Solvent,Litre,1500,5,6.34
+MAT675,Naphtha (Standard),Solvent,Litre,800,14,2.43
+MAT676,Metal Can 2L,Packaging,Unit,2000,10,7.74
+MAT677,Ethanol (Technical),Solvent,Litre,1000,5,4.22
+MAT678,Hexane (Pure),Solvent,Litre,1500,14,5.86
+MAT679,Glass Bottle 200L,Packaging,Unit,1000,7,6.33
+MAT680,Dark Black Paste,Pigment,KG,600,28,3.16
+MAT681,Vinyl Polymer,Resin,KG,200,10,8.29
+MAT682,Polyester Copolymer,Resin,KG,300,21,6.1
+MAT683,Vinyl Copolymer,Resin,Litre,400,21,3.52
+MAT684,Ethanol (Standard),Solvent,Litre,1200,7,6.12
+MAT685,Plastic Bottle 50L,Packaging,Unit,1500,14,5.24
+MAT686,Vinyl Resin,Resin,Litre,400,18,5.59
+MAT687,Polyester Binder,Resin,KG,800,10,9.74
+MAT688,Metal Can Small,Packaging,Unit,500,5,0.54
+MAT689,Melamine Resin,Resin,KG,300,14,6.55
+MAT690,Glass Bottle 4L,Packaging,Unit,300,7,9.18
+MAT691,Epoxy Resin,Resin,KG,200,18,7.75
+MAT692,Light Blue Powder,Pigment,KG,500,7,4.64
+MAT693,Silicone Copolymer,Resin,Litre,200,10,3.85
+MAT694,Vibrant White Paste,Pigment,KG,300,28,17.49
+MAT695,Acetone (Standard),Solvent,Litre,1500,10,4.85
+MAT696,Synthetic Cyan Paste,Pigment,KG,300,10,2.78
+MAT697,Ethanol (Pure),Solvent,Litre,2000,7,5.31
+MAT698,Silicone Binder,Resin,Litre,400,10,12.9
+MAT699,Premium Red Powder,Pigment,KG,400,7,7.9
+MAT700,Cardboard Box 25L,Packaging,Unit,1500,7,11.44
+MAT701,Plastic Drum Small,Packaging,Unit,500,3,2.14
+MAT702,Steel Drum 20L,Packaging,Unit,500,7,6.17
+MAT703,Plastic Bottle 25L,Packaging,Unit,800,5,10.04
+MAT704,Isopropyl Alcohol (IPA) (Technical),Solvent,Litre,1200,14,2.14
+MAT705,Premium Black Powder,Pigment,KG,400,14,9.7
+MAT706,Epoxy Copolymer,Resin,KG,500,14,10.46
+MAT707,Plastic Drum 500ml,Packaging,Unit,2000,5,5.36
+MAT708,Butyl Acetate (Grade A),Solvent,Litre,1000,7,2.44
+MAT709,Ethanol (Grade A),Solvent,Litre,1500,14,5.7
+MAT710,Ethyl Acetate (Technical),Solvent,Litre,1000,14,6.26
+MAT711,Steel Drum Large,Packaging,Unit,500,5,11.0
+MAT712,Plastic Pail Large,Packaging,Unit,500,3,1.51
+MAT713,Vinyl Binder,Resin,Litre,200,10,5.68
+MAT714,Metal Can 500ml,Packaging,Unit,800,3,4.95
+MAT715,Isopropyl Alcohol (IPA) (Technical),Solvent,Litre,800,5,6.18
+MAT716,Phenolic Emulsion,Resin,Litre,800,14,10.44
+MAT717,White Spirit (Grade A),Solvent,Litre,2000,14,3.08
+MAT718,Polyurethane Binder,Resin,KG,500,18,10.96
+MAT719,Vinyl Emulsion,Resin,Litre,400,14,6.39
+MAT720,Melamine Resin,Resin,Litre,800,10,9.55
+MAT721,Cyclohexane (Technical),Solvent,Litre,1500,14,7.63
+MAT722,Melamine Emulsion,Resin,KG,1000,18,11.97
+MAT723,Fiber Drum Small,Packaging,Unit,2000,10,8.5
+MAT724,Premium Red Concentrate,Pigment,KG,300,7,11.98
+MAT725,Acetone (Technical),Solvent,Litre,1200,5,6.88
+MAT726,Polyester Polymer,Resin,KG,300,14,12.04
+MAT727,Alkyd Binder,Resin,KG,600,18,12.78
+MAT728,Glycol Ether (Standard),Solvent,Litre,1500,10,6.06
+MAT729,Alkyd Binder,Resin,KG,400,10,11.21
+MAT730,Polyurethane Copolymer,Resin,Litre,1000,10,12.91
+MAT731,Ethanol (Pure),Solvent,Litre,500,5,1.11
+MAT732,Methyl Ethyl Ketone (MEK) (Standard),Solvent,Litre,1000,5,3.97
+MAT733,Urea Resin,Resin,KG,300,14,14.44
+MAT734,Acrylic Polymer,Resin,KG,400,21,14.23
+MAT735,Light Green Oxide,Pigment,KG,500,7,6.93
+MAT736,Toluene (Standard),Solvent,Litre,1000,7,3.6
+MAT737,Ultra Magenta Pigment,Pigment,KG,600,7,17.64
+MAT738,Ultra Black Pigment,Pigment,KG,150,14,10.45
+MAT739,Pure Magenta Powder,Pigment,KG,300,10,11.24
+MAT740,Vinyl Binder,Resin,Litre,300,18,6.86
+MAT741,Naphtha (Grade A),Solvent,Litre,1500,14,5.13
+MAT742,Xylene (Pure),Solvent,Litre,2000,14,7.49
+MAT743,Acetone (Pure),Solvent,Litre,1000,7,1.08
+MAT744,Premium White Concentrate,Pigment,KG,400,28,16.26
+MAT745,Fiber Drum 1L,Packaging,Unit,800,14,9.97
+MAT746,Isopropyl Alcohol (IPA) (Standard),Solvent,Litre,1500,5,3.17
+MAT747,Plastic Drum 25L,Packaging,Unit,500,3,4.48
+MAT748,Naphtha (Standard),Solvent,Litre,500,5,3.15
+MAT749,Plastic Bottle 5L,Packaging,Unit,1000,5,4.67
+MAT750,Silicone Resin,Resin,KG,600,10,8.02
+MAT751,Xylene (Pure),Solvent,Litre,2000,5,7.01
+MAT752,Silicone Resin,Resin,Litre,1000,21,12.11
+MAT753,Ultra Brown Concentrate,Pigment,KG,600,28,9.69
+MAT754,Cardboard Box 4L,Packaging,Unit,1500,3,8.97
+MAT755,Standard Black Paste,Pigment,KG,150,7,8.54
+MAT756,Urea Hardener,Resin,Litre,300,14,10.8
+MAT757,Ethanol (Technical),Solvent,Litre,500,7,5.25
+MAT758,Silicone Polymer,Resin,KG,400,14,6.02
+MAT759,Glass Bottle 25L,Packaging,Unit,800,14,5.15
+MAT760,Premium Green Powder,Pigment,KG,150,10,5.5
+MAT761,Acrylic Hardener,Resin,KG,800,10,10.76
+MAT762,Plastic Bottle Large,Packaging,Unit,300,14,1.67
+MAT763,Dark Violet Oxide,Pigment,KG,100,28,9.36
+MAT764,Synthetic Orange Oxide,Pigment,KG,100,28,16.09
+MAT765,Epoxy Hardener,Resin,KG,400,10,8.19
+MAT766,Inorganic Magenta Oxide,Pigment,KG,300,7,15.3
+MAT767,Light Violet Pigment,Pigment,KG,400,7,17.8
+MAT768,Synthetic Green Pigment,Pigment,KG,600,28,5.71
+MAT769,Melamine Copolymer,Resin,KG,400,18,4.37
+MAT770,Melamine Emulsion,Resin,KG,300,21,3.98
+MAT771,Melamine Binder,Resin,KG,500,21,10.96
+MAT772,Standard Blue Concentrate,Pigment,KG,400,21,19.95
+MAT773,Naphtha (Grade A),Solvent,Litre,1000,10,1.49
+MAT774,Phenolic Hardener,Resin,KG,800,21,8.84
+MAT775,Plastic Drum 200L,Packaging,Unit,800,7,4.74
+MAT776,Epoxy Resin,Resin,Litre,1000,21,4.6
+MAT777,Plastic Bottle 50L,Packaging,Unit,1000,3,7.13
+MAT778,Dark Cyan Paste,Pigment,KG,100,14,14.25
+MAT779,Steel Drum Large,Packaging,Unit,800,10,2.58
+MAT780,Cardboard Box Large,Packaging,Unit,500,3,3.32
+MAT781,Isopropyl Alcohol (IPA) (Grade A),Solvent,Litre,800,14,6.97
+MAT782,Ultra Cyan Paste,Pigment,KG,150,28,15.04
+MAT783,Phenolic Hardener,Resin,KG,600,18,13.41
+MAT784,Urea Binder,Resin,KG,1000,21,4.39
+MAT785,Acrylic Binder,Resin,KG,300,18,11.08
+MAT786,Metal Can 10L,Packaging,Unit,300,7,11.29
+MAT787,Epoxy Polymer,Resin,KG,500,10,11.49
+MAT788,Organic Orange Oxide,Pigment,KG,600,28,16.76
+MAT789,Glass Bottle 20L,Packaging,Unit,2000,10,9.35
+MAT790,Steel Drum 500ml,Packaging,Unit,1000,3,5.73
+MAT791,Polyester Copolymer,Resin,KG,400,18,9.91
+MAT792,Cardboard Box 1L,Packaging,Unit,2000,3,10.81
+MAT793,Hexane (Standard),Solvent,Litre,1500,10,7.97
+MAT794,Acrylic Emulsion,Resin,Litre,400,10,10.13
+MAT795,Cardboard Box Small,Packaging,Unit,1000,10,4.12
+MAT796,White Spirit (Standard),Solvent,Litre,1500,7,1.04
+MAT797,Isopropyl Alcohol (IPA) (Pure),Solvent,Litre,1500,5,1.91
+MAT798,Plastic Drum Small,Packaging,Unit,1500,7,5.05
+MAT799,Vinyl Hardener,Resin,Litre,800,18,12.29
+MAT800,Epoxy Binder,Resin,Litre,1000,18,9.38
+MAT801,Alkyd Hardener,Resin,Litre,600,10,8.13
+MAT802,Heptane (Standard),Solvent,Litre,1500,5,6.3
+MAT803,Methyl Ethyl Ketone (MEK) (Technical),Solvent,Litre,1500,10,5.05
+MAT804,Plastic Drum 20L,Packaging,Unit,800,5,4.3
+MAT805,Inorganic Green Concentrate,Pigment,KG,300,10,13.87
+MAT806,Pure Yellow Pigment,Pigment,KG,500,14,19.11
+MAT807,Standard Magenta Oxide,Pigment,KG,600,14,5.43
+MAT808,Dark Brown Powder,Pigment,KG,600,7,13.85
+MAT809,Polyester Hardener,Resin,KG,1000,21,8.26
+MAT810,Steel Drum 10L,Packaging,Unit,2000,5,8.11
+MAT811,Standard Yellow Oxide,Pigment,KG,100,14,14.74
+MAT812,Glass Bottle 10L,Packaging,Unit,1000,7,7.78
+MAT813,Acrylic Copolymer,Resin,KG,800,14,14.1
+MAT814,Phenolic Binder,Resin,Litre,400,14,11.58
+MAT815,Light Cyan Pigment,Pigment,KG,300,21,6.81
+MAT816,Silicone Copolymer,Resin,KG,1000,21,5.76
+MAT817,Dark Violet Pigment,Pigment,KG,200,14,3.03
+MAT818,Epoxy Resin,Resin,Litre,1000,18,12.42
+MAT819,Polyurethane Binder,Resin,KG,600,18,8.05
+MAT820,Pure Green Powder,Pigment,KG,150,10,9.78
+MAT821,Acrylic Hardener,Resin,Litre,300,14,14.34
+MAT822,Steel Drum 5L,Packaging,Unit,1000,7,11.83
+MAT823,Light Violet Paste,Pigment,KG,600,14,8.21
+MAT824,Fiber Drum 25L,Packaging,Unit,1000,5,3.3
+MAT825,Organic Yellow Concentrate,Pigment,KG,150,21,5.07
+MAT826,Cardboard Box 25L,Packaging,Unit,2000,5,10.0
+MAT827,Cyclohexane (Technical),Solvent,Litre,2000,5,4.35
+MAT828,Phenolic Polymer,Resin,Litre,400,21,6.65
+MAT829,Silicone Resin,Resin,KG,1000,18,7.02
+MAT830,Dark Cyan Concentrate,Pigment,KG,150,7,5.84
+MAT831,Standard Green Paste,Pigment,KG,100,10,7.99
+MAT832,Ethyl Acetate (Pure),Solvent,Litre,1500,5,6.36
+MAT833,Steel Drum 200L,Packaging,Unit,800,14,6.03
+MAT834,Metal Can Medium,Packaging,Unit,1000,7,8.0
+MAT835,Synthetic Blue Paste,Pigment,KG,200,7,11.49
+MAT836,Fiber Drum Large,Packaging,Unit,300,3,2.35
+MAT837,Xylene (Grade A),Solvent,Litre,1200,7,7.09
+MAT838,Polyurethane Binder,Resin,KG,200,10,11.11
+MAT839,Polyester Binder,Resin,KG,800,18,6.02
+MAT840,Ultra Blue Concentrate,Pigment,KG,500,7,16.25
+MAT841,Plastic Drum 200L,Packaging,Unit,800,7,4.25
+MAT842,Glycol Ether (Grade A),Solvent,Litre,1500,7,7.92
+MAT843,Heptane (Pure),Solvent,Litre,2000,5,7.12
+MAT844,Glycol Ether (Technical),Solvent,Litre,1200,5,5.36
+MAT845,Acrylic Resin,Resin,Litre,500,10,6.17
+MAT846,Metal Can 500ml,Packaging,Unit,1500,3,3.74
+MAT847,Plastic Pail Small,Packaging,Unit,1500,7,3.09
+MAT848,Xylene (Pure),Solvent,Litre,1500,5,6.41
+MAT849,Dark Blue Oxide,Pigment,KG,600,7,14.82
+MAT850,Standard Blue Concentrate,Pigment,KG,200,28,15.85
+MAT851,Plastic Bottle 500ml,Packaging,Unit,800,10,8.14
+MAT852,Plastic Pail Medium,Packaging,Unit,1500,10,3.56
+MAT853,Organic Brown Pigment,Pigment,KG,300,14,15.69
+MAT854,Metal Can Medium,Packaging,Unit,300,14,1.61
+MAT855,Light Violet Powder,Pigment,KG,500,21,9.15
+MAT856,Plastic Pail 2L,Packaging,Unit,800,7,7.92
+MAT857,Pure Black Concentrate,Pigment,KG,600,10,8.07
+MAT858,Synthetic White Pigment,Pigment,KG,100,14,9.83
+MAT859,Metal Can 5L,Packaging,Unit,800,5,8.11
+MAT860,Ethyl Acetate (Standard),Solvent,Litre,1000,5,5.57
+MAT861,Cardboard Box Medium,Packaging,Unit,500,14,10.65
+MAT862,Cardboard Box 200L,Packaging,Unit,300,7,4.28
+MAT863,Organic Cyan Pigment,Pigment,KG,100,21,13.4
+MAT864,Alkyd Emulsion,Resin,Litre,400,14,4.41
+MAT865,Cyclohexane (Grade A),Solvent,Litre,800,7,7.94
+MAT866,Light Violet Oxide,Pigment,KG,300,21,5.39
+MAT867,Hexane (Standard),Solvent,Litre,2000,5,4.13
+MAT868,Alkyd Emulsion,Resin,Litre,800,14,11.11
+MAT869,Polyurethane Emulsion,Resin,KG,400,21,12.9
+MAT870,Epoxy Hardener,Resin,Litre,200,10,6.37
+MAT871,Methyl Ethyl Ketone (MEK) (Pure),Solvent,Litre,800,14,6.3
+MAT872,Plastic Bottle 20L,Packaging,Unit,300,3,8.84
+MAT873,Naphtha (Grade A),Solvent,Litre,500,14,6.82
+MAT874,Vinyl Polymer,Resin,KG,200,21,6.81
+MAT875,Naphtha (Technical),Solvent,Litre,2000,14,6.14
+MAT876,Inorganic Violet Pigment,Pigment,KG,150,28,8.71
+MAT877,Cyclohexane (Pure),Solvent,Litre,1200,10,7.52
+MAT878,Plastic Drum 10L,Packaging,Unit,800,5,6.86
+MAT879,Metal Can 25L,Packaging,Unit,800,14,9.43
+MAT880,Vinyl Copolymer,Resin,Litre,400,10,10.23
+MAT881,Vibrant Magenta Oxide,Pigment,KG,100,21,13.3
+MAT882,Cyclohexane (Standard),Solvent,Litre,1200,10,2.21
+MAT883,Hexane (Pure),Solvent,Litre,1500,5,6.73
+MAT884,Melamine Emulsion,Resin,KG,1000,14,4.08
+MAT885,Metal Can Medium,Packaging,Unit,300,14,7.48
+MAT886,Vibrant Cyan Oxide,Pigment,KG,400,7,3.84
+MAT887,Xylene (Standard),Solvent,Litre,2000,10,1.36
+MAT888,Urea Copolymer,Resin,KG,800,10,7.62
+MAT889,Ultra Green Concentrate,Pigment,KG,600,28,9.23
+MAT890,Inorganic Violet Powder,Pigment,KG,300,28,18.84
+MAT891,Dark Brown Oxide,Pigment,KG,150,28,7.96
+MAT892,Polyester Hardener,Resin,Litre,300,14,7.32
+MAT893,Dark Orange Powder,Pigment,KG,600,14,3.27
+MAT894,Acetone (Pure),Solvent,Litre,1000,14,4.85
+MAT895,Plastic Pail Medium,Packaging,Unit,1500,14,4.67
+MAT896,Methyl Ethyl Ketone (MEK) (Grade A),Solvent,Litre,1000,14,6.25
+MAT897,Urea Polymer,Resin,KG,1000,18,6.81
+MAT898,Plastic Drum Medium,Packaging,Unit,2000,10,5.2
+MAT899,Glass Bottle Large,Packaging,Unit,500,7,3.01
+MAT900,Plastic Bottle Small,Packaging,Unit,300,14,10.09
+MAT901,Hexane (Standard),Solvent,Litre,1000,10,5.45
+MAT902,Synthetic Cyan Oxide,Pigment,KG,150,28,16.17
+MAT903,Cyclohexane (Technical),Solvent,Litre,1000,7,2.03
+MAT904,Ultra Violet Oxide,Pigment,KG,400,21,9.13
+MAT905,Butyl Acetate (Standard),Solvent,Litre,800,7,2.75
+MAT906,Melamine Copolymer,Resin,Litre,500,14,7.24
+MAT907,Glycol Ether (Pure),Solvent,Litre,800,10,5.99
+MAT908,Steel Drum 4L,Packaging,Unit,300,3,2.77
+MAT909,Cardboard Box 25L,Packaging,Unit,2000,7,11.38
+MAT910,Cardboard Box 20L,Packaging,Unit,800,14,11.89
+MAT911,Heptane (Standard),Solvent,Litre,1200,10,4.22
+MAT912,Epoxy Hardener,Resin,KG,200,18,4.26
+MAT913,Inorganic Yellow Pigment,Pigment,KG,300,10,5.49
+MAT914,Plastic Bottle 50L,Packaging,Unit,500,5,1.28
+MAT915,Silicone Resin,Resin,KG,800,18,10.43
+MAT916,Urea Hardener,Resin,KG,400,10,13.1
+MAT917,Dark Orange Pigment,Pigment,KG,500,10,18.71
+MAT918,Acrylic Polymer,Resin,KG,400,21,10.1
+MAT919,Alkyd Copolymer,Resin,KG,300,21,3.63
+MAT920,Plastic Drum 200L,Packaging,Unit,1000,10,4.95
+MAT921,Butyl Acetate (Technical),Solvent,Litre,800,10,4.75
+MAT922,Glycol Ether (Standard),Solvent,Litre,2000,10,1.35
+MAT923,Fiber Drum Small,Packaging,Unit,300,14,4.02
+MAT924,Fiber Drum 25L,Packaging,Unit,1500,5,1.42
+MAT925,Cardboard Box Large,Packaging,Unit,1000,14,1.28
+MAT926,Cardboard Box 200L,Packaging,Unit,1500,10,6.06
+MAT927,Synthetic Yellow Paste,Pigment,KG,200,28,12.51
+MAT928,Fiber Drum Small,Packaging,Unit,1000,14,2.05
+MAT929,Polyurethane Emulsion,Resin,Litre,300,10,13.01
+MAT930,Alkyd Emulsion,Resin,KG,400,14,14.72
+MAT931,Cardboard Box 4L,Packaging,Unit,1000,10,1.73
+MAT932,Isopropyl Alcohol (IPA) (Technical),Solvent,Litre,2000,14,5.71
+MAT933,Organic Brown Paste,Pigment,KG,150,10,3.29
+MAT934,Toluene (Pure),Solvent,Litre,1500,7,5.7
+MAT935,Standard Cyan Pigment,Pigment,KG,150,21,19.6
+MAT936,Alkyd Resin,Resin,KG,600,18,6.83
+MAT937,Standard Magenta Paste,Pigment,KG,150,10,13.33
+MAT938,Metal Can 20L,Packaging,Unit,1500,7,3.56
+MAT939,Ethyl Acetate (Grade A),Solvent,Litre,1200,10,1.11
+MAT940,Epoxy Resin,Resin,KG,500,21,6.88
+MAT941,Fiber Drum 200L,Packaging,Unit,500,5,10.43
+MAT942,Plastic Drum 200L,Packaging,Unit,800,5,8.18
+MAT943,Synthetic Green Oxide,Pigment,KG,200,7,19.02
+MAT944,Standard White Paste,Pigment,KG,500,21,15.95
+MAT945,Pure Cyan Pigment,Pigment,KG,400,7,13.91
+MAT946,Methanol (Technical),Solvent,Litre,1500,7,1.85
+MAT947,Melamine Emulsion,Resin,Litre,300,10,14.18
+MAT948,Metal Can Medium,Packaging,Unit,500,3,7.59
+MAT949,Standard Yellow Paste,Pigment,KG,150,7,14.27
+MAT950,Glass Bottle 10L,Packaging,Unit,800,5,8.07
+MAT951,Acrylic Copolymer,Resin,KG,500,10,10.13
+MAT952,Dark Violet Concentrate,Pigment,KG,150,28,13.02
+MAT953,Acrylic Emulsion,Resin,Litre,800,21,13.29
+MAT954,Organic White Concentrate,Pigment,KG,300,7,7.89
+MAT955,Organic Yellow Oxide,Pigment,KG,500,14,6.94
+MAT956,Inorganic Yellow Concentrate,Pigment,KG,200,21,8.16
+MAT957,Dark Orange Paste,Pigment,KG,100,7,10.56
+MAT958,Plastic Pail 5L,Packaging,Unit,1500,7,5.0
+MAT959,Glass Bottle Small,Packaging,Unit,2000,7,0.3
+MAT960,Isopropyl Alcohol (IPA) (Grade A),Solvent,Litre,1200,10,2.04
+MAT961,Silicone Copolymer,Resin,KG,500,18,13.84
+MAT962,Ultra Brown Oxide,Pigment,KG,400,28,9.3
+MAT963,Light Orange Pigment,Pigment,KG,300,21,4.19
+MAT964,Ethyl Acetate (Pure),Solvent,Litre,2000,14,3.83
+MAT965,Urea Hardener,Resin,Litre,800,18,12.84
+MAT966,Vinyl Resin,Resin,KG,300,10,13.38
+MAT967,Fiber Drum 2L,Packaging,Unit,300,7,8.94
+MAT968,Organic Yellow Pigment,Pigment,KG,600,21,9.95
+MAT969,Butyl Acetate (Pure),Solvent,Litre,1500,10,2.31
+MAT970,Metal Can 10L,Packaging,Unit,1000,10,6.06
+MAT971,Ultra Magenta Powder,Pigment,KG,300,10,11.66
+MAT972,Naphtha (Pure),Solvent,Litre,1000,5,4.79
+MAT973,Glass Bottle 2L,Packaging,Unit,800,10,5.85
+MAT974,Toluene (Pure),Solvent,Litre,800,7,6.74
+MAT975,Acrylic Hardener,Resin,KG,800,14,10.38
+MAT976,Pure Red Powder,Pigment,KG,200,21,15.28
+MAT977,Plastic Bottle Small,Packaging,Unit,1500,10,2.52
+MAT978,Polyester Polymer,Resin,Litre,400,18,13.98
+MAT979,Vinyl Resin,Resin,KG,200,10,11.57
+MAT980,Organic White Paste,Pigment,KG,200,7,14.33
+MAT981,Polyester Resin,Resin,KG,600,18,7.16
+MAT982,Glycol Ether (Grade A),Solvent,Litre,800,5,1.43
+MAT983,Acetone (Standard),Solvent,Litre,2000,7,1.43
+MAT984,Metal Can 2L,Packaging,Unit,2000,10,4.99
+MAT985,Toluene (Standard),Solvent,Litre,500,10,1.0
+MAT986,Glycol Ether (Grade A),Solvent,Litre,2000,14,3.78
+MAT987,Plastic Bottle 50L,Packaging,Unit,500,3,11.47
+MAT988,Pure Cyan Pigment,Pigment,KG,600,28,4.45
+MAT989,Ethanol (Grade A),Solvent,Litre,500,14,3.74
+MAT990,Polyurethane Resin,Resin,Litre,400,14,4.17
+MAT991,Dark Blue Pigment,Pigment,KG,400,14,4.54
+MAT992,Plastic Drum 4L,Packaging,Unit,500,10,1.23
+MAT993,Toluene (Grade A),Solvent,Litre,800,14,3.07
+MAT994,Plastic Drum Small,Packaging,Unit,800,10,7.49
+MAT995,Toluene (Technical),Solvent,Litre,500,14,2.41
+MAT996,Acrylic Binder,Resin,Litre,800,21,12.51
+MAT997,Dark Red Oxide,Pigment,KG,150,10,5.6
+MAT998,Phenolic Polymer,Resin,KG,600,14,10.18
+MAT999,Vibrant Cyan Pigment,Pigment,KG,150,28,16.25
+MAT1000,Silicone Resin,Resin,Litre,600,21,12.87

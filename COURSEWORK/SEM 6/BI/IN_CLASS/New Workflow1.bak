@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2025.2" RunE2="T">
+  <Nodes>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="101" y="89" width="253" height="165" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Read Single File</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Read Single File</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="1">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="126" y="138" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`</File>
+              <FormatSpecificOptions>
+                <FirstRowData>False</FirstRowData>
+                <ImportLine>1</ImportLine>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>ORDER_2016.xlsx
+Query=`Sheet1$`</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <Dependencies>
+              <Implicit />
+            </Dependencies>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Category" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="City" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Country/Region" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Customer Name" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Discount" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="Order ID" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Postal Code" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Product Name" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_WString" />
+                <Field name="Profit" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="Quantity" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="Region" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Sales" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="Segment" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Ship Mode" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="State" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Sub-Category" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="OrderDate" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="Date" />
+                <Field name="ShipDate" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="Date" />
+                <Field name="Days to Ship Scheduled" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="2">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="270" y="138" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\Iman\AppData\Local\Temp\Alteryx\Engine_18440_fe8630acb8ca4e7c8e26e7e7d6956d4e_\Engine_18440_606eb3388a9b4a7e9bd595b8acd580cc~.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Profile</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="101" y="329" width="289" height="165" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Read Multiple File</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="True" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Read Multiple File</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="4">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="306" y="378" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\Iman\AppData\Local\Temp\Alteryx\Engine_8364_8108818e1ca54ec2822e5e87d186312b_\Engine_8364_862c1d2c558e46ca9a33b83531c6518e~.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Profile</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="3">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="126" y="378" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_*.xlsx|||`Sheet1$`</File>
+              <FormatSpecificOptions>
+                <FirstRowData>False</FirstRowData>
+                <ImportLine>1</ImportLine>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>ORDER_*.xlsx
+Query=`Sheet1$`</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Category" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="City" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Country/Region" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Customer Name" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Discount" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="Order ID" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Postal Code" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Product Name" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_WString" />
+                <Field name="Profit" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="Quantity" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="Region" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Sales" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="Segment" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Ship Mode" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="State" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Sub-Category" size="255" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="OrderDate" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="Date" />
+                <Field name="ShipDate" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="Date" />
+                <Field name="Days to Ship Scheduled" source="File: C:\Users\Iman\Desktop\Lab 1 Dataset-20260408\ORDER_2016.xlsx|||`Sheet1$`" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <DefaultTZ value="Local" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>New Workflow1</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="eddfd1d8-1a77-411a-b67c-4184d17c0e6a" />
+      <Telemetry>
+        <PreviousWorkflowId value="fc542bd6-555e-4772-bdcc-c44cc9736cc4" />
+        <OriginWorkflowId value="fc542bd6-555e-4772-bdcc-c44cc9736cc4" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

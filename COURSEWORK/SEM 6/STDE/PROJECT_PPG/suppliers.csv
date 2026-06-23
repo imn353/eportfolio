@@ -1,0 +1,1001 @@
+supplier_id,supplier_name,country,reliability_rating
+SUP001,ChemBase Sdn Bhd,Malaysia,High
+SUP002,SinoCoat Materials Co,China,Medium
+SUP003,Resin Tech Asia,Singapore,High
+SUP004,PackPro Solutions,Malaysia,High
+SUP005,Solvent King Pte Ltd,Singapore,Medium
+SUP006,Global Pigments Ltd,India,Medium
+SUP007,EuroChem Imports,Germany,High
+SUP008,Apex Packaging Sdn Bhd,Malaysia,High
+SUP009,Pacific Solvents Inc,Thailand,Low
+SUP010,Polymer Source Ltd,South Korea,Medium
+SUP011,United Advanced Materials Ltd,Japan,Medium
+SUP012,United Industries Ltd,Japan,High
+SUP013,Matrix Coatings Corp,Germany,Low
+SUP014,Pinnacle Solvents Pte Ltd,Germany,Medium
+SUP015,Beacon Synthetics Sdn Bhd,Malaysia,Medium
+SUP016,Quantum Source Corp,Singapore,High
+SUP017,Imperial Coatings Inc,Singapore,Medium
+SUP018,Inter Pigments Pte Ltd,India,Low
+SUP019,Elite Packaging Pte Ltd,Germany,High
+SUP020,Starlight Advanced Materials Co,South Korea,Medium
+SUP021,Matrix Advanced Materials Ltd,Malaysia,High
+SUP022,Matrix Polymers Pte Ltd,Thailand,High
+SUP023,Apex Synthetics Pte Ltd,Indonesia,Medium
+SUP024,Elite Source Corp,South Korea,Medium
+SUP025,Matrix Source Inc,China,Medium
+SUP026,Centurion Organics Sdn Bhd,Malaysia,High
+SUP027,Inter Chem Co,Japan,High
+SUP028,Dynamic Supply Ltd,Singapore,Medium
+SUP029,Horizon Materials Pte Ltd,Vietnam,Low
+SUP030,Inter Pack Co,China,High
+SUP031,Sigma Resins Ltd,Japan,High
+SUP032,Nexus Chem Ltd,Germany,Low
+SUP033,Nexus Chem Inc,Indonesia,High
+SUP034,Elite Pigments Ltd,Vietnam,Medium
+SUP035,Beacon Materials Co,Singapore,High
+SUP036,United Supply Co,India,Low
+SUP037,Sigma Pigments Inc,Taiwan,High
+SUP038,Vortex Pigments Ltd,Singapore,High
+SUP039,Global Materials Inc,Vietnam,High
+SUP040,Starlight Synthetics Co,India,Medium
+SUP041,Dynamic Pigments Corp,Malaysia,High
+SUP042,Core Organics Sdn Bhd,Singapore,High
+SUP043,Matrix Packaging Corp,Germany,Medium
+SUP044,Quantum Synthetics Ltd,Thailand,High
+SUP045,Centurion Packaging Co,Malaysia,High
+SUP046,Beacon Synthetics Corp,South Korea,High
+SUP047,Titan Resins Sdn Bhd,Japan,High
+SUP048,Titan Chemicals Pte Ltd,Thailand,High
+SUP049,Alpha Chem Ltd,China,Medium
+SUP050,Beacon Solvents Co,South Korea,Medium
+SUP051,Core Supply Corp,Japan,High
+SUP052,Global Solvents Corp,Taiwan,Medium
+SUP053,Infinity Chem Sdn Bhd,Taiwan,High
+SUP054,Nexus Polymers Ltd,Indonesia,Medium
+SUP055,National Pigments Co,Vietnam,Medium
+SUP056,United Pack Sdn Bhd,Taiwan,High
+SUP057,Summit Materials Ltd,South Korea,Medium
+SUP058,Beacon Source Sdn Bhd,India,Medium
+SUP059,Global Chem Corp,Germany,Low
+SUP060,Core Packaging Sdn Bhd,Singapore,Medium
+SUP061,Infinity Coatings Co,Japan,High
+SUP062,Alpha Industries Sdn Bhd,Japan,Medium
+SUP063,Summit Coatings Sdn Bhd,China,High
+SUP064,Zenith Chemicals Corp,Singapore,Medium
+SUP065,Inter Polymers Sdn Bhd,India,High
+SUP066,Delta Source Co,Japan,Medium
+SUP067,United Coatings Sdn Bhd,Malaysia,Medium
+SUP068,Core Solutions Corp,Thailand,Low
+SUP069,National Pack Ltd,Taiwan,Medium
+SUP070,Alpha Advanced Materials Sdn Bhd,Germany,High
+SUP071,Infinity Polymers Ltd,Malaysia,High
+SUP072,Pinnacle Solutions Inc,Thailand,High
+SUP073,Inter Resins Inc,Malaysia,Medium
+SUP074,Nexus Chem Co,Germany,High
+SUP075,Alpha Coatings Pte Ltd,Vietnam,High
+SUP076,Omega Coatings Corp,Japan,High
+SUP077,Prime Chemicals Ltd,Indonesia,Medium
+SUP078,Titan Pack Sdn Bhd,Vietnam,Medium
+SUP079,Infinity Pigments Inc,Indonesia,Medium
+SUP080,Nexus Organics Co,Indonesia,High
+SUP081,Apex Organics Co,Malaysia,High
+SUP082,Pinnacle Advanced Materials Co,China,High
+SUP083,Sigma Supply Co,Indonesia,Medium
+SUP084,Omega Industries Co,Germany,Medium
+SUP085,Delta Synthetics Co,Germany,High
+SUP086,Pacific Organics Co,Singapore,Medium
+SUP087,Imperial Source Inc,China,Medium
+SUP088,National Supply Ltd,Indonesia,High
+SUP089,Horizon Packaging Co,Germany,High
+SUP090,Beacon Chem Pte Ltd,Thailand,Medium
+SUP091,Matrix Organics Inc,Malaysia,Low
+SUP092,United Resins Corp,South Korea,High
+SUP093,Beacon Source Ltd,Germany,High
+SUP094,Elite Resins Sdn Bhd,India,High
+SUP095,Infinity Source Inc,South Korea,High
+SUP096,Horizon Materials Corp,Germany,Medium
+SUP097,Imperial Materials Pte Ltd,Singapore,Medium
+SUP098,Alpha Resins Inc,India,Medium
+SUP099,Infinity Chemicals Sdn Bhd,Taiwan,Medium
+SUP100,Pinnacle Coatings Co,Malaysia,High
+SUP101,National Industries Inc,Singapore,Medium
+SUP102,Matrix Materials Ltd,China,High
+SUP103,Zenith Coatings Sdn Bhd,Indonesia,High
+SUP104,Beacon Materials Pte Ltd,China,High
+SUP105,United Polymers Pte Ltd,Germany,High
+SUP106,Dynamic Polymers Sdn Bhd,Germany,Low
+SUP107,Apex Materials Inc,Vietnam,Medium
+SUP108,Nexus Supply Ltd,India,High
+SUP109,United Resins Co,Malaysia,Medium
+SUP110,Sigma Coatings Sdn Bhd,Malaysia,Medium
+SUP111,Imperial Source Sdn Bhd,Thailand,High
+SUP112,National Supply Co,Vietnam,Medium
+SUP113,Inter Pigments Co,India,Medium
+SUP114,Prime Source Inc,Germany,High
+SUP115,Summit Polymers Inc,South Korea,Medium
+SUP116,United Organics Inc,Indonesia,Low
+SUP117,Elite Resins Ltd,South Korea,Medium
+SUP118,Dynamic Advanced Materials Co,Vietnam,Medium
+SUP119,Pinnacle Supply Inc,Thailand,High
+SUP120,Vortex Pack Pte Ltd,Vietnam,Medium
+SUP121,Beacon Chemicals Inc,Germany,High
+SUP122,Alpha Supply Sdn Bhd,India,High
+SUP123,Starlight Synthetics Corp,South Korea,High
+SUP124,Beacon Pigments Corp,Singapore,High
+SUP125,Zenith Pack Inc,Vietnam,Medium
+SUP126,Summit Supply Sdn Bhd,Japan,Medium
+SUP127,Delta Solvents Pte Ltd,Germany,High
+SUP128,Delta Industries Co,Germany,High
+SUP129,National Advanced Materials Sdn Bhd,Malaysia,Medium
+SUP130,Alpha Coatings Sdn Bhd,Taiwan,High
+SUP131,Infinity Pack Corp,Japan,Medium
+SUP132,Matrix Resins Sdn Bhd,India,Low
+SUP133,Omega Supply Sdn Bhd,Malaysia,High
+SUP134,Vortex Source Inc,Singapore,Medium
+SUP135,Zenith Resins Sdn Bhd,China,High
+SUP136,Zenith Organics Inc,South Korea,High
+SUP137,Omega Chem Pte Ltd,Malaysia,High
+SUP138,Beacon Supply Inc,Malaysia,High
+SUP139,Infinity Solvents Co,Malaysia,Medium
+SUP140,Horizon Solvents Ltd,Germany,Medium
+SUP141,Delta Resins Pte Ltd,Indonesia,High
+SUP142,Delta Solutions Sdn Bhd,Malaysia,Low
+SUP143,Vortex Polymers Corp,Malaysia,Medium
+SUP144,Global Pack Pte Ltd,Indonesia,Medium
+SUP145,Omega Coatings Ltd,China,Medium
+SUP146,Omega Synthetics Inc,Taiwan,High
+SUP147,Infinity Advanced Materials Inc,Germany,Medium
+SUP148,Starlight Chemicals Corp,China,Medium
+SUP149,Prime Chemicals Co,Vietnam,Medium
+SUP150,Centurion Advanced Materials Co,South Korea,Medium
+SUP151,Titan Resins Inc,India,High
+SUP152,Titan Materials Sdn Bhd,India,High
+SUP153,Global Solvents Inc,China,High
+SUP154,Dynamic Industries Ltd,Singapore,Medium
+SUP155,Sigma Source Ltd,Thailand,Medium
+SUP156,Apex Pack Co,Japan,High
+SUP157,Nexus Resins Pte Ltd,Indonesia,High
+SUP158,Delta Solvents Sdn Bhd,Germany,High
+SUP159,Beacon Solutions Pte Ltd,Malaysia,Medium
+SUP160,Vortex Packaging Pte Ltd,Vietnam,High
+SUP161,Omega Advanced Materials Corp,Taiwan,Low
+SUP162,Titan Polymers Sdn Bhd,Japan,Medium
+SUP163,Imperial Advanced Materials Corp,Indonesia,Medium
+SUP164,Elite Chemicals Inc,Indonesia,High
+SUP165,Centurion Pigments Ltd,South Korea,Medium
+SUP166,Prime Organics Pte Ltd,Indonesia,High
+SUP167,Sigma Resins Co,Indonesia,Medium
+SUP168,Titan Pigments Corp,Indonesia,Medium
+SUP169,Summit Supply Inc,India,High
+SUP170,Quantum Coatings Sdn Bhd,China,High
+SUP171,Prime Chemicals Sdn Bhd,Singapore,High
+SUP172,Horizon Solvents Co,Indonesia,Medium
+SUP173,Core Organics Corp,Germany,Low
+SUP174,Delta Solvents Corp,South Korea,High
+SUP175,Dynamic Packaging Ltd,Singapore,High
+SUP176,Horizon Polymers Corp,China,Medium
+SUP177,Dynamic Polymers Corp,Thailand,High
+SUP178,Centurion Solvents Ltd,Vietnam,Medium
+SUP179,Dynamic Pack Pte Ltd,Singapore,Medium
+SUP180,Horizon Solvents Pte Ltd,Thailand,Medium
+SUP181,Imperial Chem Co,Malaysia,Medium
+SUP182,Alpha Solutions Corp,Germany,Medium
+SUP183,Apex Organics Ltd,Singapore,High
+SUP184,Zenith Materials Inc,South Korea,Medium
+SUP185,Global Organics Pte Ltd,India,High
+SUP186,Horizon Packaging Sdn Bhd,Vietnam,Medium
+SUP187,Titan Resins Corp,China,High
+SUP188,Centurion Industries Sdn Bhd,China,High
+SUP189,Nexus Chem Corp,Japan,Medium
+SUP190,Horizon Solutions Co,Singapore,High
+SUP191,Horizon Solutions Pte Ltd,India,High
+SUP192,Quantum Pack Corp,Singapore,Medium
+SUP193,Prime Chemicals Corp,Germany,Low
+SUP194,National Pigments Ltd,Thailand,Low
+SUP195,United Pack Pte Ltd,India,Medium
+SUP196,Alpha Pigments Ltd,India,Low
+SUP197,Summit Chem Inc,Germany,Medium
+SUP198,Alpha Polymers Corp,China,Medium
+SUP199,Core Materials Sdn Bhd,Thailand,Medium
+SUP200,Prime Polymers Inc,Japan,Medium
+SUP201,Prime Pack Inc,India,Medium
+SUP202,Global Polymers Co,Indonesia,High
+SUP203,Horizon Industries Corp,Indonesia,High
+SUP204,Pacific Pack Pte Ltd,Taiwan,High
+SUP205,Vortex Pack Corp,China,Medium
+SUP206,Prime Pack Co,Taiwan,Low
+SUP207,Apex Source Co,Germany,Low
+SUP208,Matrix Materials Sdn Bhd,Indonesia,High
+SUP209,National Solutions Sdn Bhd,Thailand,Low
+SUP210,Alpha Solutions Inc,Germany,High
+SUP211,Apex Chem Corp,South Korea,High
+SUP212,Prime Advanced Materials Sdn Bhd,Germany,High
+SUP213,Imperial Packaging Ltd,India,Medium
+SUP214,Dynamic Solvents Pte Ltd,South Korea,High
+SUP215,Global Supply Ltd,Taiwan,High
+SUP216,Pacific Chem Sdn Bhd,Taiwan,Medium
+SUP217,Starlight Supply Sdn Bhd,India,High
+SUP218,Imperial Pack Sdn Bhd,South Korea,Medium
+SUP219,Vortex Supply Inc,Japan,Medium
+SUP220,Alpha Solutions Ltd,China,Medium
+SUP221,Starlight Supply Pte Ltd,Thailand,Medium
+SUP222,Apex Chem Inc,South Korea,Low
+SUP223,Quantum Materials Ltd,China,High
+SUP224,Matrix Chem Sdn Bhd,South Korea,High
+SUP225,Sigma Pack Corp,Vietnam,Medium
+SUP226,Prime Pack Pte Ltd,Singapore,High
+SUP227,Elite Solutions Ltd,India,Low
+SUP228,Omega Solutions Pte Ltd,South Korea,Medium
+SUP229,Alpha Source Inc,Singapore,Medium
+SUP230,Starlight Chemicals Sdn Bhd,Germany,High
+SUP231,Quantum Chemicals Ltd,South Korea,High
+SUP232,Imperial Resins Inc,Thailand,Medium
+SUP233,Inter Chemicals Inc,Singapore,Low
+SUP234,Omega Synthetics Sdn Bhd,Indonesia,Medium
+SUP235,Core Solutions Sdn Bhd,China,High
+SUP236,Vortex Pigments Sdn Bhd,Thailand,Medium
+SUP237,Elite Polymers Pte Ltd,Indonesia,Low
+SUP238,Global Resins Ltd,Thailand,Low
+SUP239,Delta Materials Co,Vietnam,High
+SUP240,Pacific Synthetics Inc,Indonesia,High
+SUP241,Core Solvents Ltd,Japan,High
+SUP242,Vortex Pigments Pte Ltd,Malaysia,High
+SUP243,Starlight Solutions Pte Ltd,Thailand,Medium
+SUP244,National Polymers Ltd,Indonesia,High
+SUP245,Dynamic Pack Ltd,India,Medium
+SUP246,United Pack Ltd,Thailand,High
+SUP247,Prime Resins Sdn Bhd,Indonesia,High
+SUP248,Imperial Coatings Co,Taiwan,Medium
+SUP249,Core Organics Ltd,China,Medium
+SUP250,Global Packaging Sdn Bhd,Japan,Medium
+SUP251,Summit Industries Pte Ltd,Vietnam,High
+SUP252,Nexus Resins Co,Singapore,High
+SUP253,Global Synthetics Ltd,Germany,High
+SUP254,Core Supply Inc,Malaysia,Low
+SUP255,Infinity Pack Inc,Malaysia,Medium
+SUP256,Omega Source Corp,Japan,High
+SUP257,Summit Synthetics Ltd,Indonesia,High
+SUP258,Beacon Advanced Materials Pte Ltd,South Korea,Low
+SUP259,Prime Pigments Sdn Bhd,Singapore,Low
+SUP260,Zenith Pigments Ltd,China,Medium
+SUP261,United Supply Corp,Japan,High
+SUP262,Starlight Organics Pte Ltd,Singapore,Medium
+SUP263,Matrix Synthetics Sdn Bhd,India,Medium
+SUP264,Summit Organics Pte Ltd,Malaysia,Medium
+SUP265,Quantum Synthetics Corp,China,High
+SUP266,Quantum Chemicals Corp,Taiwan,Medium
+SUP267,Vortex Coatings Ltd,South Korea,High
+SUP268,Titan Synthetics Sdn Bhd,Japan,High
+SUP269,Summit Materials Corp,Vietnam,High
+SUP270,Imperial Resins Sdn Bhd,Malaysia,High
+SUP271,Horizon Source Sdn Bhd,Germany,Low
+SUP272,Inter Advanced Materials Sdn Bhd,Vietnam,Medium
+SUP273,Pinnacle Resins Inc,Germany,High
+SUP274,Pacific Pigments Corp,Japan,High
+SUP275,Vortex Chemicals Sdn Bhd,South Korea,Low
+SUP276,Core Pack Co,Thailand,Medium
+SUP277,Vortex Solutions Pte Ltd,Taiwan,High
+SUP278,Beacon Packaging Sdn Bhd,Indonesia,Medium
+SUP279,Pacific Resins Inc,Thailand,Low
+SUP280,Titan Packaging Ltd,India,Low
+SUP281,Core Materials Ltd,China,High
+SUP282,Titan Coatings Ltd,Thailand,Medium
+SUP283,Prime Packaging Co,Germany,High
+SUP284,Inter Coatings Ltd,Vietnam,High
+SUP285,Global Synthetics Pte Ltd,Vietnam,High
+SUP286,Summit Resins Ltd,Taiwan,High
+SUP287,Starlight Advanced Materials Corp,Japan,Medium
+SUP288,Infinity Solvents Inc,Germany,Low
+SUP289,National Coatings Pte Ltd,Japan,Medium
+SUP290,Vortex Chem Corp,Japan,Medium
+SUP291,Matrix Chem Ltd,Taiwan,High
+SUP292,Vortex Industries Inc,Vietnam,Low
+SUP293,Apex Solvents Co,South Korea,Medium
+SUP294,Vortex Materials Pte Ltd,Taiwan,High
+SUP295,Elite Organics Inc,South Korea,High
+SUP296,Vortex Solutions Ltd,Malaysia,Medium
+SUP297,Matrix Chemicals Co,Japan,Medium
+SUP298,Infinity Solvents Ltd,South Korea,Medium
+SUP299,Global Advanced Materials Corp,Germany,High
+SUP300,Apex Polymers Pte Ltd,India,High
+SUP301,Titan Synthetics Corp,Malaysia,Medium
+SUP302,Pinnacle Polymers Ltd,Singapore,Medium
+SUP303,Pinnacle Pigments Inc,Taiwan,Medium
+SUP304,Prime Advanced Materials Ltd,Taiwan,Medium
+SUP305,Beacon Chemicals Corp,China,Low
+SUP306,Titan Coatings Inc,Vietnam,High
+SUP307,Sigma Industries Co,China,Medium
+SUP308,Imperial Industries Ltd,Singapore,Low
+SUP309,Pinnacle Advanced Materials Inc,Taiwan,Low
+SUP310,National Resins Ltd,Taiwan,High
+SUP311,Starlight Solvents Pte Ltd,Singapore,High
+SUP312,Summit Synthetics Pte Ltd,Taiwan,Low
+SUP313,Elite Supply Inc,Germany,High
+SUP314,Core Solutions Pte Ltd,India,High
+SUP315,Elite Advanced Materials Sdn Bhd,South Korea,High
+SUP316,Pinnacle Polymers Sdn Bhd,Thailand,High
+SUP317,Starlight Chemicals Ltd,Malaysia,High
+SUP318,Zenith Solutions Corp,Taiwan,Medium
+SUP319,Alpha Solvents Sdn Bhd,Japan,Medium
+SUP320,National Packaging Sdn Bhd,Vietnam,Medium
+SUP321,Prime Source Corp,Thailand,High
+SUP322,Alpha Materials Pte Ltd,Malaysia,Medium
+SUP323,Alpha Packaging Inc,Malaysia,Medium
+SUP324,Beacon Pigments Pte Ltd,Thailand,Medium
+SUP325,Elite Advanced Materials Pte Ltd,Indonesia,High
+SUP326,Titan Pack Ltd,Singapore,Medium
+SUP327,Inter Solvents Sdn Bhd,South Korea,Medium
+SUP328,Inter Synthetics Pte Ltd,India,High
+SUP329,Core Pigments Ltd,India,Medium
+SUP330,Pacific Coatings Sdn Bhd,Indonesia,High
+SUP331,Zenith Synthetics Co,Vietnam,Medium
+SUP332,Beacon Solutions Co,Japan,Medium
+SUP333,Delta Synthetics Pte Ltd,Thailand,Medium
+SUP334,Omega Resins Sdn Bhd,Taiwan,Medium
+SUP335,Quantum Coatings Inc,Thailand,High
+SUP336,Alpha Pigments Co,Malaysia,Medium
+SUP337,Beacon Resins Co,India,Medium
+SUP338,Zenith Supply Ltd,Vietnam,High
+SUP339,Delta Chemicals Co,China,Medium
+SUP340,Apex Solvents Pte Ltd,Singapore,Medium
+SUP341,Omega Synthetics Ltd,China,Medium
+SUP342,Prime Chem Ltd,Indonesia,Medium
+SUP343,Infinity Materials Co,China,High
+SUP344,Horizon Solvents Inc,Vietnam,High
+SUP345,Centurion Pigments Sdn Bhd,India,Medium
+SUP346,Pacific Supply Ltd,Vietnam,Low
+SUP347,Global Coatings Inc,Germany,High
+SUP348,Matrix Synthetics Co,South Korea,High
+SUP349,Dynamic Materials Ltd,Thailand,High
+SUP350,Quantum Materials Co,Vietnam,High
+SUP351,Imperial Pack Ltd,Malaysia,High
+SUP352,Omega Industries Inc,Germany,Medium
+SUP353,Titan Supply Co,Japan,Medium
+SUP354,Prime Solvents Co,Taiwan,High
+SUP355,Zenith Solutions Pte Ltd,Vietnam,Medium
+SUP356,Imperial Chem Ltd,Thailand,High
+SUP357,Core Resins Sdn Bhd,Malaysia,Medium
+SUP358,Pinnacle Materials Co,Germany,High
+SUP359,Core Industries Corp,China,High
+SUP360,Summit Pigments Ltd,China,High
+SUP361,Sigma Pack Pte Ltd,Germany,High
+SUP362,Matrix Solvents Inc,Thailand,High
+SUP363,Alpha Industries Pte Ltd,China,High
+SUP364,Beacon Pack Sdn Bhd,Taiwan,Low
+SUP365,Elite Polymers Sdn Bhd,Malaysia,High
+SUP366,Infinity Solutions Inc,Germany,Medium
+SUP367,Starlight Chemicals Pte Ltd,Thailand,High
+SUP368,Alpha Packaging Sdn Bhd,Vietnam,High
+SUP369,Inter Industries Co,China,High
+SUP370,Elite Polymers Corp,Singapore,Medium
+SUP371,Zenith Organics Sdn Bhd,South Korea,High
+SUP372,Dynamic Chem Corp,Thailand,Medium
+SUP373,Delta Advanced Materials Sdn Bhd,Indonesia,High
+SUP374,Delta Chem Sdn Bhd,Malaysia,High
+SUP375,Pacific Industries Ltd,Japan,Medium
+SUP376,Inter Coatings Inc,Indonesia,Low
+SUP377,Global Solvents Co,Germany,Medium
+SUP378,Summit Synthetics Inc,China,Medium
+SUP379,Prime Synthetics Co,Taiwan,Medium
+SUP380,Pacific Solutions Pte Ltd,Taiwan,Medium
+SUP381,Delta Industries Inc,Vietnam,Medium
+SUP382,National Advanced Materials Co,Germany,High
+SUP383,National Chemicals Corp,India,High
+SUP384,Imperial Solutions Ltd,Singapore,Medium
+SUP385,Quantum Polymers Corp,China,High
+SUP386,Vortex Polymers Pte Ltd,Vietnam,Medium
+SUP387,United Synthetics Pte Ltd,South Korea,Medium
+SUP388,United Supply Pte Ltd,Indonesia,Low
+SUP389,Imperial Polymers Corp,South Korea,Medium
+SUP390,Pinnacle Organics Pte Ltd,Taiwan,High
+SUP391,Omega Packaging Pte Ltd,Vietnam,Medium
+SUP392,Centurion Materials Sdn Bhd,Indonesia,High
+SUP393,Apex Polymers Co,South Korea,Medium
+SUP394,Zenith Polymers Pte Ltd,Malaysia,High
+SUP395,Horizon Advanced Materials Sdn Bhd,Singapore,Medium
+SUP396,Alpha Supply Corp,Germany,Medium
+SUP397,Starlight Pigments Ltd,Indonesia,High
+SUP398,Vortex Chemicals Ltd,South Korea,Medium
+SUP399,Nexus Materials Corp,South Korea,Medium
+SUP400,Dynamic Pigments Co,Singapore,Medium
+SUP401,Pacific Materials Inc,India,High
+SUP402,Alpha Polymers Ltd,Vietnam,High
+SUP403,Core Solvents Sdn Bhd,South Korea,High
+SUP404,Titan Chemicals Co,Germany,High
+SUP405,Delta Pack Corp,Japan,Medium
+SUP406,Beacon Coatings Corp,Thailand,High
+SUP407,Pinnacle Chemicals Corp,Malaysia,Low
+SUP408,Pinnacle Polymers Inc,Vietnam,High
+SUP409,Quantum Source Co,Malaysia,High
+SUP410,Horizon Pack Co,Malaysia,Medium
+SUP411,Zenith Pack Sdn Bhd,Germany,Medium
+SUP412,Pacific Chemicals Inc,India,High
+SUP413,Zenith Organics Pte Ltd,Vietnam,High
+SUP414,Dynamic Coatings Co,South Korea,Low
+SUP415,Zenith Solvents Ltd,Thailand,High
+SUP416,Omega Resins Co,Indonesia,Medium
+SUP417,Titan Materials Corp,China,Medium
+SUP418,Centurion Materials Corp,Thailand,High
+SUP419,United Solutions Sdn Bhd,Germany,High
+SUP420,Core Chemicals Ltd,China,Low
+SUP421,Zenith Materials Sdn Bhd,China,High
+SUP422,Omega Chem Co,Malaysia,Medium
+SUP423,Omega Solutions Inc,India,Medium
+SUP424,Vortex Chemicals Inc,China,Medium
+SUP425,Vortex Solutions Co,China,High
+SUP426,Pacific Industries Corp,China,Medium
+SUP427,Global Materials Sdn Bhd,China,High
+SUP428,Zenith Advanced Materials Sdn Bhd,South Korea,High
+SUP429,Nexus Packaging Co,Singapore,High
+SUP430,Infinity Chem Co,India,Low
+SUP431,Titan Resins Co,India,High
+SUP432,Horizon Coatings Ltd,Thailand,Medium
+SUP433,Horizon Resins Corp,South Korea,High
+SUP434,Core Solvents Inc,Indonesia,Medium
+SUP435,Centurion Pigments Inc,Malaysia,High
+SUP436,Beacon Organics Inc,Germany,Medium
+SUP437,Vortex Polymers Sdn Bhd,Singapore,High
+SUP438,Dynamic Polymers Pte Ltd,India,High
+SUP439,Zenith Pack Ltd,Vietnam,Medium
+SUP440,Quantum Organics Sdn Bhd,Vietnam,High
+SUP441,Centurion Packaging Sdn Bhd,Malaysia,Medium
+SUP442,Infinity Chem Pte Ltd,China,High
+SUP443,Starlight Pack Inc,Taiwan,High
+SUP444,Matrix Pack Sdn Bhd,Malaysia,High
+SUP445,Centurion Organics Ltd,Germany,Medium
+SUP446,Matrix Industries Sdn Bhd,Singapore,High
+SUP447,Centurion Supply Inc,India,Medium
+SUP448,Dynamic Advanced Materials Ltd,South Korea,Medium
+SUP449,National Industries Pte Ltd,Germany,Medium
+SUP450,Omega Pack Pte Ltd,Thailand,High
+SUP451,Infinity Supply Sdn Bhd,Vietnam,High
+SUP452,Apex Polymers Corp,Vietnam,Medium
+SUP453,Beacon Materials Inc,India,High
+SUP454,Matrix Chemicals Corp,Germany,Low
+SUP455,Infinity Chemicals Ltd,Indonesia,High
+SUP456,Matrix Packaging Sdn Bhd,Japan,High
+SUP457,Starlight Synthetics Ltd,Malaysia,Medium
+SUP458,Nexus Pigments Sdn Bhd,Vietnam,Medium
+SUP459,Delta Organics Corp,Germany,Low
+SUP460,Elite Pack Corp,South Korea,High
+SUP461,Dynamic Industries Sdn Bhd,Thailand,Medium
+SUP462,Delta Advanced Materials Co,Taiwan,Low
+SUP463,Prime Synthetics Inc,Thailand,Medium
+SUP464,Alpha Coatings Corp,Singapore,High
+SUP465,United Synthetics Sdn Bhd,Germany,High
+SUP466,Quantum Source Sdn Bhd,Germany,Medium
+SUP467,Apex Pack Ltd,Indonesia,Medium
+SUP468,Summit Materials Inc,South Korea,Medium
+SUP469,Global Packaging Inc,Vietnam,Medium
+SUP470,Omega Materials Pte Ltd,Indonesia,High
+SUP471,Titan Solutions Corp,Vietnam,Low
+SUP472,Summit Industries Ltd,South Korea,High
+SUP473,National Resins Pte Ltd,India,High
+SUP474,Apex Materials Corp,Singapore,High
+SUP475,Pacific Pack Inc,Indonesia,Medium
+SUP476,Titan Pigments Co,Singapore,High
+SUP477,Infinity Polymers Corp,Japan,Medium
+SUP478,Zenith Supply Corp,Singapore,High
+SUP479,Vortex Synthetics Corp,Indonesia,Medium
+SUP480,Apex Source Inc,India,High
+SUP481,Titan Chem Pte Ltd,India,High
+SUP482,Starlight Advanced Materials Ltd,Vietnam,Low
+SUP483,Vortex Chem Sdn Bhd,Thailand,Medium
+SUP484,Infinity Advanced Materials Ltd,Thailand,Low
+SUP485,Starlight Industries Sdn Bhd,Indonesia,Medium
+SUP486,Summit Materials Pte Ltd,Singapore,High
+SUP487,Titan Organics Corp,Malaysia,Low
+SUP488,National Materials Ltd,Indonesia,Medium
+SUP489,Horizon Supply Inc,Indonesia,Low
+SUP490,Apex Pigments Pte Ltd,Singapore,High
+SUP491,Summit Polymers Corp,Vietnam,High
+SUP492,Centurion Synthetics Pte Ltd,Thailand,High
+SUP493,Nexus Solutions Pte Ltd,Thailand,High
+SUP494,Summit Organics Corp,Vietnam,High
+SUP495,Centurion Industries Co,China,Low
+SUP496,Summit Polymers Pte Ltd,Malaysia,Medium
+SUP497,Pacific Advanced Materials Pte Ltd,Japan,Medium
+SUP498,Centurion Advanced Materials Inc,Indonesia,Medium
+SUP499,Centurion Solutions Sdn Bhd,Germany,Low
+SUP500,Zenith Resins Ltd,South Korea,High
+SUP501,Centurion Supply Ltd,Singapore,Low
+SUP502,Pinnacle Packaging Sdn Bhd,China,Medium
+SUP503,Quantum Pigments Corp,South Korea,Medium
+SUP504,Centurion Chemicals Co,Indonesia,Medium
+SUP505,United Supply Sdn Bhd,China,High
+SUP506,Pacific Chemicals Sdn Bhd,Indonesia,High
+SUP507,Global Source Sdn Bhd,China,High
+SUP508,Infinity Source Ltd,South Korea,Medium
+SUP509,Centurion Advanced Materials Corp,Taiwan,High
+SUP510,National Supply Inc,India,Medium
+SUP511,Apex Solutions Co,Thailand,High
+SUP512,Matrix Advanced Materials Corp,India,Medium
+SUP513,Core Packaging Pte Ltd,Indonesia,Medium
+SUP514,Global Coatings Co,Malaysia,High
+SUP515,Nexus Solvents Co,South Korea,Medium
+SUP516,Zenith Industries Ltd,Germany,Low
+SUP517,Matrix Packaging Co,Germany,Medium
+SUP518,Sigma Packaging Corp,Japan,Medium
+SUP519,Starlight Solvents Co,China,High
+SUP520,Nexus Organics Ltd,Taiwan,High
+SUP521,Matrix Solvents Sdn Bhd,Malaysia,High
+SUP522,Matrix Resins Co,Taiwan,High
+SUP523,Pacific Solutions Corp,Singapore,Medium
+SUP524,Pinnacle Industries Corp,South Korea,Low
+SUP525,Vortex Organics Pte Ltd,India,Low
+SUP526,Beacon Resins Sdn Bhd,Singapore,Medium
+SUP527,Summit Chemicals Pte Ltd,Germany,Low
+SUP528,Starlight Packaging Co,Thailand,Medium
+SUP529,National Synthetics Sdn Bhd,Taiwan,Low
+SUP530,Pinnacle Synthetics Sdn Bhd,Germany,High
+SUP531,Omega Coatings Co,Indonesia,High
+SUP532,Starlight Chem Inc,Singapore,High
+SUP533,Inter Advanced Materials Pte Ltd,Indonesia,Medium
+SUP534,Sigma Source Corp,Malaysia,Medium
+SUP535,Infinity Chemicals Pte Ltd,Singapore,Medium
+SUP536,Inter Chem Ltd,India,Medium
+SUP537,Prime Solvents Inc,Singapore,Medium
+SUP538,Delta Solutions Co,India,Medium
+SUP539,United Packaging Ltd,China,Medium
+SUP540,Pacific Chemicals Corp,Thailand,High
+SUP541,Nexus Solutions Ltd,India,High
+SUP542,Matrix Solutions Pte Ltd,Thailand,High
+SUP543,Infinity Solutions Ltd,Singapore,Medium
+SUP544,Inter Organics Corp,Vietnam,High
+SUP545,Sigma Advanced Materials Co,Japan,Medium
+SUP546,Apex Pack Sdn Bhd,Vietnam,High
+SUP547,Centurion Solutions Ltd,Germany,High
+SUP548,Inter Polymers Ltd,India,Medium
+SUP549,Elite Packaging Inc,Malaysia,High
+SUP550,Pinnacle Coatings Ltd,China,Medium
+SUP551,Delta Resins Co,Germany,Medium
+SUP552,Titan Chemicals Sdn Bhd,Japan,Medium
+SUP553,Omega Synthetics Corp,Vietnam,High
+SUP554,Imperial Pack Inc,Singapore,High
+SUP555,Summit Polymers Co,India,High
+SUP556,Vortex Coatings Corp,China,High
+SUP557,Matrix Solvents Corp,Thailand,High
+SUP558,Beacon Pack Ltd,Indonesia,Low
+SUP559,Vortex Supply Ltd,Japan,High
+SUP560,Infinity Organics Co,Japan,Medium
+SUP561,Pacific Supply Corp,Malaysia,High
+SUP562,Dynamic Chem Pte Ltd,South Korea,Medium
+SUP563,Titan Materials Ltd,Thailand,Low
+SUP564,Inter Resins Sdn Bhd,Vietnam,Medium
+SUP565,Delta Pigments Sdn Bhd,South Korea,High
+SUP566,Dynamic Solutions Ltd,Taiwan,High
+SUP567,Elite Organics Sdn Bhd,Japan,High
+SUP568,Pinnacle Pack Inc,Germany,High
+SUP569,Infinity Chem Inc,Indonesia,Low
+SUP570,Vortex Advanced Materials Sdn Bhd,India,Medium
+SUP571,Global Polymers Corp,Malaysia,High
+SUP572,Titan Chem Co,Indonesia,High
+SUP573,Inter Materials Pte Ltd,Singapore,Medium
+SUP574,Quantum Solutions Pte Ltd,Singapore,Low
+SUP575,Summit Pigments Co,Singapore,Medium
+SUP576,Core Chemicals Inc,Thailand,Medium
+SUP577,Matrix Chemicals Sdn Bhd,Vietnam,High
+SUP578,Nexus Industries Sdn Bhd,South Korea,Medium
+SUP579,Beacon Resins Inc,Malaysia,High
+SUP580,Summit Solvents Co,Germany,Medium
+SUP581,Zenith Polymers Ltd,South Korea,Medium
+SUP582,Pacific Synthetics Pte Ltd,Singapore,High
+SUP583,Pinnacle Advanced Materials Sdn Bhd,South Korea,High
+SUP584,Infinity Polymers Co,Malaysia,Medium
+SUP585,Global Resins Co,Germany,Medium
+SUP586,Alpha Advanced Materials Co,Singapore,High
+SUP587,Starlight Coatings Ltd,Taiwan,High
+SUP588,Titan Supply Corp,Germany,Medium
+SUP589,Infinity Synthetics Corp,Malaysia,High
+SUP590,Titan Organics Pte Ltd,Germany,High
+SUP591,Centurion Coatings Ltd,India,High
+SUP592,Elite Industries Ltd,Indonesia,High
+SUP593,Pacific Advanced Materials Inc,Indonesia,Low
+SUP594,Horizon Materials Co,Germany,High
+SUP595,Pacific Polymers Pte Ltd,Vietnam,Low
+SUP596,Vortex Advanced Materials Corp,India,High
+SUP597,Infinity Polymers Inc,Germany,High
+SUP598,Omega Coatings Pte Ltd,China,High
+SUP599,Elite Synthetics Inc,Taiwan,Medium
+SUP600,National Chem Co,Japan,Low
+SUP601,Vortex Advanced Materials Pte Ltd,Taiwan,High
+SUP602,Titan Coatings Co,China,Medium
+SUP603,Summit Resins Inc,Japan,High
+SUP604,Omega Chemicals Ltd,Thailand,Medium
+SUP605,Pinnacle Industries Co,Germany,Medium
+SUP606,Imperial Packaging Corp,Indonesia,Low
+SUP607,Titan Source Co,India,Medium
+SUP608,Sigma Polymers Corp,Taiwan,High
+SUP609,Centurion Advanced Materials Ltd,Taiwan,Low
+SUP610,Delta Solutions Ltd,China,High
+SUP611,Prime Advanced Materials Co,South Korea,Low
+SUP612,Infinity Packaging Co,Malaysia,Medium
+SUP613,Alpha Pack Ltd,Thailand,High
+SUP614,Horizon Organics Corp,South Korea,High
+SUP615,Omega Industries Ltd,Thailand,Medium
+SUP616,Global Packaging Ltd,Japan,Medium
+SUP617,Prime Coatings Ltd,China,Medium
+SUP618,Titan Pack Corp,South Korea,High
+SUP619,Apex Resins Sdn Bhd,Germany,High
+SUP620,Nexus Chemicals Sdn Bhd,China,High
+SUP621,Apex Solvents Ltd,Singapore,Medium
+SUP622,Global Organics Inc,Singapore,Medium
+SUP623,Sigma Chemicals Pte Ltd,Thailand,High
+SUP624,Global Organics Co,China,High
+SUP625,Matrix Solutions Corp,South Korea,Low
+SUP626,United Pigments Sdn Bhd,Malaysia,Medium
+SUP627,Delta Organics Inc,Singapore,High
+SUP628,Summit Supply Corp,Indonesia,Medium
+SUP629,Starlight Solutions Co,Germany,Medium
+SUP630,Omega Polymers Inc,Taiwan,Medium
+SUP631,Zenith Synthetics Corp,China,High
+SUP632,Global Industries Sdn Bhd,Malaysia,High
+SUP633,Titan Solvents Sdn Bhd,South Korea,Medium
+SUP634,Horizon Synthetics Sdn Bhd,Taiwan,Medium
+SUP635,Global Synthetics Co,India,Low
+SUP636,National Organics Ltd,Malaysia,High
+SUP637,Centurion Synthetics Ltd,Germany,High
+SUP638,Sigma Chem Co,Taiwan,Medium
+SUP639,Sigma Materials Inc,Germany,Medium
+SUP640,Horizon Chem Co,Taiwan,Low
+SUP641,Prime Packaging Inc,India,Medium
+SUP642,Pinnacle Resins Pte Ltd,Malaysia,High
+SUP643,Infinity Pigments Co,Vietnam,High
+SUP644,Pinnacle Packaging Co,South Korea,Medium
+SUP645,Zenith Resins Inc,India,Medium
+SUP646,Infinity Packaging Sdn Bhd,Thailand,High
+SUP647,Centurion Chem Co,South Korea,Medium
+SUP648,Global Packaging Co,China,Medium
+SUP649,Pacific Synthetics Co,Germany,Medium
+SUP650,Delta Industries Ltd,Vietnam,Medium
+SUP651,Omega Materials Inc,Germany,Medium
+SUP652,Vortex Resins Corp,Japan,Medium
+SUP653,Titan Polymers Corp,Indonesia,High
+SUP654,Nexus Advanced Materials Corp,Malaysia,Low
+SUP655,Imperial Industries Sdn Bhd,India,High
+SUP656,Beacon Solvents Sdn Bhd,India,High
+SUP657,Infinity Advanced Materials Sdn Bhd,Japan,High
+SUP658,Pinnacle Materials Ltd,Vietnam,High
+SUP659,Pacific Pigments Inc,Vietnam,Medium
+SUP660,Beacon Pigments Co,Vietnam,High
+SUP661,Delta Polymers Inc,South Korea,Medium
+SUP662,National Packaging Ltd,Japan,Medium
+SUP663,Summit Pack Inc,Thailand,High
+SUP664,Matrix Coatings Inc,Vietnam,Low
+SUP665,Sigma Synthetics Pte Ltd,India,Low
+SUP666,Inter Resins Co,China,Medium
+SUP667,Starlight Packaging Sdn Bhd,Taiwan,Medium
+SUP668,United Materials Sdn Bhd,Indonesia,Medium
+SUP669,Dynamic Organics Inc,Japan,Medium
+SUP670,Prime Industries Ltd,Malaysia,High
+SUP671,Imperial Solvents Corp,Vietnam,Medium
+SUP672,Inter Solutions Pte Ltd,Indonesia,High
+SUP673,Horizon Packaging Ltd,Japan,High
+SUP674,Global Advanced Materials Inc,Indonesia,Medium
+SUP675,Horizon Solvents Corp,Thailand,Medium
+SUP676,Elite Materials Corp,Singapore,High
+SUP677,Matrix Synthetics Inc,Taiwan,Medium
+SUP678,Titan Source Ltd,China,Medium
+SUP679,Inter Source Co,Singapore,High
+SUP680,Zenith Solvents Co,Singapore,Medium
+SUP681,Dynamic Source Pte Ltd,China,Medium
+SUP682,Vortex Materials Corp,India,High
+SUP683,Core Synthetics Sdn Bhd,Germany,High
+SUP684,Horizon Materials Ltd,Germany,High
+SUP685,Starlight Pack Pte Ltd,South Korea,Medium
+SUP686,Core Resins Ltd,Vietnam,High
+SUP687,Pinnacle Organics Inc,Indonesia,Low
+SUP688,Alpha Pigments Sdn Bhd,Singapore,High
+SUP689,Delta Coatings Ltd,Malaysia,High
+SUP690,Beacon Solutions Sdn Bhd,China,Low
+SUP691,Imperial Polymers Sdn Bhd,China,Low
+SUP692,Beacon Organics Co,India,High
+SUP693,Core Industries Sdn Bhd,Vietnam,High
+SUP694,Global Organics Sdn Bhd,India,Medium
+SUP695,United Advanced Materials Pte Ltd,Japan,High
+SUP696,Imperial Advanced Materials Pte Ltd,India,High
+SUP697,Matrix Packaging Ltd,South Korea,High
+SUP698,Prime Coatings Inc,Malaysia,High
+SUP699,Centurion Pack Inc,India,Medium
+SUP700,Centurion Materials Co,Singapore,Medium
+SUP701,Titan Organics Inc,Germany,Medium
+SUP702,Summit Solvents Inc,Vietnam,Low
+SUP703,United Pigments Corp,Germany,High
+SUP704,Nexus Advanced Materials Co,Thailand,Medium
+SUP705,Apex Advanced Materials Sdn Bhd,Germany,Medium
+SUP706,Infinity Solutions Sdn Bhd,Taiwan,Low
+SUP707,Apex Pigments Corp,Germany,Medium
+SUP708,Matrix Supply Ltd,South Korea,Medium
+SUP709,Inter Supply Ltd,Indonesia,High
+SUP710,Titan Polymers Co,Vietnam,High
+SUP711,Horizon Solvents Sdn Bhd,Malaysia,Medium
+SUP712,National Polymers Sdn Bhd,Vietnam,High
+SUP713,Global Pack Ltd,Thailand,Low
+SUP714,Summit Supply Pte Ltd,Taiwan,High
+SUP715,Titan Synthetics Inc,South Korea,Medium
+SUP716,Titan Coatings Pte Ltd,India,Medium
+SUP717,Apex Supply Ltd,Taiwan,Medium
+SUP718,Alpha Solutions Pte Ltd,South Korea,High
+SUP719,Alpha Supply Ltd,Germany,Medium
+SUP720,Core Source Corp,Japan,High
+SUP721,Nexus Synthetics Ltd,Taiwan,Medium
+SUP722,Imperial Polymers Co,South Korea,High
+SUP723,Omega Resins Corp,Japan,Low
+SUP724,Zenith Source Ltd,Singapore,High
+SUP725,Infinity Pack Co,Malaysia,Medium
+SUP726,Pacific Chem Inc,Vietnam,Medium
+SUP727,Horizon Chem Corp,China,High
+SUP728,Global Advanced Materials Co,Malaysia,Medium
+SUP729,Omega Pigments Corp,South Korea,High
+SUP730,Omega Materials Sdn Bhd,Vietnam,High
+SUP731,Quantum Supply Pte Ltd,Thailand,Medium
+SUP732,Starlight Packaging Inc,China,Medium
+SUP733,Titan Synthetics Ltd,Singapore,High
+SUP734,Summit Coatings Pte Ltd,Japan,Medium
+SUP735,Core Packaging Corp,India,Medium
+SUP736,Imperial Coatings Pte Ltd,Germany,High
+SUP737,Nexus Solvents Ltd,Indonesia,High
+SUP738,Infinity Solvents Sdn Bhd,Taiwan,High
+SUP739,Starlight Chemicals Inc,India,Low
+SUP740,Core Polymers Pte Ltd,Vietnam,High
+SUP741,Alpha Supply Inc,India,Low
+SUP742,Alpha Materials Co,Vietnam,Medium
+SUP743,Quantum Solvents Corp,Malaysia,High
+SUP744,Core Coatings Co,Taiwan,High
+SUP745,Summit Advanced Materials Co,Taiwan,Medium
+SUP746,Beacon Supply Ltd,Vietnam,Medium
+SUP747,Prime Chem Sdn Bhd,Germany,High
+SUP748,Zenith Coatings Corp,Indonesia,Medium
+SUP749,Infinity Source Pte Ltd,China,Medium
+SUP750,Quantum Solvents Sdn Bhd,South Korea,Medium
+SUP751,Elite Pack Ltd,Indonesia,High
+SUP752,Pacific Industries Sdn Bhd,South Korea,High
+SUP753,Starlight Chem Corp,Germany,Medium
+SUP754,Centurion Chemicals Inc,Indonesia,High
+SUP755,Starlight Industries Inc,China,Medium
+SUP756,Omega Industries Pte Ltd,Vietnam,High
+SUP757,Omega Pigments Inc,Taiwan,High
+SUP758,Sigma Coatings Corp,Thailand,Medium
+SUP759,Alpha Solvents Corp,Germany,High
+SUP760,Horizon Supply Pte Ltd,Germany,Medium
+SUP761,National Coatings Co,Germany,High
+SUP762,Pinnacle Materials Sdn Bhd,Germany,Medium
+SUP763,Beacon Organics Corp,South Korea,Low
+SUP764,Apex Solutions Pte Ltd,Malaysia,Medium
+SUP765,United Source Sdn Bhd,Malaysia,High
+SUP766,Inter Solvents Ltd,Singapore,High
+SUP767,Inter Resins Pte Ltd,South Korea,Medium
+SUP768,Summit Packaging Inc,Germany,High
+SUP769,Elite Advanced Materials Inc,Malaysia,Medium
+SUP770,Delta Chemicals Inc,Thailand,Medium
+SUP771,Omega Chem Corp,Malaysia,High
+SUP772,Quantum Advanced Materials Co,Singapore,High
+SUP773,Inter Materials Co,Taiwan,High
+SUP774,Sigma Advanced Materials Corp,Singapore,High
+SUP775,Starlight Pack Ltd,Vietnam,High
+SUP776,Matrix Advanced Materials Pte Ltd,Malaysia,High
+SUP777,Global Organics Corp,Malaysia,Medium
+SUP778,Infinity Supply Inc,South Korea,High
+SUP779,Horizon Supply Ltd,South Korea,Medium
+SUP780,United Chem Sdn Bhd,Malaysia,Medium
+SUP781,Core Coatings Inc,Germany,High
+SUP782,Omega Packaging Sdn Bhd,Vietnam,Medium
+SUP783,Inter Synthetics Ltd,Thailand,Medium
+SUP784,Elite Chemicals Sdn Bhd,Singapore,High
+SUP785,Elite Pack Pte Ltd,Singapore,High
+SUP786,Global Pack Corp,Thailand,High
+SUP787,Summit Pack Co,India,Medium
+SUP788,Vortex Advanced Materials Co,Taiwan,High
+SUP789,Nexus Coatings Corp,Japan,High
+SUP790,Apex Industries Pte Ltd,Taiwan,Low
+SUP791,Dynamic Chemicals Corp,Malaysia,High
+SUP792,Centurion Advanced Materials Sdn Bhd,India,Medium
+SUP793,United Supply Ltd,Germany,High
+SUP794,Pinnacle Pigments Co,Vietnam,High
+SUP795,Delta Polymers Pte Ltd,Germany,Medium
+SUP796,Quantum Synthetics Pte Ltd,Taiwan,High
+SUP797,Matrix Pack Ltd,Vietnam,High
+SUP798,Core Chemicals Corp,Indonesia,Medium
+SUP799,Prime Source Sdn Bhd,Indonesia,Medium
+SUP800,Pinnacle Supply Corp,Thailand,Medium
+SUP801,Alpha Organics Co,Germany,Medium
+SUP802,Quantum Pigments Inc,India,High
+SUP803,Sigma Solvents Co,Indonesia,Medium
+SUP804,Pinnacle Chem Co,Japan,High
+SUP805,Omega Solvents Inc,Germany,Medium
+SUP806,Prime Resins Co,Japan,Medium
+SUP807,United Pack Inc,Thailand,High
+SUP808,Omega Solvents Ltd,India,Low
+SUP809,Vortex Coatings Inc,Malaysia,Low
+SUP810,Dynamic Industries Corp,Germany,High
+SUP811,Titan Polymers Ltd,Indonesia,Medium
+SUP812,Infinity Resins Inc,Indonesia,High
+SUP813,Quantum Industries Sdn Bhd,India,Medium
+SUP814,Sigma Industries Corp,China,High
+SUP815,Horizon Resins Ltd,Germany,Low
+SUP816,Apex Supply Pte Ltd,India,Low
+SUP817,Zenith Industries Inc,Germany,High
+SUP818,Quantum Chem Co,Malaysia,High
+SUP819,Elite Solutions Pte Ltd,India,Medium
+SUP820,Alpha Industries Co,Japan,Medium
+SUP821,Pacific Coatings Co,Japan,Low
+SUP822,Horizon Supply Corp,China,Low
+SUP823,Beacon Industries Co,Japan,Medium
+SUP824,Matrix Supply Co,India,High
+SUP825,Elite Industries Inc,Taiwan,Medium
+SUP826,Infinity Packaging Ltd,Singapore,High
+SUP827,Quantum Supply Sdn Bhd,Japan,Low
+SUP828,Starlight Pigments Inc,South Korea,High
+SUP829,National Solutions Ltd,China,High
+SUP830,Pinnacle Chemicals Ltd,India,High
+SUP831,Nexus Resins Corp,Vietnam,Low
+SUP832,Matrix Synthetics Ltd,Japan,High
+SUP833,Titan Polymers Inc,India,High
+SUP834,Omega Polymers Pte Ltd,Thailand,Medium
+SUP835,Centurion Chemicals Ltd,Germany,High
+SUP836,Centurion Coatings Co,South Korea,High
+SUP837,Sigma Materials Sdn Bhd,South Korea,High
+SUP838,Centurion Chemicals Sdn Bhd,Thailand,Medium
+SUP839,Infinity Synthetics Sdn Bhd,Indonesia,High
+SUP840,Titan Packaging Co,Indonesia,High
+SUP841,Pinnacle Synthetics Corp,Singapore,Medium
+SUP842,Core Pack Inc,Malaysia,Medium
+SUP843,Pacific Organics Sdn Bhd,Indonesia,Medium
+SUP844,Omega Polymers Co,South Korea,Low
+SUP845,Vortex Solvents Corp,Japan,High
+SUP846,Nexus Coatings Inc,Thailand,Medium
+SUP847,Omega Solvents Corp,Vietnam,Medium
+SUP848,Nexus Materials Ltd,Taiwan,High
+SUP849,Core Resins Corp,India,Medium
+SUP850,Inter Pigments Corp,India,High
+SUP851,Quantum Supply Co,India,Medium
+SUP852,Omega Polymers Sdn Bhd,Malaysia,High
+SUP853,Titan Pack Pte Ltd,Taiwan,High
+SUP854,Beacon Advanced Materials Ltd,South Korea,High
+SUP855,Starlight Source Pte Ltd,Thailand,High
+SUP856,Titan Pigments Inc,China,High
+SUP857,Zenith Organics Ltd,Germany,Medium
+SUP858,Infinity Supply Ltd,India,Medium
+SUP859,Imperial Materials Co,Germany,High
+SUP860,Imperial Chem Sdn Bhd,India,Low
+SUP861,Prime Chem Co,Singapore,Medium
+SUP862,Alpha Organics Corp,Vietnam,Medium
+SUP863,National Industries Ltd,Malaysia,High
+SUP864,Beacon Pack Corp,Thailand,High
+SUP865,Horizon Organics Ltd,Thailand,High
+SUP866,Dynamic Supply Inc,Singapore,High
+SUP867,Matrix Pigments Co,Taiwan,Medium
+SUP868,National Solvents Co,China,Medium
+SUP869,Beacon Supply Sdn Bhd,India,Medium
+SUP870,Elite Coatings Corp,Japan,High
+SUP871,Starlight Chem Pte Ltd,China,Low
+SUP872,Alpha Synthetics Pte Ltd,India,High
+SUP873,Core Packaging Co,Japan,High
+SUP874,Beacon Materials Sdn Bhd,Indonesia,Medium
+SUP875,Nexus Resins Ltd,Indonesia,Low
+SUP876,Titan Advanced Materials Ltd,Vietnam,Medium
+SUP877,Sigma Synthetics Co,South Korea,High
+SUP878,Infinity Chem Corp,Vietnam,Medium
+SUP879,Nexus Supply Co,Thailand,High
+SUP880,Alpha Solvents Inc,Indonesia,High
+SUP881,Summit Resins Corp,Malaysia,High
+SUP882,Core Coatings Corp,Japan,Medium
+SUP883,Nexus Pack Pte Ltd,Indonesia,High
+SUP884,Horizon Organics Inc,South Korea,High
+SUP885,Matrix Industries Co,South Korea,High
+SUP886,Delta Advanced Materials Pte Ltd,South Korea,High
+SUP887,Summit Synthetics Sdn Bhd,South Korea,High
+SUP888,Alpha Materials Corp,Indonesia,Medium
+SUP889,Titan Solvents Ltd,Japan,High
+SUP890,Beacon Organics Sdn Bhd,Thailand,High
+SUP891,Elite Organics Corp,Singapore,High
+SUP892,Prime Organics Sdn Bhd,Germany,High
+SUP893,Starlight Solvents Inc,Thailand,High
+SUP894,Prime Resins Pte Ltd,India,High
+SUP895,Core Polymers Sdn Bhd,Vietnam,Medium
+SUP896,Vortex Pigments Co,South Korea,Medium
+SUP897,Beacon Source Co,Japan,High
+SUP898,Titan Pigments Ltd,China,High
+SUP899,Apex Organics Corp,Indonesia,Medium
+SUP900,Horizon Source Corp,India,Medium
+SUP901,Infinity Source Corp,India,High
+SUP902,Nexus Pack Ltd,Vietnam,High
+SUP903,Global Pack Co,Singapore,High
+SUP904,Summit Source Ltd,Indonesia,High
+SUP905,United Chemicals Ltd,South Korea,Medium
+SUP906,Pacific Solutions Co,India,Medium
+SUP907,Pacific Materials Pte Ltd,Japan,Medium
+SUP908,Imperial Solvents Ltd,Singapore,Medium
+SUP909,Dynamic Supply Co,India,High
+SUP910,National Resins Corp,Japan,Medium
+SUP911,Omega Source Ltd,Taiwan,Medium
+SUP912,Inter Synthetics Corp,Malaysia,High
+SUP913,Sigma Materials Ltd,Germany,High
+SUP914,Sigma Chemicals Inc,Japan,High
+SUP915,Sigma Packaging Sdn Bhd,Singapore,Medium
+SUP916,Global Materials Ltd,Taiwan,High
+SUP917,Delta Organics Sdn Bhd,China,Low
+SUP918,National Coatings Inc,Taiwan,Medium
+SUP919,Pacific Synthetics Ltd,Indonesia,Medium
+SUP920,Matrix Resins Pte Ltd,India,High
+SUP921,Prime Solutions Co,Singapore,High
+SUP922,Delta Resins Ltd,South Korea,High
+SUP923,Imperial Solvents Co,China,High
+SUP924,Infinity Resins Corp,India,Medium
+SUP925,National Chemicals Inc,Taiwan,Medium
+SUP926,Apex Advanced Materials Co,Vietnam,High
+SUP927,National Solvents Corp,India,Medium
+SUP928,Summit Packaging Co,China,High
+SUP929,Imperial Industries Inc,Thailand,Medium
+SUP930,Pinnacle Chemicals Inc,Indonesia,High
+SUP931,United Polymers Ltd,Indonesia,Medium
+SUP932,Nexus Chemicals Ltd,India,High
+SUP933,Global Supply Corp,South Korea,Low
+SUP934,Dynamic Chem Ltd,South Korea,High
+SUP935,Pinnacle Supply Sdn Bhd,Taiwan,Low
+SUP936,Delta Materials Pte Ltd,Indonesia,Medium
+SUP937,Pinnacle Industries Pte Ltd,Taiwan,Low
+SUP938,Quantum Supply Corp,China,Medium
+SUP939,Summit Materials Co,Indonesia,High
+SUP940,Vortex Packaging Corp,Indonesia,High
+SUP941,Omega Source Inc,Thailand,High
+SUP942,Inter Source Pte Ltd,Indonesia,Medium
+SUP943,Pinnacle Pack Sdn Bhd,Indonesia,High
+SUP944,Summit Chemicals Co,South Korea,Medium
+SUP945,Core Chemicals Sdn Bhd,China,High
+SUP946,Pinnacle Resins Co,India,Medium
+SUP947,Elite Resins Pte Ltd,Japan,High
+SUP948,Centurion Solvents Co,India,Medium
+SUP949,Infinity Polymers Sdn Bhd,Malaysia,Medium
+SUP950,Sigma Organics Ltd,Taiwan,Low
+SUP951,Delta Pack Ltd,South Korea,High
+SUP952,Pacific Synthetics Sdn Bhd,South Korea,Medium
+SUP953,United Solutions Co,Malaysia,Medium
+SUP954,Prime Synthetics Pte Ltd,Germany,High
+SUP955,Elite Advanced Materials Ltd,Malaysia,High
+SUP956,National Solutions Corp,South Korea,Medium
+SUP957,Omega Chemicals Inc,Germany,High
+SUP958,Summit Pack Sdn Bhd,India,High
+SUP959,Centurion Industries Inc,Thailand,Medium
+SUP960,Titan Chemicals Inc,India,Medium
+SUP961,Infinity Chem Ltd,Singapore,Medium
+SUP962,Pinnacle Synthetics Co,India,Medium
+SUP963,Vortex Advanced Materials Inc,Thailand,High
+SUP964,Matrix Pack Pte Ltd,Indonesia,High
+SUP965,Beacon Industries Inc,Vietnam,High
+SUP966,National Source Ltd,South Korea,High
+SUP967,Beacon Materials Ltd,Taiwan,High
+SUP968,Dynamic Solvents Corp,India,High
+SUP969,Quantum Chem Ltd,Japan,Medium
+SUP970,Imperial Advanced Materials Ltd,South Korea,High
+SUP971,Dynamic Resins Corp,Germany,High
+SUP972,Summit Organics Sdn Bhd,Thailand,High
+SUP973,Imperial Polymers Ltd,Malaysia,Medium
+SUP974,Omega Packaging Inc,South Korea,High
+SUP975,Dynamic Advanced Materials Sdn Bhd,Indonesia,Medium
+SUP976,Starlight Supply Ltd,India,High
+SUP977,Prime Solutions Sdn Bhd,Singapore,High
+SUP978,Core Advanced Materials Inc,Thailand,Medium
+SUP979,Pacific Materials Corp,Malaysia,Low
+SUP980,Summit Pigments Inc,China,High
+SUP981,Pinnacle Chemicals Co,Malaysia,Medium
+SUP982,United Packaging Inc,Singapore,High
+SUP983,Centurion Polymers Pte Ltd,India,High
+SUP984,Apex Pigments Inc,Malaysia,High
+SUP985,Pacific Synthetics Corp,Singapore,Medium
+SUP986,Horizon Materials Sdn Bhd,Indonesia,Medium
+SUP987,Omega Pigments Sdn Bhd,Thailand,High
+SUP988,Sigma Chem Ltd,Germany,High
+SUP989,Imperial Pigments Inc,Thailand,High
+SUP990,United Industries Pte Ltd,Thailand,High
+SUP991,Alpha Synthetics Ltd,Indonesia,High
+SUP992,Global Chemicals Co,Thailand,High
+SUP993,Horizon Resins Pte Ltd,Germany,Medium
+SUP994,Quantum Pigments Pte Ltd,South Korea,High
+SUP995,Quantum Advanced Materials Ltd,Thailand,High
+SUP996,Pacific Organics Inc,Singapore,Medium
+SUP997,Matrix Advanced Materials Co,Singapore,High
+SUP998,Vortex Pack Inc,Singapore,Medium
+SUP999,Starlight Solutions Inc,Germany,High
+SUP1000,Prime Pigments Corp,China,High

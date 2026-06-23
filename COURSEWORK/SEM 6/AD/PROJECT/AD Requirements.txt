@@ -1,0 +1,43 @@
+Problem Faced:
+Web app preference
+ideas with iOS/android solution is preferable
+
+System Desc:
+Sistem Pembelajaran
+
+Module 1: Attendance System(student)
+- From paper to digital but MS Forms, to MS Power Automate then to Power BI(reporting)
+- 3 separate app, not all can configure Power BI 
+- FireStore as DB, Canva UI
+- Subscription problem, not usable after
+- Lecture key-in attendance (800 student)
+- Academic staff only can access
+- Recurrence semester change, sem1 -> sem2 
+- Extend sem, Tangguh
+- kehadiran, mc, cuti kebenaran(ck)
+- mc and ck count as hadir
+- sheet will be shared later
+
+Module 2: Promotion
+- JAN JUN 26 -> SEM1 
+- JUL DIS 26 -> SEM2
+- Batch processed must be reviewed in case deferred, stopped, continue, expelled (approved by head of program)
+
+Module 3: Lecturer Evaluation 
+- Has calc formula, avg from each class by subject
+- act as gate/barrier before students can get final exam slip
+- KIV
+
+Module 4: Teaching and learning Evaluation (Idea Only)
+- Data form OneNote to our system
+- Access OneNote to evaluate score
+
+Module 5: S.T Exam
+- take data from .mdb file to 
+
+Module 6: Part Time Courses
+- key in details
+- set of rules
+- generate link for students to key in form 
+- generate offer letter
+- send email
